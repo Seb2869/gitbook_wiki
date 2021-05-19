@@ -7,7 +7,6 @@
 * [Farming external projects](what-do-we-do/farming-external-projects.md)
 * [Profit Share pool and FARM tokenomics](what-do-we-do/profit-share-pool-and-farm-tokenomics.md)
 * [420 69 programm](what-do-we-do/420-69-programm.md)
-* [something else?](what-do-we-do/something-else.md)
 
 ## How to use
 
