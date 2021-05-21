@@ -39,6 +39,10 @@
 * [DoHardWork](how-it-works/dohardwork.md)
 * [Weekly Rewards and Emission](how-it-works/weekly-rewards-and-emission.md)
 
+## TheGraph
+
+* [Harvest Finance Subgraph](thegraph/harvest-finance-subgraph.md)
+
 ## Other
 
 ---
@@ -53,4 +57,5 @@
   * [Redmption's Farmers Almanac](articles/redmptions-farmers-almanac.md)
 * [Merchendise](merchendise.md)
 * [Contests](contests.md)
+* [Collabs](collabs.md)
 
