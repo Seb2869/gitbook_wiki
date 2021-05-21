@@ -4,7 +4,7 @@ description: >-
   to high-producing farming opportunities.
 ---
 
-# Intro
+# Welcome
 
 ## 
 
