@@ -33,6 +33,7 @@
   * [Strategies](how-it-works/harvest-contracts/strategies/README.md)
     * [NFT Strategies](how-it-works/harvest-contracts/strategies/nft-strategies.md)
   * [Pools](how-it-works/harvest-contracts/pools.md)
+  * [PS](how-it-works/harvest-contracts/ps.md)
 * [Contract Addresses](how-it-works/contract-addresses-1/README.md)
   * [Ethparser contracts API](how-it-works/contract-addresses-1/contract-addresses.md)
 * [DoHardWork](how-it-works/dohardwork.md)
