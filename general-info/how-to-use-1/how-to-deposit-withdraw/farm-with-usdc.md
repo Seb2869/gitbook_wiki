@@ -1,4 +1,4 @@
-# Farm with USDC
+# \(Old\) Farm with USDC
 
 > **It is an old tutorial**
 
