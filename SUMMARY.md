@@ -2,11 +2,13 @@
 
 * [Intro](README.md)
 
-## What do we do
+## General info <a id="what-do-we-do"></a>
 
-* [Farming external projects](what-do-we-do/farming-external-projects.md)
-* [Profit Share pool and FARM tokenomics](what-do-we-do/profit-share-pool-and-farm-tokenomics.md)
-* [420 69 programm](what-do-we-do/420-69-programm.md)
+* [What do we do](what-do-we-do/what-do-we-do/README.md)
+  * [Yield farming](what-do-we-do/what-do-we-do/farming-external-projects.md)
+  * [FARM token](what-do-we-do/what-do-we-do/profit-share-pool-and-farm-tokenomics.md)
+  * [Profit Sharing pool \(PS\)](what-do-we-do/what-do-we-do/profit-sharing-pool-ps.md)
+  * [420 69 programm](what-do-we-do/what-do-we-do/420-69-programm.md)
 
 ## How to use
 
