@@ -19,6 +19,7 @@
   * [Where trade FARM /bFARM](general-info/how-to-use-1/where-trade-farm-bfarm.md)
 * [FAQ](general-info/faq.md)
 * [Security](general-info/security/README.md)
+  * [Bounty Program](general-info/security/bounty-program.md)
   * [Risks](general-info/security/risks.md)
   * [Audites](general-info/security/audites.md)
   * [Incidents](general-info/security/incidents/README.md)
