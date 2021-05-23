@@ -59,7 +59,7 @@
   * [Core Team](articles/core-team.md)
   * [Podcasts](articles/podcasts.md)
   * [Redmption's Farmers Almanac](articles/redmptions-farmers-almanac.md)
-* [Merchendise](merchendise.md)
+* [Merchandise](merchendise.md)
 * [Contests](contests.md)
 * [Collabs](collabs.md)
 
