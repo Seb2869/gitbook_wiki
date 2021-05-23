@@ -26,6 +26,8 @@
     * [fUSDC/fUSDT Economic Attack Oct 26 2020](general-info/security/incidents/fusdc-fusdt-economic-attack-oct-26-2020.md)
     * [fWETH Withdraw Failure Sept 18 2020](general-info/security/incidents/fweth-withdraw-failure-sept-18-2020.md)
 * [Governance](general-info/governance.md)
+* [History](general-info/history/README.md)
+  * [History of Strategy](general-info/history/history-of-strategy.md)
 
 ## How it works
 
