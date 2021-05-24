@@ -1,4 +1,52 @@
+---
+description: The best places to buy FARM.
+---
+
 # Where trade FARM /bFARM
 
-todo
+## Trade FARM on Decentralized Exchanges
+
+[Buy FARM on Uniswap](https://app.uniswap.org/#/swap)  
+  
+[or why not use Sushiswap to buy FARM?](https://app.sushi.com/swap)  
+  
+[FARM can be traded in Debank](https://debank.com/swap?amount=1&from=eth&to=0xa0246c9032bc3a600820415ae600c6388619a14d)  
+  
+[FARM is also listed for trade on ParaSwap](https://paraswap.io/#/?network=ethereum)
+
+## Trade FARM on BSC
+
+The FARM token address on BSC is 0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743
+
+type this address in the swap field and FARM token will appear. 
+
+[Trade FARM on Anyswap, choose  the BSC chain and search for FARM in the swap](https://anyswap.exchange/swap)  
+  
+[Buy FARM on Pancakeswap](https://exchange.pancakeswap.finance/#/swap)
+
+## Trade FARM on Polygon
+
+[iFARM the interest bearing FARM is available for trade on QuickSwap \(search for iFARM\)](https://quickswap.exchange/#/swap)
+
+## Trade FARM on Regular Exchanges
+
+[You can buy FARM with USDT on gate.io](https://www.gate.io/en/trade/FARM_USDT), [but if you want to buy with ETH on gate.io click here.](https://www.gate.io/en/trade/FARM_ETH)
+
+[FARM is also available for trade on Hotbit with USDT](https://www.hotbit.io/exchange?symbol=FARM_USDT) [and Ethereum](https://www.hotbit.io/exchange?symbol=FARM_ETH)
+
+[You can buy FARM with ETH on Probit](https://www.probit.com/app/exchange/FARM-ETH)
+
+
+
+##  Resources 
+
+[Use the dashboard for monitoring your positions. ](https://harvest-dashboard.xyz/)
+
+[Check FARM accurate prices and play with charts on Tradingview.](https://www.tradingview.com/symbols/FARMWETH/)
+
+[Check the FARM/ETH liquidity pool on Uniswap ](https://v2.info.uniswap.org/pair/0x56feaccb7f750b997b36a68625c7c596f0b41a58)  
+  
+[Check the FARM/ETH liquidity pool on Sushiswap](https://analytics.sushi.com/tokens/0xa0246c9032bc3a600820415ae600c6388619a14d)  
+  
+
 
