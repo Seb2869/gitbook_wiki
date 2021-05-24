@@ -36,8 +36,6 @@ type this address in the swap field and FARM token will appear.
 
 [You can buy FARM with ETH on Probit](https://www.probit.com/app/exchange/FARM-ETH)
 
-
-
 ##  Resources 
 
 [Use the dashboard for monitoring your positions. ](https://harvest-dashboard.xyz/)
