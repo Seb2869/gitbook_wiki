@@ -4,7 +4,7 @@ In order to provide incentives to yield farmers using the Harvest platform, the 
 
 A key innovation of the `$FARM` token is that it entitles holders to a performance fee \(**currently 30% ETH and 8% BSC**\) taken from Harvest's yield farming strategies. While each strategy may farm different assets, the performance fee is used to buy `$FARM` on the open market, which is then distributed to those who stake `$FARM` in the Profit Sharing pool. The price of `$FARM` is subject to consistent buy pressure as a result. Moreover, when staking, your FARM token is automatically compounded upon every interaction with the Profit Sharing pool. _Directly speaking, the value of $FARM comes from the profits generated in the various deployed strategies_.
 
-### Weekly mint
+### Weekly Mint
 
 Newly minted tokens are released weekly and distributed as follows:
 
