@@ -4,12 +4,12 @@
 
 ## General Info
 
-* [What do we do](general-info/what-do-we-do/README.md)
+* [What We Do](general-info/what-do-we-do/README.md)
   * [Strategy Development](general-info/what-do-we-do/farming-external-projects.md)
   * [FARM token](general-info/what-do-we-do/profit-share-pool-and-farm-tokenomics.md)
   * [Profit Sharing \(PS\) and iFARM](general-info/what-do-we-do/profit-sharing-pool-ps.md)
   * [Council of 69](general-info/what-do-we-do/420-69-programm.md)
-* [How to use](general-info/how-to-use-1/README.md)
+* [How to use Harvest](general-info/how-to-use-1/README.md)
   * [How to deposit / withdraw](general-info/how-to-use-1/how-to-deposit-withdraw/README.md)
     * [\(Old\) Getting Started with UNI Pools](general-info/how-to-use-1/how-to-deposit-withdraw/old-getting-started-with-uni-pools.md)
     * [\(Old\) Farm with USDC](general-info/how-to-use-1/how-to-deposit-withdraw/farm-with-usdc.md)

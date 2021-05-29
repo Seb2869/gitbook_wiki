@@ -1,4 +1,4 @@
-# What do we do
+# What We Do
 
 ### Harvest Finance is a Yield Aggregator that aggregates and automates the process of yield farming for our users. 
 
