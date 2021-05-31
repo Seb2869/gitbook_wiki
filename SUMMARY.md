@@ -10,7 +10,7 @@
   * [Profit Sharing \(PS\) and iFARM](general-info/what-do-we-do/profit-sharing-pool-ps.md)
   * [Council of 69](general-info/what-do-we-do/420-69-programm.md)
 * [How to use Harvest](general-info/how-to-use-1/README.md)
-  * [How to deposit](general-info/how-to-use-1/how-to-deposit-withdraw/README.md)
+  * [How to deposit and stake](general-info/how-to-use-1/how-to-deposit-withdraw/README.md)
     * [\(Old\) Getting Started with UNI Pools](general-info/how-to-use-1/how-to-deposit-withdraw/old-getting-started-with-uni-pools.md)
     * [\(Old\) Farm with USDC](general-info/how-to-use-1/how-to-deposit-withdraw/farm-with-usdc.md)
   * [How to understand how much you earn](general-info/how-to-use-1/how-to-understand-how-much-you-earn/README.md)

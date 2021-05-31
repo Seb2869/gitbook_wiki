@@ -1,4 +1,4 @@
-# How to deposit
+# How to deposit and stake
 
 ## Starting 
 
