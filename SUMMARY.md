@@ -32,6 +32,7 @@
 ## How it works
 
 * [Understanding Profit Sharing](how-it-works/understanding-profit-sharing.md)
+* [iFARM and Defi integrations](how-it-works/ifarm-and-defi-integrations.md)
 * [Harvest contracts](how-it-works/harvest-contracts/README.md)
   * [Vaults](how-it-works/harvest-contracts/vaults/README.md)
     * [Timelocks](how-it-works/harvest-contracts/vaults/timelocks.md)
