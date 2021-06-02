@@ -37,5 +37,7 @@ You can check how to join in the Profit Sharing pool [here](https://www.youtube.
   
 You can check FARM token buybacks data, weekly profit, and FARM token PE ratio [here](https://farmdashboard.xyz/)
 
+## What you can do with iFARM
+
 It is possible to pair iFARM with QUICK and stake iFARM-QUICK LP in [Quickswap ](https://quickswap.exchange/#/quick)on Polygon network and enjoy extra APY on your iFARM. You can send assets on Polygon network [here](https://wallet.matic.network/bridge).
 
