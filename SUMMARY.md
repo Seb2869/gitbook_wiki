@@ -43,7 +43,7 @@
 * [Contract Addresses](how-it-works/contract-addresses-1/README.md)
   * [Ethparser contracts API](how-it-works/contract-addresses-1/contract-addresses.md)
 * [DoHardWork](how-it-works/dohardwork.md)
-* [Weekly Rewards and Emission](how-it-works/weekly-rewards-and-emission.md)
+* [Tokenomics, Weekly Rewards and Emission](how-it-works/weekly-rewards-and-emission.md)
 
 ## TheGraph
 
