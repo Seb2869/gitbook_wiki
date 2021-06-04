@@ -46,6 +46,10 @@ As I did in the step before, it will also be needed to confirm both permission a
 
 Finally your Sushi LP is staked, auto compounding and earning FARM rewards. 
 
+## Resources 
+
+You can also check a great [tutorial ](https://www.youtube.com/watch?v=9kxPiPj9sFc)made by a community member to see how to deposit and withdraw single assets. \(Credits to [Coinstruct](https://www.youtube.com/channel/UCywRgYh3qQ45savdWcY9o0A)\)
+
   
 
 
