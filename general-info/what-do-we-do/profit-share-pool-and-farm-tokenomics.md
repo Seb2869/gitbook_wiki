@@ -8,19 +8,23 @@ A key innovation of the `$FARM` token is that it entitles holders to a performan
 
 Newly minted tokens are released weekly and distributed as follows:
 
-* 70% of the FARM tokens will be distributed to capital and liquidity providers. Details are released weekly on the [Medium](https://medium.com/harvest-finance/) blog or [official Twitter account](https://twitter.com/harvest_finance).
+* 70% of the FARM tokens will be distributed to capital and liquidity providers. Details are released weekly on the [Medium](https://yogafire-genuine.medium.com/) blog or [official Twitter account](https://twitter.com/harvest_finance).
 * 10% of the FARM tokens will vest to the [Operational Treasury](https://etherscan.io/address/0x843002b1d545ef7abb71c716e6179570582faa40) to pay for additional development and promotion.
 * 20% of the FARM tokens will vest to the [Development Team](https://etherscan.io/address/0x49d71131396f23f0bce31de80526d7c025981c4d), and are occasionally sold through tornadocash for Dev pay.
 
+The specific weekly distribution of incentives is handled by Harvest Devs with the goal of providing the greatest benefit to FARM holders \(aligning their incentives, as Devs are paid in FARM\), and is _NOT_ subject to DAO governance votes.
+
 ### Supply
-
-`$FARM` was launched with a hard-coded maximum supply of 5,000,000 tokens which would be minted over the course of 4 years.
-
-In this initial period, it was noted that emissions were higher than needed for the growth of the project. As a result, a total of 14,850.108 `$FARM` tokens were burned irretrievably to [0xffffffffffffffffffffffffffffffffffffffff](https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d?a=0xffffffffffffffffffffffffffffffffffffffff) to decrease the total circulating supply.
 
 In Week 5, FARM holders [voted overwhelmingly](https://snapshot.page/#/farm/proposal/QmQvoNCNhz5dARMgR82vFPeHAMPqMahHgsHjPYggFuAkGZ) to cap the maximum supply to **690,420** tokens by reducing the emissions of tokens by 4.45% every week until week 208 \(27 August 2024\) which is exactly 4 years from launch. As a result, token emissions are currently set to follow this curve:
 
 ![](../../.gitbook/assets/image%20%281%29.png)
+
+### Notes on previous maximum supply 
+
+`$FARM` was launched with a hard-coded maximum supply of 5,000,000 tokens which would be minted over the course of 4 years.
+
+In this initial period, it was noted that emissions were higher than needed for the growth of the project. As a result, a total of 14,850.108 `$FARM` tokens were burned irretrievably to [0xffffffffffffffffffffffffffffffffffffffff](https://etherscan.io/token/0xa0246c9032bc3a600820415ae600c6388619a14d?a=0xffffffffffffffffffffffffffffffffffffffff) to decrease the total circulating supply.
 
 ### Governance <a id="governance"></a>
 
