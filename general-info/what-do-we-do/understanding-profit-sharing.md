@@ -10,11 +10,11 @@ Profit Sharing pool allows users to stake farmed FARM tokens to receive 30% of H
 
 
 
-![](../.gitbook/assets/ps1.jpg)
+![](../../.gitbook/assets/ps1.jpg)
 
 
 
-Harvest Finance profits are regularly distributed to Profit Sharing pool through FARM token automatically bought on the market and distributed to the pool, users of the pool can expect to have their FARM tokens deposited to auto compound in the rate showed by the APY on the pool. While 30% of Harvest Finance profits are distributed to the Profit Sharing pool, the 70% left are distributed to depositors of the strategies available to farming on Harvest Finance. 
+Harvest Finance profits are regularly distributed to Profit Sharing pool through FARM token automatically bought on the market and distributed to the pool, users of the pool can expect to have their FARM tokens deposited to auto compound in the rate showed by the APY on the pool. 
 
 ## iFARM
 
@@ -22,7 +22,7 @@ iFARM are the Profit Sharing pool deposit receipt. The interest bearing FARM tok
 
 
 
-![](../.gitbook/assets/ps-2.png)
+![](../../.gitbook/assets/ps-2.png)
 
   
 
