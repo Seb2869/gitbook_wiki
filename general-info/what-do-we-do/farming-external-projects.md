@@ -14,5 +14,5 @@ Every new project is evaluated through stages:
 
 **Harvest takes care of gas costs, APY tracking, strategy development, and auditing.**  
 We don't have deposit/withdrawal fees for any of our strategies.  
-A performance fee \(30% ETH, 8% BSC\) is on profits generated.
+A performance fee \(30% ETH, 8% BSC\) on profits is generated.
 
