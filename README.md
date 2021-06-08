@@ -12,7 +12,7 @@ It's supporting by [Builders ](builders.md)and anybody can contribute.
 
 Explore this wiki to learn about Harvest and its yield farming strategies.
 
-* [https://harvest.finance/](https://harvest.finance/)
+* **Dapp:** [https://harvest.finance/](https://harvest.finance/)
 * **Github:** [https://github.com/harvest-finance](https://github.com/harvest-finance)
 * **Discord:** [https://discord.gg/R5SeTVR](https://discord.gg/R5SeTVR)
 * **Twitter:** [https://twitter.com/harvest\_finance](https://twitter.com/harvest_finance)
