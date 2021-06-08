@@ -6,6 +6,10 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020 to rele
 
 ## Harvest Finance history <a id="harvest-finance-history"></a>
 
+### Week 41 - UNI V3 strategy release <a id="week-32-bsc-release-and-listed-on-dpi"></a>
+
+Harvest Finance has it tractors at work. 🌾 Adapting to the innovative Defi ecosystem Harvest allows humble farmers to enjoy delicious UNI V3 crops  **👨‍🌾** The tractors goes brrrr.
+
 ### Week 32 - BSC Release and listed on DPI <a id="week-32-bsc-release-and-listed-on-dpi"></a>
 
 🚜 Harvest Finance becomes multi chain and releases BSC farms. BSC farmers can grow their crops on Harvest Finance and become part of the yield farming revolution. Harvest Finance joined the DPI, one of the most famous DeFi assets index. [Week 32 Update](https://yogafire-genuine.medium.com/eng-week-32-update-8893d980f147)
@@ -16,7 +20,7 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020 to rele
 
 ### Week 26 - iFARM Release <a id="week-26-ifarm-release"></a>
 
-Harvest Finance launches iFARM, the interest bearing FARM token. 🚜🚜🚜 Goes brrrrr [Week 26 Update](https://yogafire-genuine.medium.com/eng-week-26-update-b6b5123f8685)
+Harvest Finance launches iFARM, the interest bearing FARM token. 🚜🚜🚜 Goes brrrr [Week 26 Update](https://yogafire-genuine.medium.com/eng-week-26-update-b6b5123f8685)
 
 ### Week 15 - Grain Release <a id="week-15-grain-release"></a>
 
