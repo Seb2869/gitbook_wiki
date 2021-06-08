@@ -1,6 +1,6 @@
 # Strategy Development
 
-Harvest Finance team works hard every day to utilize the latest and most profitable techniques to bring returns to our users. New projects are relentlessly evaluated and pursued to increase or growing repertoire of yield farming strategies.
+Harvest Finance team works hard every day to utilize the latest and most profitable techniques to bring returns to our users. New projects are relentlessly evaluated and pursued to increase our growing repertoire of yield farming strategies.
 
 Every new project is evaluated through stages:
 
