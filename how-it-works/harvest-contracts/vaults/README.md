@@ -14,11 +14,11 @@ User funds are protected in vaults by a number of mechanism:
 
 1. The owners of the vault can only move the underlying funds in and out of the pre-defined investment strategy.
 2. `fASSET`shares can only be minted by depositing funds into the vault, and are destroyed when the user withdraws funds.
-3. The investment strategy is protected from changes by a 'timelock.' 
+3. The investment strategy is protected from changes by a '[timelock](https://harvest-finance.gitbook.io/harvest-finance/how-it-works/harvest-contracts/vaults/timelocks).' 
 
 Harvest Vaults do not track the wallet addresses of depositors. Instead, `fASSET` shares are represented by fungible ERC-20 tokens that can be transferred between accounts and traded on secondary markets. Users that trade away or lose their `fASSET` shares will not have access to their deposited funds.
 
-Because Ethereum gas usage is defined by the number of contracts interacted with and the complexity of the interactions, depositing tokens through the Vault smart contract and minting new `fASSET` shares requires signifantly more gas than than the token trading that most Ethereum users may be used to. Users should take care to monitor gas expenses, as they may reduce or even overwhelm the profitability of smaller scale investments \(&lt;$1000\), especially when network activity is high.
+Because Ethereum gas usage is defined by the number of contracts interacted with and the complexity of the interactions, depositing tokens through the Vault smart contract and minting new `fASSET` shares requires significantly more gas than than the token trading that most Ethereum users may be used to. Users should take care to monitor gas expenses, as they may reduce or even overwhelm the profitability of smaller scale investments \(&lt;$1000\), especially when network activity is high.
 
 Harvest provides additional incentives for users to deposit funds in the form of `FARM` tokens. These rewards are distributed to users who prove ownership of deposits by staking their `fASSETs` in reward pool contracts. It is important to note that before a user can withdraw funds, they must first retrieve their `fASSET` from a reward pool staking contract.
 
