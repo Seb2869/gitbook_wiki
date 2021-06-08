@@ -14,7 +14,7 @@ User funds are protected in vaults by a number of mechanism:
 
 1. The owners of the vault can only move the underlying funds in and out of the pre-defined investment strategy.
 2. `fASSET`shares can only be minted by depositing funds into the vault, and are destroyed when the user withdraws funds.
-3. The investment strategy is protected from changes by a 'timelock.' [read more](https://farm.chainwiki.dev/en/education/vault/timelock)
+3. The investment strategy is protected from changes by a 'timelock.' 
 
 Harvest Vaults do not track the wallet addresses of depositors. Instead, `fASSET` shares are represented by fungible ERC-20 tokens that can be transferred between accounts and traded on secondary markets. Users that trade away or lose their `fASSET` shares will not have access to their deposited funds.
 
