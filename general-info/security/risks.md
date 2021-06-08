@@ -4,7 +4,7 @@
 
 ### Smart Contract Failures <a id="smart-contract-failures"></a>
 
-Harvest's smart contracts are open source, readable, and include tests. They are not a direct fork of an existing contract system. [Audits finished](audites.md), but a successful audit does not guarantee that a new or existing Harvest strategy will hit APY targets or avoid hacks of Harvest or contracts that Harvest integrates with \(Curve, Swerve, Balancer, Uniswap, Cream, Compound, &etc\).
+Harvest's smart contracts are open source, readable, and include tests. They are not a direct fork of an existing contract system. [Audits finished](audites.md), but a successful audit does not guarantee that a new or existing Harvest strategy will hit APY targets or avoid hacks of Harvest or contracts that Harvest integrates with \(Curve, Sushi, Uniswap, Compound, AAVE & etc\).
 
 ### Composability Risks <a id="composability-risks"></a>
 
