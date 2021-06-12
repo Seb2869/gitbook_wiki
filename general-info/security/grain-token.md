@@ -22,6 +22,13 @@ This gives a market value to GRAIN, by using some emissions to incentivize a liq
 
 In addition to providing incentives for the FARM:GRAIN pair, Harvest uses funds from the strategic reserve for strategic GRAIN buybacks as needed to buffer price volatility. 
 
+### Grain Implementation
+
+The incentivized grain pair and the share of emissions used to buyback GRAIN was decided through community voting:
+
+* [Incentivized GRAIN liquidity pair](https://snapshot.org/#/harvestfi.eth/proposal/QmcDvydQU86y2xCQkktMVLaMojWzaQTsLb5rKp4s92DRzs)
+* [Emissions to GRAIN buyback. ](https://snapshot.org/#/harvestfi.eth/proposal/QmNcH9EvtbHSb2rSGXBbGVFKPPn6yz3K4BWxfaNjvt6bze)
+
 ### Claiming USDC and/or USDT: <a id="claiming-usdc-andor-usdt"></a>
 
 As of Monday, December 7th 2020, those affected by the exploit can claim their pro-rata share of the $2.4m and GRAIN through the following steps:  
