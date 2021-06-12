@@ -22,7 +22,7 @@
 * [Security](general-info/security/README.md)
   * [Bounty Program](general-info/security/bounty-program.md)
   * [Risks](general-info/security/risks.md)
-  * [Audites](general-info/security/audites.md)
+  * [Audits](general-info/security/audites.md)
   * [Incidents](general-info/security/incidents/README.md)
     * [fUSDC/fUSDT Economic Attack Oct 26 2020](general-info/security/incidents/fusdc-fusdt-economic-attack-oct-26-2020.md)
     * [fWETH Withdraw Failure Sept 18 2020](general-info/security/incidents/fweth-withdraw-failure-sept-18-2020.md)

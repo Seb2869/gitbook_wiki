@@ -1,4 +1,4 @@
-# Audites
+# Audits
 
 To keep the crops secure, you must invest in fences. The Harvest operations budget \(10% of supply\) will be used to ensure that Harvest farming strategies are audited and secure.
 
