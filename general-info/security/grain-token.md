@@ -22,9 +22,9 @@ This gives a market value to GRAIN, by using some emissions to incentivize a liq
 
 In addition to providing incentives for the FARM:GRAIN pair, Harvest uses funds from the strategic reserve for strategic GRAIN buybacks as needed to buffer price volatility. 
 
-### Grain Implementation
+### GRAIN Implementation
 
-The incentivized grain pair and the share of emissions used to buyback GRAIN was decided through community voting:
+The incentivized GRAIN pair and the share of emissions used to buyback GRAIN was decided through community voting:
 
 * [Incentivized GRAIN liquidity pair](https://snapshot.org/#/harvestfi.eth/proposal/QmcDvydQU86y2xCQkktMVLaMojWzaQTsLb5rKp4s92DRzs)
 * [Emissions to GRAIN buyback. ](https://snapshot.org/#/harvestfi.eth/proposal/QmNcH9EvtbHSb2rSGXBbGVFKPPn6yz3K4BWxfaNjvt6bze)
