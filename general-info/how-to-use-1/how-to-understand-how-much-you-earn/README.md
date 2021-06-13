@@ -48,7 +48,7 @@ You can learn more about the Profit Sharing pool [here](https://harvest-finance.
 
 Some of the pools rewards iFARM but 2/3 of iFARM are vested for 6 months and will be available for claiming only after 6 months period. 
 
-![](../../../.gitbook/assets/4%20%281%29.jpg)
+![](../../../.gitbook/assets/4%20%282%29.jpg)
 
   
 
