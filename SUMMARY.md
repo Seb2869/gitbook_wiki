@@ -17,7 +17,7 @@
   * [How to understand how much you earn](general-info/how-to-use-1/how-to-understand-how-much-you-earn/README.md)
     * [Interest rate guide](general-info/how-to-use-1/how-to-understand-how-much-you-earn/interest-rate-guide.md)
     * [APY Calculation](general-info/how-to-use-1/how-to-understand-how-much-you-earn/apy-calculation.md)
-  * [Where trade FARM /bFARM](general-info/how-to-use-1/where-trade-farm-bfarm.md)
+  * [Where to trade FARM](general-info/how-to-use-1/where-trade-farm-bfarm.md)
 * [FAQ](general-info/faq.md)
 * [Security](general-info/security/README.md)
   * [Bounty Program](general-info/security/bounty-program.md)

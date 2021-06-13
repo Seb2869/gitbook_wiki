@@ -2,7 +2,7 @@
 description: The best places to buy FARM.
 ---
 
-# Where trade FARM /bFARM
+# Where to trade FARM
 
 ## Trade FARM on Decentralized Exchanges
 
@@ -44,7 +44,9 @@ type this address in the swap field and FARM token will appear.
 
 [Check the FARM/ETH liquidity pool on Uniswap ](https://v2.info.uniswap.org/pair/0x56feaccb7f750b997b36a68625c7c596f0b41a58)  
   
-[Check the FARM/ETH liquidity pool on Sushiswap](https://analytics.sushi.com/tokens/0xa0246c9032bc3a600820415ae600c6388619a14d)  
+[Check the FARM/ETH liquidity pool on Sushiswap](https://analytics.sushi.com/tokens/0xa0246c9032bc3a600820415ae600c6388619a14d)
+
+[Check the FARM/QUICK liquidity pool on Quickswap](https://info.quickswap.exchange/pair/0xd7668414bfd52de6d59e16e5f647c9761992c435)  
   
 
 
