@@ -8,7 +8,7 @@ description: The distribution of protocol fees to FARM-holding investors.
 
 ![](../../.gitbook/assets/ps1.jpg)
 
-A key innovation of the `$FARM` token is that it entitles holders to a performance fee \(**currently 30% ETH and 8% BSC**\) taken from Harvest's yield farming strategies. While each strategy may farm different assets, the performance fee is used to buy `$FARM` on the open market, which is then distributed to those who stake `$FARM` in the Profit Sharing pool. The price of `$FARM` is subject to consistent buy pressure as a result.
+A key innovation of the `$FARM` token is that it entitles holders to a performance fee \(**currently 30% ETH and 8% BSC**\) taken from Harvest's yield farming strategies. While each strategy may farm different assets, the performance fee is used to buy `$FARM` on the open market, which is then distributed to those who stake `$FARM` in the Profit Sharing pool. The price of `$FARM` is subject to consistent buy pressure as a result. To participate, users must first obtain FARM by collecting incentives for participating in Harvest's yield farming pools, or simply buying FARM directly on the open market. Then FARM must be staked in the auto-compounding Profit Sharing pool.
 
 ### Technical Details
 
