@@ -10,6 +10,10 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020 to rele
 
 ## Harvest Finance history <a id="harvest-finance-history"></a>
 
+### Week 43 - fCASH release <a id="week-32-bsc-release-and-listed-on-dpi"></a>
+
+The tractors of farmlands have become more productive with fCASH. Now iFARM can be colaterized for fCASH in which can be swaped for USDC improving iFARM utility. More power to the tractor's engines. 🚜 
+
 ### Week 41 - UNI V3 strategy release <a id="week-32-bsc-release-and-listed-on-dpi"></a>
 
 Harvest Finance has it tractors at work. 🌾 Adapting to the innovative Defi ecosystem Harvest allows humble farmers to enjoy delicious UNI V3 crops  **👨‍🌾** The tractors goes brrrr.
