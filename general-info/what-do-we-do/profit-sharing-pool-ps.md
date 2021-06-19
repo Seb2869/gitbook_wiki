@@ -1,6 +1,16 @@
+---
+description: The distribution of protocol fees to FARM-holding investors.
+---
+
 # Profit Sharing and iFARM
 
+### Profit Sharing
+
 A key innovation of the `$FARM` token is that it entitles holders to a performance fee \(**currently 30% ETH and 8% BSC**\) taken from Harvest's yield farming strategies. While each strategy may farm different assets, the performance fee is used to buy `$FARM` on the open market, which is then distributed to those who stake `$FARM` in the Profit Sharing pool. The price of `$FARM` is subject to consistent buy pressure as a result.
+
+### Technical Details
+
+The profit sharing pool is a modified SNX style staking pool. Once FARM is purchased on the open market it is distributed pro rata per second to all those staked in the Profit Sharing pool over a duration of 1 day, with each new reward added resetting the duration of the payout. As a result, the instantaneous reward rate for the Profit Sharing pool fluctuates over the course of the day. For this reason, a 7-day average of the reward rate is displayed for this pool. The instantaneous rate can always be checked by reading the contract directly.
 
 ### Auto Compounding
 
