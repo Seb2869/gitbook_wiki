@@ -2,6 +2,7 @@
 
 Some of Defi collaborations Harvest Finance have made along the way.
 
+* Harvest Financee collaboration with UMA [resulted ](https://twitter.com/harvest_finance/status/1405987674461069312)in the creation of fCASH, a tool in which users can leverage their iFARM for and swap the fCASH for USDC adding more utility to iFARM.
 * Harvest Finance announced a [collaboration ](https://yogafire-genuine.medium.com/eng-week-40-update-15d9feb167f1)with Babylon Finance 
 * Harvest Finance and UMA protocol made a [collaboration ](https://yogafire-genuine.medium.com/eng-week-38-update-f5f2bac53242)and FARM listing on UMA was approved.
 * Harvest Finance announced a [collaboration](https://yogafire-genuine.medium.com/eng-week-38-update-f5f2bac53242) with Convex Finance intending to improve the yield of Curve vaults. 
