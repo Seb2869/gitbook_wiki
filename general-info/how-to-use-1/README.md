@@ -18,8 +18,26 @@ To be included and confirmed on the blockchain, a given transaction must be mine
 For safety purposes, Ethereum wallets include a `nonce` with each transactions. All transactions must be confirmed **in order**, ****so sending a new transaction with a higher gas price will **NOT** cause it to confirm more quickly, but **will** cost you additional ETH once confirmed. If you are struggling with stuck transactions feel free to ask for support in Harvest Finance [Discord server](https://discord.com/invite/gzWAG3Wx7Y).
 {% endhint %}
 
+Due to the complexity of Harvest's contracts, deposits and withdraws may require significantly higher gas fees than users are used to paying. Most modern wallets will predict GAS limits and prices automatically for users. In most cases, the predictions are ~2x the true price of the transaction. Manually changing these values can cause transactions to fail while still taking the transaction fee, and are thus recommended for advanced users only.
+
 {% hint style="info" %}
-Most of the transactions on Harvest are not stateful, and can therefore be sent using relatively low GAS prices if the user is willing to wait a long time for confirmation. 
+Most of the transactions on Harvest are not stateful, and can therefore be sent using 'slow' GAS prices if the user is willing to wait for confirmation. 
+{% endhint %}
+
+### Connecting to Harvest
+
+The first step for any user interacting with Harvest is connecting a wallet. 
+
+![](../../.gitbook/assets/image%20%2813%29.png)
+
+Users can connect a wallet using the Metamask Browser extension, or via WalletConnect. 
+
+![](../../.gitbook/assets/image%20%2814%29.png)
+
+Once connected, Harvest should automatically detect the user's assets. 
+
+{% hint style="info" %}
+Leaving a wallet connected for a long period of time may cause the connection to timeout, causing failures to properly load data. Refreshing the page or more aggressively clearing the browser cache is a great first  resolve a host of UI problems.
 {% endhint %}
 
 
