@@ -8,7 +8,6 @@
   * [Strategy Development](general-info/what-do-we-do/farming-external-projects.md)
   * [FARM token](general-info/what-do-we-do/profit-share-pool-and-farm-tokenomics.md)
   * [Profit Sharing and iFARM](general-info/what-do-we-do/profit-sharing-pool-ps.md)
-  * [Understanding Profit Sharing](general-info/what-do-we-do/understanding-profit-sharing.md)
   * [Council of 69](general-info/what-do-we-do/420-69-programm.md)
 * [How to use Harvest](general-info/how-to-use-1/README.md)
   * [How to deposit and stake](general-info/how-to-use-1/how-to-deposit-withdraw/README.md)
