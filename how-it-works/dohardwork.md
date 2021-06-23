@@ -1,4 +1,12 @@
+---
+description: What happen with farmed assets
+---
+
 # DoHardWork
 
-![](../.gitbook/assets/image%20%286%29.png)
+### Standard DoHardWork
+
+Despite some exceptions as mSTONKs and degen strategies, standard DoHardWork in most of available vaults work as follow: 
+
+![](../.gitbook/assets/do-hard-work.jpg)
 
