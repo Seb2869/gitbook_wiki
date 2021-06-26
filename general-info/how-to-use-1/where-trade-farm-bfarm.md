@@ -6,6 +6,8 @@ description: The best places to buy FARM.
 
 ## Trade FARM on Decentralized Exchanges
 
+[Buy FARM on Bancor Network](https://app.bancor.network/eth/data)
+
 [Buy FARM on Uniswap](https://app.uniswap.org/#/swap)  
   
 [or why not use Sushiswap to buy FARM?](https://app.sushi.com/swap)  
