@@ -26,6 +26,10 @@ Deposited iFARM can be liquidated if depositor fail to provide enough collateral
 
 fCASH can be minted using the _creating_ action. The position can be managed in order to avoid liquidation using the _deposit_ action. To use fCASH visit [https://fcash.farmdashboard.xyz/manageposition](https://fcash.farmdashboard.xyz/manageposition)
 
+## Resources 
+
+An [instructive article](https://www.publish0x.com/mind-puzzle/superumans-4-what-is-fcash-by-harvest-finance-xjojqor?a=pmbk1p5ezJ) about fCASH created by a community member. \(Credits to [PVMihalache](https://www.publish0x.com/@PVMihalache)\)
+
 
 
 
