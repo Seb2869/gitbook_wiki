@@ -2,6 +2,7 @@
 
 Harvest Finance launched on September 1st. New farming strategies are constantly evaluated for addition to Harvest.
 
+* **2021-06-29** Harvest releases CRV TriCrypto strategy 
 * **2021-06-18** Harvest adds fCASH strategy.
 * **2021-06-08** Harvest releases UNI V3 strategies incentivized by iFARM.
 * **2020-12-03** Harvest adds CRV farming support for HUSD and HBTC and INDEX farming support for ETH-DPI Uni LP.
