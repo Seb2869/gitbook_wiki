@@ -10,6 +10,10 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020 to rele
 
 ## Harvest Finance history <a id="harvest-finance-history"></a>
 
+### Week 46 - Harvest Finance V2
+
+Harvest Finance updated its tractors and officially released on July 12th the Harvest Finance V2 with a sophisticated UI/UX with classic elements. 
+
 ### Week 43 - fCASH release <a id="week-32-bsc-release-and-listed-on-dpi"></a>
 
 The tractors of farmlands have become more productive with fCASH. Now iFARM can be colaterized for fCASH in which can be swapped for USDC improving iFARM utility. More power to the tractor's engines. 🚜 
