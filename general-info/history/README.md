@@ -12,7 +12,7 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020 to rele
 
 ### Week 46 - Harvest Finance V2
 
-Harvest Finance updated its tractors and officially released on July 12th the Harvest Finance V2 with a sophisticated UI/UX with classic elements. 
+Harvest Finance updated its tractors and officially released on July 12th the Harvest Finance V2 with a sophisticated UI/UX with classic elements and more intuitive. 
 
 ### Week 43 - fCASH release <a id="week-32-bsc-release-and-listed-on-dpi"></a>
 
