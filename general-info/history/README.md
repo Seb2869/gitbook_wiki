@@ -10,6 +10,10 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020 to rele
 
 ## Harvest Finance history <a id="harvest-finance-history"></a>
 
+### Week 46 - ampliFARM
+
+Harvest Finance launched ampliFARM, enabling humble farmers to staking bFARM to receive more bFARM in the future.
+
 ### Week 46 - Harvest Finance V2
 
 Harvest Finance updated its tractors and officially released on July 12th 2021 the Harvest Finance V2 with a sophisticated UI/UX with classic elements and more intuitive. 
