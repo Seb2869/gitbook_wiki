@@ -10,6 +10,7 @@
   * [Profit Sharing and iFARM](general-info/what-do-we-do/profit-sharing-pool-ps.md)
   * [Council of 69](general-info/what-do-we-do/420-69-programm.md)
   * [fCASH](general-info/what-do-we-do/fcash.md)
+  * [ampliFARM](general-info/what-do-we-do/amplifarm.md)
 * [How to use Harvest](general-info/how-to-use-1/README.md)
   * [How to deposit and stake](general-info/how-to-use-1/how-to-deposit-withdraw/README.md)
     * [\(Old\) Getting Started with UNI Pools](general-info/how-to-use-1/how-to-deposit-withdraw/old-getting-started-with-uni-pools.md)
