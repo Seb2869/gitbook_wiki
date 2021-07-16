@@ -5,6 +5,7 @@ Some of Defi collaborations Harvest Finance have made along the way.
 * Harvest Finance announced a [collaboration ](https://twitter.com/harvest_finance/status/1415744632185491458)with Terra as a result of this collaboration UST-USDT  V3 pools are available on Harvest incentivized by LUNA.
 * Harvest Finance announced a [collaboration ](https://twitter.com/harvest_finance/status/1415393755423776784)with Balancer as a result of this collaboration Balancer farms are now available on Harvest Finance. 
 * Harvest Finance announced a [collaboration ](https://twitter.com/harvest_finance/status/1408474080592809986)with Bancor as a result a BNT-FARM pool became available on Bancor. The Bancor [voting results](https://vote.bancor.network/#/bancornetwork.eth/proposal/QmeJs8KWED959MfDPRf1yyDQPK1vZjmcnFMxC29sFezCqp) were unanimous.
+* As a result  of a [collaboration ](https://twitter.com/UnslashedF/status/1413553916667699202/photo/1)between Harvest Finance and Unslashed Finance, Harvest smart contracts can be insured by Unslashed. 
 * Harvest Finance announced a [collaboration ](https://twitter.com/harvest_finance/status/1399762071210835972)with BeOneFinancial
 * Harvest Financee collaboration with UMA [resulted ](https://twitter.com/harvest_finance/status/1405987674461069312)in the creation of fCASH, a tool in which users can leverage their iFARM for and swap the fCASH for USDC adding more utility to iFARM.
 * Harvest Finance announced a [collaboration ](https://yogafire-genuine.medium.com/eng-week-40-update-15d9feb167f1)with Babylon Finance 
