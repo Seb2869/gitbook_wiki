@@ -2,6 +2,7 @@
 
 Harvest Finance launched on September 1st. New farming strategies are constantly evaluated for addition to Harvest. 
 
+* **2021-07-14** Harvest Finance releases Balancer strategies BAL-ETH, DAI-ETH, USDC-WETH, USDT-WETH, WBTC-WETH. 
 * **2021-06-29** Harvest releases CRV TriCrypto strategy 
 * **2021-06-18** Harvest adds fCASH strategy.
 * **2021-06-08** Harvest releases UNI V3 strategies incentivized by iFARM.
