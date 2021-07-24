@@ -28,7 +28,7 @@ fCASH can be minted using the _creating_ action. The position can be managed in 
 
 ## Resources 
 
-An [instructive article](https://just-z.medium.com/dear-farmers-f983113873b2) about fCASH created by a community member. \(Credits to [Just.Z](https://just-z.medium.com/)\)
+An [instructive guide ](https://just-z.medium.com/dear-farmers-f983113873b2)about fCASH created by a community member. \(Credits to [Just.Z](https://just-z.medium.com/)\)
 
 An [instructive article](https://www.publish0x.com/mind-puzzle/superumans-4-what-is-fcash-by-harvest-finance-xjojqor?a=pmbk1p5ezJ) about fCASH created by a community member. \(Credits to [PVMihalache](https://www.publish0x.com/@PVMihalache)\)
 
