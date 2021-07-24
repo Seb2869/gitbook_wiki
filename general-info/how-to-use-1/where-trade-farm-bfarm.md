@@ -26,6 +26,8 @@ type this address in the swap field and FARM token will appear.
   
 [Buy FARM on Pancakeswap](https://exchange.pancakeswap.finance/#/swap)
 
+A great [BSC yield farming tutorial](https://medium.com/harvest-finance/harvest-finance-on-binance-smart-chain-1758b2b0fada) was made by a member of Harvest Finance community. \(Credits to [Just.Z](https://just-z.medium.com/)\)
+
 ## Trade FARM on Polygon
 
 The miFARM Ethereum address is 0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651   
