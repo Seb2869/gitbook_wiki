@@ -2,13 +2,13 @@
 
 ### What is ampliFARM
 
- ampliFARM is a token that is rewarded in some BSC pools, it can be claimed immediately at 1:1 bFARM ratio or up to 4.18x if user decides to stake bFARM for enough time to get the maximum 4.18x boost. 
+ ampliFARM is a token that is rewarded in some BSC pools, it can be claimed immediately at 1:1 bFARM ratio or up to 4.18x. The ampliFARM maximum amplification factor is variable over time and It grows when people redeem their ampliFARM below the maximum factor as the Farm they do not claim gets put back into the pool, becoming claimable to other ampliFARM holders.
 
 ![](../../.gitbook/assets/amplifarm.jpg)
 
 ##  How to get more bFARM from your ampliFARM
 
-After claiming rewards from your farming pools access [ampliFARM ](https://harvest.finance/amplifarm)and stake bFARM. Staked assets will increase the speed at which ampliFARM boost raises.
+After claiming rewards from your farming pools access [ampliFARM ](https://harvest.finance/amplifarm)and stake bFARM. Staked assets will increase the factor at which ampliFARM boost raises, but remember ampliFARM boost is variable.
 
 ![](../../.gitbook/assets/amplifarm2.jpg)
 
@@ -18,11 +18,10 @@ It is also possible to simply claim bFARM from ampliFARM token at 1:1 ratio if u
 
 ## **The Details of $bFARM Staking**
 
-* You stake bFARM to get boost at a linear rate
-* There is a penalty in the first 30 days, which means that the rate will be ramping up to this linear rate over the first 30 days
-* In other words, during the first 30 days of staking, $bFARM isn’t earning you the boost at full speed
-* The more $bFARM you stake, the faster you earn the boost
-* The maximum boost you can earn is x4.18
+* You stake bFARM to get ampliFARM boost.
+* There is a penalty in the first 30 days, which means that boost increase will be slower during these days. During the first 30 days of staking, $bFARM isn’t earning you the boost at maximum effectiveness.
+* The more $bFARM you stake, the faster you earn the boost, but remember the boost is variable over time and increases when stakers redeem their ampliFARM below the maximum factor.
+* The maximum boost you can earn is x4.18.
 
 ## Resources
 
