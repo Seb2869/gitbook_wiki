@@ -10,6 +10,10 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020 to rele
 
 ## Harvest Finance history <a id="harvest-finance-history"></a>
 
+### Week 47 - Polygon
+
+Tractors engine were updated with the Layer 2 power. Now humble farmers can harvest the best yields on Polygon. **👨‍🌾**
+
 ### Week 46 - ampliFARM
 
 Harvest Finance launched ampliFARM, enabling humble farmers to staking bFARM to receive more bFARM in the future.
