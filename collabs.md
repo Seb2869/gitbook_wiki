@@ -2,6 +2,7 @@
 
 Some of Defi collaborations Harvest Finance have made along the way.
 
+* Harvest Finance [collaboration with Bancor](https://twitter.com/Bancor/status/1418470640328269824) took one more step and now FARM-BNT pool are incentivized by BNT and FARM. 
 * Harvest Finance announced a [collaboration ](https://twitter.com/harvest_finance/status/1415744632185491458)with Terra as a result of this collaboration UST-USDT  V3 pools are available on Harvest incentivized by LUNA.
 * Harvest Finance announced a [collaboration ](https://twitter.com/harvest_finance/status/1415393755423776784)with Balancer as a result of this collaboration Balancer farms are now available on Harvest Finance. 
 * Harvest Finance announced a [collaboration ](https://twitter.com/harvest_finance/status/1408474080592809986)with Bancor as a result a BNT-FARM pool became available on Bancor. The Bancor [voting results](https://vote.bancor.network/#/bancornetwork.eth/proposal/QmeJs8KWED959MfDPRf1yyDQPK1vZjmcnFMxC29sFezCqp) were unanimous.
