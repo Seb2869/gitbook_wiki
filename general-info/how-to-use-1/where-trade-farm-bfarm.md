@@ -28,6 +28,12 @@ type this address in the swap field and FARM token will appear.
 
 ## Trade FARM on Polygon
 
+The miFARM Ethereum address is 0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651   
+Polygon address is 0xab0b2ddB9C7e440fAc8E140A89c0dbCBf2d7Bbff
+
+The mFARM Ethereum address is 0xa0246c9032bC3A600820415aE600c6388619A14D   
+Polygon address is 0x176f5AB638cf4Ff3B6239Ba609C3fadAA46ef5B0
+
 [iFARM the interest bearing FARM is available for trade on QuickSwap \(search for iFARM\)](https://quickswap.exchange/#/swap)
 
 ## Trade FARM on Regular Exchanges
