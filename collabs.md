@@ -2,6 +2,7 @@
 
 Some of Defi collaborations Harvest Finance have made along the way.
 
+* DePay made FARM an available token to be used as a [mean of payment](https://twitter.com/DePayFi/status/1416019816591282176) in DePay platform. 
 * Harvest Finance [collaboration with Bancor](https://twitter.com/Bancor/status/1418470640328269824) took one more step and now FARM-BNT pool are incentivized by BNT and FARM. 
 * Harvest Finance announced a [collaboration ](https://twitter.com/harvest_finance/status/1415744632185491458)with Terra as a result of this collaboration UST-USDT  V3 pools are available on Harvest incentivized by LUNA.
 * Harvest Finance announced a [collaboration ](https://twitter.com/harvest_finance/status/1415393755423776784)with Balancer as a result of this collaboration Balancer farms are now available on Harvest Finance. 
