@@ -10,6 +10,10 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020 to rele
 
 ## Harvest Finance history <a id="harvest-finance-history"></a>
 
+### Week 48 - Debank
+
+Harvest Finance became available on DeBank, FARM everywhere. [Harvest is now on DeBank](https://twitter.com/DeBankDeFi/status/1421812544251981825)
+
 ### Week 48 - Coinbase
 
 Harvest Finance was listed in Coinbase, one of the most respected crypto exchanges. Now it is more accessible to become a humble farmer. [$FARM is Now Officially on Coinbase](https://medium.com/harvest-finance/farm-is-now-officially-on-coinbase-8eba4e96461b)
