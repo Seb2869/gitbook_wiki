@@ -2,6 +2,7 @@
 
 Harvest Finance launched on September 1st. New farming strategies are constantly evaluated for addition to Harvest. 
 
+* **2021-08-02** Harvest Finance releases FARMStead strategy, this enables to earn extra iFARM on provided stable coins. 
 * **2021-07-23** Harvest Finance releases LQTY strategy. 
 * **2021-07-22** Harvest Finance releases FOX-WETH strategy.
 * **2021-07-20** Harvest Finance officially launches on Polygon. Quickswap and Sushiswap now are available on Harvest Finance. Also FARM and iFARM got its own Polygon version the [mFARM and miFARM](https://harvest-finance.gitbook.io/harvest-finance/general-info/how-to-use-1/where-trade-farm-bfarm). 
