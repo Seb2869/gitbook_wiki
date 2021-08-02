@@ -10,25 +10,29 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020 to rele
 
 ## Harvest Finance history <a id="harvest-finance-history"></a>
 
+### Week 48 - Coinbase
+
+Harvest Finance was listed in Coinbase, one of the most respected crypto exchanges. Now it is more accessible to become a humble farmer. [$FARM is Now Officially on Coinbase](https://medium.com/harvest-finance/farm-is-now-officially-on-coinbase-8eba4e96461b)
+
 ### Week 47 - Polygon
 
-Tractors engine were updated with the Layer 2 power. Now humble farmers can harvest the best yields on Polygon. **👨‍🌾**
+Tractors engine were updated with the Layer 2 power. Now humble farmers can harvest the best yields on Polygon. **👨‍🌾** [Harvest is now on Polygon](https://medium.com/harvest-finance/harvest-is-now-on-polygon-e0b766e64ee8)
 
 ### Week 46 - ampliFARM
 
-Harvest Finance launched ampliFARM, enabling humble farmers to staking bFARM to receive more bFARM in the future.
+Harvest Finance launched ampliFARM, enabling humble farmers to staking bFARM to receive more bFARM in the future. [Introducing ampliFARM & Boost Feature](https://medium.com/harvest-finance/introducing-amplifarm-4dab54a95b41)
 
 ### Week 46 - Harvest Finance V2
 
-Harvest Finance updated its tractors and officially released on July 12th 2021 the Harvest Finance V2 with a sophisticated UI/UX with classic elements and more intuitive. 
+Harvest Finance updated its tractors and officially released on July 12th 2021 the Harvest Finance V2 with a sophisticated UI/UX with classic elements and more intuitive. [Harvest V2: The Evolution](https://medium.com/harvest-finance/harvest-v2-the-evolution-ef06302b3ee6)
 
 ### Week 43 - fCASH release <a id="week-32-bsc-release-and-listed-on-dpi"></a>
 
-The tractors of farmlands have become more productive with fCASH. Now iFARM can be colaterized for fCASH in which can be swapped for USDC improving iFARM utility. More power to the tractor's engines. 🚜 
+The tractors of farmlands have become more productive with fCASH. Now iFARM can be colaterized for fCASH in which can be swapped for USDC improving iFARM utility. More power to the tractor's engines. 🚜 [Introducing fCASH](https://just-z.medium.com/dear-farmers-f983113873b2)
 
 ### Week 41 - UNI V3 strategy release <a id="week-32-bsc-release-and-listed-on-dpi"></a>
 
-Harvest Finance has it tractors at work. 🌾 Adapting to the innovative Defi ecosystem Harvest allows humble farmers to enjoy delicious UNI V3 crops  **👨‍🌾** The tractors goes brrrr.
+Harvest Finance has it tractors at work. 🌾 Adapting to the innovative Defi ecosystem Harvest allows humble farmers to enjoy delicious UNI V3 crops  **👨‍🌾** The tractors goes brrrr. [Unicorn Power](https://twitter.com/harvest_finance/status/1402620595376775172)
 
 ### Week 32 - BSC Release and listed on DPI <a id="week-32-bsc-release-and-listed-on-dpi"></a>
 
