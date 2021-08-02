@@ -40,6 +40,8 @@ Polygon address is 0x176f5AB638cf4Ff3B6239Ba609C3fadAA46ef5B0
 
 ## Trade FARM on Regular Exchanges
 
+[FARM is available for trade on Coinbase](https://www.coinbase.com/)
+
 [You can buy FARM with USDT on gate.io](https://www.gate.io/en/trade/FARM_USDT), [but if you want to buy with ETH on gate.io click here.](https://www.gate.io/en/trade/FARM_ETH)
 
 [FARM is also available for trade on Hotbit with USDT](https://www.hotbit.io/exchange?symbol=FARM_USDT) [and Ethereum](https://www.hotbit.io/exchange?symbol=FARM_ETH)
