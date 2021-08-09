@@ -10,6 +10,10 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020 to rele
 
 ## Harvest Finance history <a id="harvest-finance-history"></a>
 
+### Week 49 - ZB
+
+Harvest Finance was [listed on ZB.com](https://medium.com/harvest-finance/harvestrecap-week-49-5d9668591f4a). Harvest tractors now have even more exposure to Asian markets. 
+
 ### Week 48 - Debank
 
 Harvest Finance became available on DeBank, FARM everywhere. [Harvest is now on DeBank](https://twitter.com/DeBankDeFi/status/1421812544251981825)
