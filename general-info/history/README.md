@@ -10,9 +10,13 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020 to rele
 
 ## Harvest Finance history <a id="harvest-finance-history"></a>
 
+### Week 51 - Crypto.com
+
+Harvest Finance continues its formidable expansion and has been [listed on Crypto.com](https://medium.com/harvest-finance/farm-is-now-available-on-crypto-com-app-82ad3dabd696). Tractors everywhere. 🚜
+
 ### Week 50 - Binance
 
-Tractors got really serious, and Harvest Finance was listed on Binance, currently the largest exchange in the world. Functional tractors now available and completely accessible all over the world for humble farmers.  **👨‍🌾**
+Tractors got really serious, and Harvest Finance was [listed on Binance](https://medium.com/harvest-finance/farm-is-now-officially-on-binance-a005d647e6b2), currently the largest exchange in the world. Functional tractors now available and completely accessible all over the world for humble farmers.  **👨‍🌾**
 
 ### Week 49 - ZB
 

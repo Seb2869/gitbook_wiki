@@ -2,6 +2,7 @@
 
 Some of Defi collaborations Harvest Finance have made along the way.
 
+* In [partnership ](https://medium.com/harvest-finance/stake-farm-on-binance-ab4a28f772e7)with Binance, the FARM is available for staking on the world's largest exchange.
 * In [partnership ](https://medium.com/harvest-finance/new-zusd-vault-baaa04d24361)with Zerogoki, Harvest launched Uniswap V3: zUSD-ETH incentivized by $200K monthly in zUSD.
 * In [collaboration ](https://medium.com/harvest-finance/how-to-protect-your-deposits-with-risk-harbor-in-depth-tutorial-f29644cc28ea)with Risk Harbor, Harvest users will be able to purchase protection for their fUSDC assets.
 *  In [collaboration ](https://medium.com/harvest-finance/new-ethereum-vault-ft-stakewise-72432809a5a6)with Stakewise.io, Harvest launches a new vault for $sETH2 & $WETH.

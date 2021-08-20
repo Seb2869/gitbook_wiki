@@ -42,13 +42,17 @@ Polygon address is 0x176f5AB638cf4Ff3B6239Ba609C3fadAA46ef5B0
 
 [FARM is available for trade on Coinbase](https://www.coinbase.com/)
 
-[You can buy FARM with USDT on gate.io](https://www.gate.io/en/trade/FARM_USDT), [but if you want to buy with ETH on gate.io click here.](https://www.gate.io/en/trade/FARM_ETH)
+[You can buy FARM with USDT on gate.io](https://www.gate.io/en/trade/FARM_USDT), [but if you want to buy with ETH on gate.io click here](https://www.gate.io/en/trade/FARM_ETH)
 
 [FARM is also available for trade on Hotbit with USDT](https://www.hotbit.io/exchange?symbol=FARM_USDT) [and Ethereum](https://www.hotbit.io/exchange?symbol=FARM_ETH)
 
 [You can buy FARM with ETH on Probit](https://www.probit.com/app/exchange/FARM-ETH)
 
 [FARM is available for trade on ZB](https://www.zb.com/en/kline/farm_usdt)
+
+[FARM token is available for trading on Binance in four pairs FARM/USDT](https://www.binance.com/en/trade/FARM_USDT), [FARM/BUSD](https://www.binance.com/en/trade/FARM_BUSD), [FARM/BTC](https://www.binance.com/en/trade/FARM_BTC), [FARM/BNB](https://www.binance.com/en/trade/FARM_BNB)
+
+[Buy FARM in Crypto.com with USDC. ](https://crypto.com/exchange/trade/spot/FARM_USDC)
 
 ##  Resources 
 
