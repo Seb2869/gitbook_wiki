@@ -10,6 +10,10 @@ Harvest Finance was launched by an anonymous team on September 1st, 2020 to rele
 
 ## Harvest Finance history <a id="harvest-finance-history"></a>
 
+### Week 50 - Binance
+
+Tractors got really serious, and Harvest Finance was listed on Binance, currently the largest exchange in the world. Functional tractors now available and completely accessible all over the world for humble farmers.  **👨‍🌾**
+
 ### Week 49 - ZB
 
 Harvest Finance was [listed on ZB.com](https://medium.com/harvest-finance/harvestrecap-week-49-5d9668591f4a). Harvest tractors now have even more exposure to Asian markets. 

@@ -48,6 +48,8 @@ Polygon address is 0x176f5AB638cf4Ff3B6239Ba609C3fadAA46ef5B0
 
 [You can buy FARM with ETH on Probit](https://www.probit.com/app/exchange/FARM-ETH)
 
+[FARM is available for trade on ZB](https://www.zb.com/en/kline/farm_usdt)
+
 ##  Resources 
 
 [Use the dashboard for monitoring your positions. ](https://harvest-dashboard.xyz/)
