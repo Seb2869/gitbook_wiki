@@ -82,6 +82,7 @@ description: >-
 * Japanese: [換金作物-価値を見極める](https://miwa-wv.medium.com/%E6%8F%9B%E9%87%91%E4%BD%9C%E7%89%A9-%E4%BE%A1%E5%80%A4%E3%82%92%E8%A6%8B%E6%A5%B5%E3%82%81%E3%82%8B-39575054f0c9)
 * Traditional Chinese: [現金作物評估產品-$ FARM](https://harvestfinance-tw.medium.com/%E7%8F%BE%E9%87%91%E4%BD%9C%E7%89%A9%E8%A9%95%E4%BC%B0%E7%94%A2%E5%93%81-farm-dd1eee158b1d)
 * Indonesian: [Cash Crop — Mengevalusi Produk](https://medium.com/@gamewatch21/cash-crop-mengevalusi-produk-8c4333939025)
+* Turkish: [Kar Mahsulü – Ürünün Değerlendirilmesi](https://harvestfiturkce.medium.com/kar-mahsulü-ürünün-değerlendirilmesi-7273be3fd91a)
 
 ### [**Beginners Tutorial — Six steps to joining Harvest Finance and the Yield Farming Revolution**](https://redmption.medium.com/yield-farming-for-beginners-getting-started-with-harvest-finance-aca3991fccc3) <a id="16f8"></a>
 
@@ -93,6 +94,7 @@ description: >-
 * Traditional Chinese: [初學者教程 — 加入Harvest Finance參與流動性挖擴革命的六個步驟](https://harvestfinance-tw.medium.com/%E7%B5%A6%E6%B5%81%E5%8B%95%E6%80%A7%E6%8C%96%E6%93%B4%E7%9A%84%E5%88%9D%E5%AD%B8%E8%80%85-harvest-finance-%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A0%82%E8%AA%B2-84b0b2155b)
 * Indoesian: [Tutorial Pemula — 6 Langkah untuk bergabung dalam Harvest Finance dan Revolusi Yield Farming](https://medium.com/@gamewatch21/tutorial-pemula-6-langkah-untuk-bergabung-dalam-harvest-finance-dan-revolusi-yield-farming-8f81c9d63c35)
 * Polish: [Poradnik dla początkujących — sześć kroków żeby dołączyć do Harvest Finance i rewolucji Yield Farming](https://1551lukas.medium.com/poradnik-dla-pocz%C4%85tkuj%C4%85cych-sze%C5%9B%C4%87-krok%C3%B3w-%C5%BCeby-do%C5%82%C4%85czy%C4%87-do-harvest-finance-i-rewolucji-yield-131c47539e38)
+* Turkish: [Harvest Finance Başlangıç Rehberi – Altı Adımda Harvest Finance ve Yield Farming Devrimine Katılım](https://harvestfiturkce.medium.com/harvest-finance-başlangıç-rehberi-altı-adımda-harvest-finance-ve-yield-farming-devrimine-katılım-6cc15475db)
 
 ### [**Flight of the Aggregator**](https://redmption.medium.com/flight-of-the-aggregator-1a687a1662ed) <a id="de50"></a>
 
@@ -120,6 +122,7 @@ description: >-
 * Russian: [Harvest 101: Понимание процесса разделения прибыли](https://maks-repin-repin.medium.com/harvest-101-%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D0%B8-e50822e38b2c)
 * Traditional Chinese: [Harvest 101 : 認識利潤分成](https://harvestfinance-tw.medium.com/harvest-101-%E8%AA%8D%E8%AD%98%E5%88%A9%E6%BD%A4%E5%88%86%E6%88%90-28d04856c887)
 * Indonesian: [Harvest 101: Memahami pembagian Keuntungan](https://medium.com/@gamewatch21/harvest-101-memahami-pembagian-keuntungan-415ceb3a10a1)
+* Turkish: [Harvest Finance 101: Kâr Payı](https://harvestfiturkce.medium.com/harvest-finance-101-kâr-payı-eebaeb83fded)
 
 ### [Harvest 101: FARM Token Economics](https://mbroome02.medium.com/harvest-101-farm-token-economics-1925f24537ca) <a id="5488"></a>
 
