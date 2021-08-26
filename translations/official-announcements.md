@@ -7,6 +7,28 @@ description: >-
 
 # Official announcements
 
+### [Recap: Binance AMA](https://medium.com/harvest-finance/recap-binance-ama-d37fae92b63a?source=user_profile---------0----------------------------)
+
+* 🇮🇹 Italian: [Riepilogo: Binance AMA](https://coirof.medium.com/riepilogo-binance-ama-c252cb77ad31)
+* 🇯🇵 Japanese: 
+* 🇵🇹 Portuguese: [Recapitulação: Binance AMA](https://medium.com/@Blue_Poison/recapitulação-binance-ama-a8b28c2a97a9)
+* 🇪🇸 Spanish: [Resumen del AMA en Binance](https://c3h.medium.com/resumen-del-ama-en-binance-a03cb3551956)
+* 🇹🇼 Traditional Chinese: 
+* 🇹🇷 Turkish: [Özet: Binance AMA](https://harvestfiturkce.medium.com/özet-binance-ama-5d7176b6edec)
+* Serbian: [Rezim: Binance AMA](https://medium.com/@krompir12422/rezim-binance-ama-f9ed160d1e2a)
+* Other international versions coming soon!
+
+### [New $PHTR Vaults](https://medium.com/harvest-finance/new-phtr-vaults-7c98bde7a7bf?source=user_profile---------2----------------------------)
+
+* 🇮🇹 Italian: [Nuova pool $PHTR](https://coirof.medium.com/nuova-pool-phtr-6588139f8bfa)
+* 🇯🇵 Japanese: [新たな$PHTRヴァルト](https://miwa-wv.medium.com/新たな-phtrヴァルト-6e0fae1be49f)
+* 🇵🇹 Portuguese: [Novos vaults $PHTR](https://medium.com/@Blue_Poison/novos-vaults-phtr-989df5a15445)
+* 🇪🇸 Spanish: [Nuevas Bóvedas $PHTR](https://c3h.medium.com/novas-bóvedas-phtr-b2f278cd3d47)
+* 🇹🇼 Traditional Chinese: [新資金庫 $PHTR](https://harvestfinance-tw.medium.com/新資金庫-phtr-5a358e985791)
+* 🇹🇷 Turkish: [Yeni $PHTR Kasaları](https://harvestfiturkce.medium.com/yeni-phtr-kasaları-ea4a243c9e1b)
+* Serbian: [Nova $PHTR Valuta!](https://medium.com/@krompir12422/nova-phtr-valuta-17b210151ec0)
+* Other international versions coming soon!
+
 ### [FARM/ETH Price Feed by Chainlink is Live](https://medium.com/harvest-finance/farm-eth-price-feed-by-chainlink-is-live-3c400ef76735)
 
 * 🇮🇹 Italian: [Il feed del prezzo FARM/ETH di Chainlink è attivo](https://coirof.medium.com/il-feed-del-prezzo-farm-eth-di-chainlink-%C3%A8-attivo-9d5d179482ca)
@@ -28,9 +50,8 @@ description: >-
 * 🇹🇷 Turkish: [Özet: 51. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-51-hafta-bf8c88ec109)
 * Serbian: [Recap:Nedelja 51](https://medium.com/@krompir12422/recap-nedelja-51-ae463f96adab)
 * Polish: [Aktualizacja — tydzień 51](https://1551lukas.medium.com/pl-aktualizacja-tydzie%C5%84-51-c18bf2e5fc0a)
-* Russian:
+* Russian: [Неделя №51](https://makurinma03.medium.com/неделя-50-9d81045792b6)
 * Indonesian: [Rekap: Minggu ke-51](https://gamewatch21.medium.com/rekap-minggu-ke-51-88d4a33f9f05)
-* Other international versions coming soon!
 
 ### [How to Stake $FARM On Binance](https://medium.com/harvest-finance/stake-farm-on-binance-ab4a28f772e7)
 
@@ -83,7 +104,7 @@ description: >-
 * 🇹🇷 Turkish: [Özet: 50. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-50-hafta-5cc2a57263fd)
 * Polish: [Aktualizacja — tydzień 50](https://1551lukas.medium.com/pl-aktualizacja-tydzie%C5%84-50-d9922505f3e8)
 * French: [Récapitulatif de la semaine 50](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-50-8795a2abd575)
-* Russian: [Неделя №50](https://makurinma03.medium.com/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-50-e725c89102b4)
+* Russian: [Неделя №50](https://makurinma03.medium.com/неделя-50-e725c89102b4)
 * Indonesian: [Rekap: Minggu ke-50](https://gamewatch21.medium.com/rekap-minggu-ke-50-ce660266c5dd)
 * Serbian: [Recap: Nedelja 50!](https://medium.com/@krompir12422/recap-nedelja-50-689e5d3a41e9)
 
