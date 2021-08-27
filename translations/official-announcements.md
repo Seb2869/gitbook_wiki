@@ -10,13 +10,13 @@ description: >-
 ### [Recap: Binance AMA](https://medium.com/harvest-finance/recap-binance-ama-d37fae92b63a?source=user_profile---------0----------------------------)
 
 * 🇮🇹 Italian: [Riepilogo: Binance AMA](https://coirof.medium.com/riepilogo-binance-ama-c252cb77ad31)
-* 🇯🇵 Japanese: 
+* 🇯🇵 Japanese: [おさらい：Binance AMA](https://miwa-wv.medium.com/おさらい-binance-ama-9c1f4b1ba202)
 * 🇵🇹 Portuguese: [Recapitulação: Binance AMA](https://medium.com/@Blue_Poison/recapitulação-binance-ama-a8b28c2a97a9)
 * 🇪🇸 Spanish: [Resumen del AMA en Binance](https://c3h.medium.com/resumen-del-ama-en-binance-a03cb3551956)
-* 🇹🇼 Traditional Chinese: 
+* 🇹🇼 Traditional Chinese: [回顧 — 幣安有問必答](https://harvestfinance-tw.medium.com/回顧-幣安有問必答-7588f580f327)
 * 🇹🇷 Turkish: [Özet: Binance AMA](https://harvestfiturkce.medium.com/özet-binance-ama-5d7176b6edec)
 * Serbian: [Rezim: Binance AMA](https://medium.com/@krompir12422/rezim-binance-ama-f9ed160d1e2a)
-* Other international versions coming soon!
+* Polish: [Podsumowanie: AMA z Binance](https://1551lukas.medium.com/podsumowanie-ama-z-binance-66d3873f02fc)
 
 ### [New $PHTR Vaults](https://medium.com/harvest-finance/new-phtr-vaults-7c98bde7a7bf?source=user_profile---------2----------------------------)
 
@@ -27,7 +27,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [新資金庫 $PHTR](https://harvestfinance-tw.medium.com/新資金庫-phtr-5a358e985791)
 * 🇹🇷 Turkish: [Yeni $PHTR Kasaları](https://harvestfiturkce.medium.com/yeni-phtr-kasaları-ea4a243c9e1b)
 * Serbian: [Nova $PHTR Valuta!](https://medium.com/@krompir12422/nova-phtr-valuta-17b210151ec0)
-* Other international versions coming soon!
+* Polish: [Nowe vaulty $PHTR](https://1551lukas.medium.com/nowe-vaulty-phtr-d498483176cd)
 
 ### [FARM/ETH Price Feed by Chainlink is Live](https://medium.com/harvest-finance/farm-eth-price-feed-by-chainlink-is-live-3c400ef76735)
 
