@@ -7,6 +7,16 @@ description: >-
 
 # Official announcements
 
+### [Recap: Week 52](https://medium.com/harvest-finance/recap-week-52-741a31b68003?source=collection_home---4------0-----------------------)
+
+* 🇮🇹 Italian: [Riepilogo: Settimana 52](https://coirof.medium.com/riepilogo-settimana-52-917a45537201)
+* 🇯🇵 Japanese: [おさらい：52週目](https://miwa-wv.medium.com/おさらい-52週目-8eb541210c85)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 52](https://medium.com/@Blue_Poison/recapitulação-semana-52-b84feaa9553)
+* 🇪🇸 Spanish: [Resumen de la Semana 52](https://c3h.medium.com/es-resumen-de-la-semana-52-90aef28e98e5)
+* 🇹🇼 Traditional Chinese: [第 52 週回顧](https://harvestfinance-tw.medium.com/第-52-週回顧-5e040c5d4735)
+* 🇹🇷 Turkish: [Özet: 52. Hafta](https://harvestfiturkce.medium.com/özet-52-hafta-70821ccfbdc1)
+* More international versions coming soon!
+
 ### [Recap: Binance AMA](https://medium.com/harvest-finance/recap-binance-ama-d37fae92b63a?source=user_profile---------0----------------------------)
 
 * 🇮🇹 Italian: [Riepilogo: Binance AMA](https://coirof.medium.com/riepilogo-binance-ama-c252cb77ad31)
