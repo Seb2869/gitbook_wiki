@@ -15,6 +15,7 @@ description: >-
 * 🇪🇸 Spanish: [Resumen de la Semana 52](https://c3h.medium.com/es-resumen-de-la-semana-52-90aef28e98e5)
 * 🇹🇼 Traditional Chinese: [第 52 週回顧](https://harvestfinance-tw.medium.com/第-52-週回顧-5e040c5d4735)
 * 🇹🇷 Turkish: [Özet: 52. Hafta](https://harvestfiturkce.medium.com/özet-52-hafta-70821ccfbdc1)
+* Serbian: [Recap:Nedelja 52](https://medium.com/@krompir12422/recap-nedelja-52-26d3883d688e)
 * More international versions coming soon!
 
 ### [Recap: Binance AMA](https://medium.com/harvest-finance/recap-binance-ama-d37fae92b63a?source=user_profile---------0----------------------------)
@@ -38,6 +39,7 @@ description: >-
 * 🇹🇷 Turkish: [Yeni $PHTR Kasaları](https://harvestfiturkce.medium.com/yeni-phtr-kasaları-ea4a243c9e1b)
 * Serbian: [Nova $PHTR Valuta!](https://medium.com/@krompir12422/nova-phtr-valuta-17b210151ec0)
 * Polish: [Nowe vaulty $PHTR](https://1551lukas.medium.com/nowe-vaulty-phtr-d498483176cd)
+* Russian: [Новые хранилища $PHTR](https://makurinma03.medium.com/новые-хранилища-phtr-2c9b4921c731)
 
 ### [FARM/ETH Price Feed by Chainlink is Live](https://medium.com/harvest-finance/farm-eth-price-feed-by-chainlink-is-live-3c400ef76735)
 
@@ -49,6 +51,7 @@ description: >-
 * 🇹🇷 Turkish: [FARM/ETH Fiyat Dengesi Yayında](https://harvestfiturkce.medium.com/farm-eth-fiyat-dengesi-yay%C4%B1nda-a635160d1c7e)
 * Polish: [Chainlink udostępnia źródło ceny FARM/ETH](https://1551lukas.medium.com/chainlink-udost%C4%99pnia-%C5%BAr%C3%B3d%C5%82o-ceny-farm-eth-6c051d1b2d5e)
 * Indonesian: [Info Harga FARM/ETH oleh Chainlink telah hadir](https://gamewatch21.medium.com/info-harga-farm-eth-oleh-chainlink-telah-hadir-fe340c614d59)
+* Russian: [Цена пары FARM/ETH обновляется в реальном времени](https://makurinma03.medium.com/цена-пары-farm-eth-обновляется-в-реальном-времени-58355b724a24)
 
 ### [Recap: Week 51](https://medium.com/harvest-finance/recap-week-51-13402ad84707)
 
