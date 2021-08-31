@@ -11,9 +11,9 @@ description: >-
 
 * 🇮🇹 Italian: [La storia non raccontata di Harvest — Primo anniversario](https://coirof.medium.com/la-storia-non-raccontata-di-harvest-primo-anniversario-2985283f8c11)
 * 🇯🇵 Japanese: [語られていないハーベストのことー1年記念](https://miwa-wv.medium.com/語られていないハーベストのことー1年記念-4047cfc2b178)
-* 🇵🇹 Portuguese: 
+* 🇵🇹 Portuguese: [A história não contada da Harvest - O Nosso Primeiro aniversário](https://medium.com/@Blue_Poison/a-história-não-contada-da-harvest-o-nosso-primeiro-aniversário-a2e8208157e3)
 * 🇪🇸 Spanish: [La historia no contada de Harvest — Primer aniversario](https://c3h.medium.com/es-la-historia-no-contada-de-harvest-primer-aniversario-6ed550ff421c)
-* 🇹🇼 Traditional Chinese: 
+* 🇹🇼 Traditional Chinese: [Harvest 異聞錄 — 一週年](https://harvestfinance-tw.medium.com/harvest-異聞錄-一週年-69098be6c824)
 * 🇹🇷 Turkish: [Harvest’ın Anlatılmamış Hikayesi — Birinci Yıldönümü](https://harvestfiturkce.medium.com/harvestın-anlatılmamış-hikayesi-birinci-yıldönümü-fb19caf5ca0e)
 
 ### [Recap: Week 52](https://medium.com/harvest-finance/recap-week-52-741a31b68003?source=collection_home---4------0-----------------------)
