@@ -7,6 +7,15 @@ description: >-
 
 # Official announcements
 
+### [The Untold Story of Harvest — First Anniversary](https://medium.com/harvest-finance/the-untold-story-of-harvest-first-anniversary-967d8b094907)
+
+* 🇮🇹 Italian: [La storia non raccontata di Harvest — Primo anniversario](https://coirof.medium.com/la-storia-non-raccontata-di-harvest-primo-anniversario-2985283f8c11)
+* 🇯🇵 Japanese: [語られていないハーベストのことー1年記念](https://miwa-wv.medium.com/語られていないハーベストのことー1年記念-4047cfc2b178)
+* 🇵🇹 Portuguese: 
+* 🇪🇸 Spanish: [La historia no contada de Harvest — Primer aniversario](https://c3h.medium.com/es-la-historia-no-contada-de-harvest-primer-aniversario-6ed550ff421c)
+* 🇹🇼 Traditional Chinese: 
+* 🇹🇷 Turkish: [Harvest’ın Anlatılmamış Hikayesi — Birinci Yıldönümü](https://harvestfiturkce.medium.com/harvestın-anlatılmamış-hikayesi-birinci-yıldönümü-fb19caf5ca0e)
+
 ### [Recap: Week 52](https://medium.com/harvest-finance/recap-week-52-741a31b68003?source=collection_home---4------0-----------------------)
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 52](https://coirof.medium.com/riepilogo-settimana-52-917a45537201)
@@ -16,6 +25,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [第 52 週回顧](https://harvestfinance-tw.medium.com/第-52-週回顧-5e040c5d4735)
 * 🇹🇷 Turkish: [Özet: 52. Hafta](https://harvestfiturkce.medium.com/özet-52-hafta-70821ccfbdc1)
 * Serbian: [Recap:Nedelja 52](https://medium.com/@krompir12422/recap-nedelja-52-26d3883d688e)
+* Polish: [Aktualizacja — tydzień 52](https://1551lukas.medium.com/pl-aktualizacja-tydzień-52-4a4deb90226f)
 * More international versions coming soon!
 
 ### [Recap: Binance AMA](https://medium.com/harvest-finance/recap-binance-ama-d37fae92b63a?source=user_profile---------0----------------------------)
