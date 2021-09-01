@@ -7,6 +7,16 @@ description: >-
 
 # Official announcements
 
+### [Harvest’s Creativity Contest — Anniversary Edition](https://medium.com/harvest-finance/harvests-creativity-contest-anniversary-edition-fc5255bc1172)
+
+* 🇮🇹 Italian: [Contest creativo di Harvest — Edizione Anniversario](https://coirof.medium.com/contest-creativo-di-harvest-edizione-anniversario-6e38aac65c2c)
+* 🇯🇵 Japanese:[ ハーベストのクリエイティブコンテスト — 一年記念](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)
+* 🇵🇹 Portuguese: [Concurso Criativo da Harvest - Edição Aniversário](https://medium.com/@Blue_Poison/concurso-criativo-da-harvest-edição-aniversário-a0f490d380a3)
+* 🇪🇸 Spanish: [Concurso de creatividad de Harvest — Edición de aniversario](https://c3h.medium.com/concurso-de-creatividad-de-harvest-edición-de-aniversario-91f7b86ac9e3)
+* 🇹🇼 Traditional Chinese: [Harvest 創意大賽 — 週年紀念版](https://harvestfinance-tw.medium.com/harvest-創意大賽-週年紀念版-a3c2f4018fc1)
+* 🇹🇷 Turkish: 
+* More international versions coming soon!
+
 ### [The Untold Story of Harvest — First Anniversary](https://medium.com/harvest-finance/the-untold-story-of-harvest-first-anniversary-967d8b094907)
 
 * 🇮🇹 Italian: [La storia non raccontata di Harvest — Primo anniversario](https://coirof.medium.com/la-storia-non-raccontata-di-harvest-primo-anniversario-2985283f8c11)
@@ -15,6 +25,7 @@ description: >-
 * 🇪🇸 Spanish: [La historia no contada de Harvest — Primer aniversario](https://c3h.medium.com/es-la-historia-no-contada-de-harvest-primer-aniversario-6ed550ff421c)
 * 🇹🇼 Traditional Chinese: [Harvest 異聞錄 — 一週年](https://harvestfinance-tw.medium.com/harvest-異聞錄-一週年-69098be6c824)
 * 🇹🇷 Turkish: [Harvest’ın Anlatılmamış Hikayesi — Birinci Yıldönümü](https://harvestfiturkce.medium.com/harvestın-anlatılmamış-hikayesi-birinci-yıldönümü-fb19caf5ca0e)
+* More international versions coming soon!
 
 ### [Recap: Week 52](https://medium.com/harvest-finance/recap-week-52-741a31b68003?source=collection_home---4------0-----------------------)
 
@@ -38,6 +49,7 @@ description: >-
 * 🇹🇷 Turkish: [Özet: Binance AMA](https://harvestfiturkce.medium.com/özet-binance-ama-5d7176b6edec)
 * Serbian: [Rezim: Binance AMA](https://medium.com/@krompir12422/rezim-binance-ama-f9ed160d1e2a)
 * Polish: [Podsumowanie: AMA z Binance](https://1551lukas.medium.com/podsumowanie-ama-z-binance-66d3873f02fc)
+* Russian: Итог: [Binance AMA](https://makurinma03.medium.com/итог-binance-ama-46a7a0858cf9)
 
 ### [New $PHTR Vaults](https://medium.com/harvest-finance/new-phtr-vaults-7c98bde7a7bf?source=user_profile---------2----------------------------)
 
@@ -50,6 +62,7 @@ description: >-
 * Serbian: [Nova $PHTR Valuta!](https://medium.com/@krompir12422/nova-phtr-valuta-17b210151ec0)
 * Polish: [Nowe vaulty $PHTR](https://1551lukas.medium.com/nowe-vaulty-phtr-d498483176cd)
 * Russian: [Новые хранилища $PHTR](https://makurinma03.medium.com/новые-хранилища-phtr-2c9b4921c731)
+* Indonesian: [Vault Baru $PHTR](https://gamewatch21.medium.com/vault-baru-phtr-1228ec7b46e1)
 
 ### [FARM/ETH Price Feed by Chainlink is Live](https://medium.com/harvest-finance/farm-eth-price-feed-by-chainlink-is-live-3c400ef76735)
 
@@ -62,6 +75,7 @@ description: >-
 * Polish: [Chainlink udostępnia źródło ceny FARM/ETH](https://1551lukas.medium.com/chainlink-udost%C4%99pnia-%C5%BAr%C3%B3d%C5%82o-ceny-farm-eth-6c051d1b2d5e)
 * Indonesian: [Info Harga FARM/ETH oleh Chainlink telah hadir](https://gamewatch21.medium.com/info-harga-farm-eth-oleh-chainlink-telah-hadir-fe340c614d59)
 * Russian: [Цена пары FARM/ETH обновляется в реальном времени](https://makurinma03.medium.com/цена-пары-farm-eth-обновляется-в-реальном-времени-58355b724a24)
+* French: [Le flux de prix FARM/ETH sur Chainlink est disponible](https://bob-duval.medium.com/le-flux-de-prix-farm-eth-sur-chainlink-est-disponible-f1badaf35672)
 
 ### [Recap: Week 51](https://medium.com/harvest-finance/recap-week-51-13402ad84707)
 
@@ -75,6 +89,7 @@ description: >-
 * Polish: [Aktualizacja — tydzień 51](https://1551lukas.medium.com/pl-aktualizacja-tydzie%C5%84-51-c18bf2e5fc0a)
 * Russian: [Неделя №51](https://makurinma03.medium.com/неделя-50-9d81045792b6)
 * Indonesian: [Rekap: Minggu ke-51](https://gamewatch21.medium.com/rekap-minggu-ke-51-88d4a33f9f05)
+* French: [Récapitulatif de la semaine 51](https://bob-duval.medium.com/récapitulatif-de-la-semaine-51-2c36608e3646)
 
 ### [How to Stake $FARM On Binance](https://medium.com/harvest-finance/stake-farm-on-binance-ab4a28f772e7)
 
@@ -88,6 +103,7 @@ description: >-
 * Russian: [Как стейкать $FARM на Binance](https://makurinma03.medium.com/%D0%BA%D0%B0%D0%BA-%D1%81%D1%82%D0%B5%D0%B9%D0%BA%D0%B0%D1%82%D1%8C-farm-%D0%BD%D0%B0-binance-cea3d90ea91e)
 * Polish: [Jak stakować $FARM na Binance](https://1551lukas.medium.com/jak-stakowa%C4%87-farm-na-binance-96af4eb65759)
 * Indonesian: [Bagaimama untuk stake $FARM di Binance](https://gamewatch21.medium.com/bagaimama-untuk-stake-farm-di-binance-ed6ba545366e)
+* French: [Comment cumuler des $FARM sur Binance](https://bob-duval.medium.com/comment-cumuler-des-farm-sur-binance-95c7edb508c5)
 
 ### [Harvest Points Its BuyBack Mechanism at Bancor](https://medium.com/harvest-finance/harvest-points-its-buyback-mechanism-at-bancor-e71a884df1a1)
 
