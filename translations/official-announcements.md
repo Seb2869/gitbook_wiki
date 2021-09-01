@@ -25,6 +25,7 @@ description: >-
 * 🇪🇸 Spanish: [La historia no contada de Harvest — Primer aniversario](https://c3h.medium.com/es-la-historia-no-contada-de-harvest-primer-aniversario-6ed550ff421c)
 * 🇹🇼 Traditional Chinese: [Harvest 異聞錄 — 一週年](https://harvestfinance-tw.medium.com/harvest-異聞錄-一週年-69098be6c824)
 * 🇹🇷 Turkish: [Harvest’ın Anlatılmamış Hikayesi — Birinci Yıldönümü](https://harvestfiturkce.medium.com/harvestın-anlatılmamış-hikayesi-birinci-yıldönümü-fb19caf5ca0e)
+* Serbian: [Neispričana priča o Harvestu— prva godišnjica](https://medium.com/@krompir12422/neispričana-priča-o-harvestu-prva-godišnjica-8403142f8dd4)
 * More international versions coming soon!
 
 ### [Recap: Week 52](https://medium.com/harvest-finance/recap-week-52-741a31b68003?source=collection_home---4------0-----------------------)
@@ -63,6 +64,7 @@ description: >-
 * Polish: [Nowe vaulty $PHTR](https://1551lukas.medium.com/nowe-vaulty-phtr-d498483176cd)
 * Russian: [Новые хранилища $PHTR](https://makurinma03.medium.com/новые-хранилища-phtr-2c9b4921c731)
 * Indonesian: [Vault Baru $PHTR](https://gamewatch21.medium.com/vault-baru-phtr-1228ec7b46e1)
+* French: [Nouveaux coffres $PHTR](https://bob-duval.medium.com/nouveaux-coffres-phtr-367c31d678dc)
 
 ### [FARM/ETH Price Feed by Chainlink is Live](https://medium.com/harvest-finance/farm-eth-price-feed-by-chainlink-is-live-3c400ef76735)
 
