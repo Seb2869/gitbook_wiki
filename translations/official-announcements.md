@@ -14,7 +14,7 @@ description: >-
 * 🇵🇹 Portuguese: [Concurso Criativo da Harvest - Edição Aniversário](https://medium.com/@Blue_Poison/concurso-criativo-da-harvest-edição-aniversário-a0f490d380a3)
 * 🇪🇸 Spanish: [Concurso de creatividad de Harvest — Edición de aniversario](https://c3h.medium.com/concurso-de-creatividad-de-harvest-edición-de-aniversario-91f7b86ac9e3)
 * 🇹🇼 Traditional Chinese: [Harvest 創意大賽 — 週年紀念版](https://harvestfinance-tw.medium.com/harvest-創意大賽-週年紀念版-a3c2f4018fc1)
-* 🇹🇷 Turkish: 
+* 🇹🇷 Turkish: [Yıldönümüne Özel Harvest Yaratıcılık Yarışması](https://harvestfiturkce.medium.com/yıldönümüne-özel-harvest-yaratıcılık-yarışması-e532a11b8232)
 * More international versions coming soon!
 
 ### [The Untold Story of Harvest — First Anniversary](https://medium.com/harvest-finance/the-untold-story-of-harvest-first-anniversary-967d8b094907)
