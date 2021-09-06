@@ -7,6 +7,16 @@ description: >-
 
 # Official announcements
 
+### [Recap: August 2021](https://medium.com/harvest-finance/recap-august-2021-5dac29f3c1d3)
+
+* 🇮🇹 Italian: [Riepilogo: Agosto 2021](https://coirof.medium.com/riepilogo-agosto-2021-6aa1d87ee1b1)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[おさらい：2021年8月](https://miwa-wv.medium.com/おさらい-2021年8月-661a07b1e8be)
+* 🇵🇹 Portuguese: [Recapitulação: Agosto de 2021](https://medium.com/@Blue_Poison/recapitulação-agosto-de-2021-4bfaf963568)
+* 🇪🇸 Spanish: [Recapitulación: Agosto 2021](https://c3h.medium.com/recapitulación-agosto-2021-ea7d8df17090)
+* 🇹🇼 Traditional Chinese: [2021 年 8 月回顧](https://harvestfinance-tw.medium.com/2021-年-8-月回顧-63ed2d43d22f)
+* 🇹🇷 Turkish: [Özet: Ağustos 2021](https://harvestfiturkce.medium.com/özet-ağustos-2021-34a621938dcc)
+* More international versions coming soon!
+
 ### [Harvest’s Creativity Contest — Anniversary Edition](https://medium.com/harvest-finance/harvests-creativity-contest-anniversary-edition-fc5255bc1172)
 
 * 🇮🇹 Italian: [Contest creativo di Harvest — Edizione Anniversario](https://coirof.medium.com/contest-creativo-di-harvest-edizione-anniversario-6e38aac65c2c)
@@ -15,6 +25,8 @@ description: >-
 * 🇪🇸 Spanish: [Concurso de creatividad de Harvest — Edición de aniversario](https://c3h.medium.com/concurso-de-creatividad-de-harvest-edición-de-aniversario-91f7b86ac9e3)
 * 🇹🇼 Traditional Chinese: [Harvest 創意大賽 — 週年紀念版](https://harvestfinance-tw.medium.com/harvest-創意大賽-週年紀念版-a3c2f4018fc1)
 * 🇹🇷 Turkish: [Yıldönümüne Özel Harvest Yaratıcılık Yarışması](https://harvestfiturkce.medium.com/yıldönümüne-özel-harvest-yaratıcılık-yarışması-e532a11b8232)
+* Serbian: [Harvestov Kreativiti Contest — godišnjica](https://medium.com/@krompir12422/harvestov-kreativiti-contest-godišnjica-13f92d3779fc)
+* Polish: [Harvest ogłasza konkurs na kreatywność — edycja urodzinowa](https://1551lukas.medium.com/harvest-ogłasza-konkurs-na-kreatywność-edycja-urodzinowa-97c3a823faed)
 * More international versions coming soon!
 
 ### [The Untold Story of Harvest — First Anniversary](https://medium.com/harvest-finance/the-untold-story-of-harvest-first-anniversary-967d8b094907)
@@ -26,6 +38,8 @@ description: >-
 * 🇹🇼 Traditional Chinese: [Harvest 異聞錄 — 一週年](https://harvestfinance-tw.medium.com/harvest-異聞錄-一週年-69098be6c824)
 * 🇹🇷 Turkish: [Harvest’ın Anlatılmamış Hikayesi — Birinci Yıldönümü](https://harvestfiturkce.medium.com/harvestın-anlatılmamış-hikayesi-birinci-yıldönümü-fb19caf5ca0e)
 * Serbian: [Neispričana priča o Harvestu— prva godišnjica](https://medium.com/@krompir12422/neispričana-priča-o-harvestu-prva-godišnjica-8403142f8dd4)
+* French: [L’histoire jamais racontée de Harvest — Premier anniversaire](https://bob-duval.medium.com/lhistoire-jamais-racontée-de-harvest-premier-anniversaire-e48f1796096f)
+* Russian: [Нерассказанная история Harvest— Первая годовщина](https://makurinma03.medium.com/нерассказанная-история-harvest-первая-годовщина-8e3f0a745ac4)
 * More international versions coming soon!
 
 ### [Recap: Week 52](https://medium.com/harvest-finance/recap-week-52-741a31b68003?source=collection_home---4------0-----------------------)
@@ -38,6 +52,8 @@ description: >-
 * 🇹🇷 Turkish: [Özet: 52. Hafta](https://harvestfiturkce.medium.com/özet-52-hafta-70821ccfbdc1)
 * Serbian: [Recap:Nedelja 52](https://medium.com/@krompir12422/recap-nedelja-52-26d3883d688e)
 * Polish: [Aktualizacja — tydzień 52](https://1551lukas.medium.com/pl-aktualizacja-tydzień-52-4a4deb90226f)
+* French: [Récapitulatif de la semaine 52](https://bob-duval.medium.com/récapitulatif-de-la-semaine-52-39611cd56274)
+* Russian: [Неделя №52](https://makurinma03.medium.com/rus-неделя-52-44a0930ccb3a)
 * More international versions coming soon!
 
 ### [Recap: Binance AMA](https://medium.com/harvest-finance/recap-binance-ama-d37fae92b63a?source=user_profile---------0----------------------------)
@@ -51,6 +67,7 @@ description: >-
 * Serbian: [Rezim: Binance AMA](https://medium.com/@krompir12422/rezim-binance-ama-f9ed160d1e2a)
 * Polish: [Podsumowanie: AMA z Binance](https://1551lukas.medium.com/podsumowanie-ama-z-binance-66d3873f02fc)
 * Russian: Итог: [Binance AMA](https://makurinma03.medium.com/итог-binance-ama-46a7a0858cf9)
+* French: [Récapitulatif Binance AMA](https://bob-duval.medium.com/récaptitulatif-binance-ama-3f0ef7deb436)
 
 ### [New $PHTR Vaults](https://medium.com/harvest-finance/new-phtr-vaults-7c98bde7a7bf?source=user_profile---------2----------------------------)
 
