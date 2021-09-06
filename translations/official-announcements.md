@@ -27,6 +27,7 @@ description: >-
 * 🇹🇷 Turkish: [Yıldönümüne Özel Harvest Yaratıcılık Yarışması](https://harvestfiturkce.medium.com/yıldönümüne-özel-harvest-yaratıcılık-yarışması-e532a11b8232)
 * Serbian: [Harvestov Kreativiti Contest — godišnjica](https://medium.com/@krompir12422/harvestov-kreativiti-contest-godišnjica-13f92d3779fc)
 * Polish: [Harvest ogłasza konkurs na kreatywność — edycja urodzinowa](https://1551lukas.medium.com/harvest-ogłasza-konkurs-na-kreatywność-edycja-urodzinowa-97c3a823faed)
+* French: [Concours de créativité de Harvest — Anniversary Edition](https://bob-duval.medium.com/concours-de-créativité-de-harvest-anniversary-edition-ede9257f0ef3)
 * More international versions coming soon!
 
 ### [The Untold Story of Harvest — First Anniversary](https://medium.com/harvest-finance/the-untold-story-of-harvest-first-anniversary-967d8b094907)
