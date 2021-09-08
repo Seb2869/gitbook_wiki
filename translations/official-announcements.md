@@ -15,6 +15,7 @@ description: >-
 * 🇪🇸 Spanish: [Recapitulación: Agosto 2021](https://c3h.medium.com/recapitulación-agosto-2021-ea7d8df17090)
 * 🇹🇼 Traditional Chinese: [2021 年 8 月回顧](https://harvestfinance-tw.medium.com/2021-年-8-月回顧-63ed2d43d22f)
 * 🇹🇷 Turkish: [Özet: Ağustos 2021](https://harvestfiturkce.medium.com/özet-ağustos-2021-34a621938dcc)
+* French: [Récapitulatif du mois d’août 2021](https://bob-duval.medium.com/récapitulatif-du-mois-daoût-2021-5f9d4304ee82)
 * More international versions coming soon!
 
 ### [Harvest’s Creativity Contest — Anniversary Edition](https://medium.com/harvest-finance/harvests-creativity-contest-anniversary-edition-fc5255bc1172)
