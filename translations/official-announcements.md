@@ -56,6 +56,7 @@ description: >-
 * Polish: [Aktualizacja — tydzień 52](https://1551lukas.medium.com/pl-aktualizacja-tydzień-52-4a4deb90226f)
 * French: [Récapitulatif de la semaine 52](https://bob-duval.medium.com/récapitulatif-de-la-semaine-52-39611cd56274)
 * Russian: [Неделя №52](https://makurinma03.medium.com/rus-неделя-52-44a0930ccb3a)
+* Indonesian: [Rekap: Minggu Ke-52](https://gamewatch21.medium.com/rekap-minggu-ke-52-b35cb96eb00b)
 * More international versions coming soon!
 
 ### [Recap: Binance AMA](https://medium.com/harvest-finance/recap-binance-ama-d37fae92b63a?source=user_profile---------0----------------------------)
