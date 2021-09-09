@@ -7,6 +7,26 @@ description: >-
 
 # Official announcements
 
+### [Bancor To Extend LM Rewards for the $FARM Pool](https://medium.com/harvest-finance/bancor-to-extend-lm-rewards-for-the-farm-pool-7f855fe73a90?source=collection_home---4------1-----------------------)
+
+* 🇮🇹 Italian: [Bancor estende le ricompense per la pool $FARM](https://coirof.medium.com/bancor-estende-le-ricompense-per-la-pool-farm-65793f2e37cc)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[$FARMプールのLM報酬を拡張するBancor](https://miwa-wv.medium.com/farmプールのlm報酬を拡張するbancor-58979fde4226)
+* 🇵🇹 Portuguese: [Bancor irá estender suas recompensas LM para o pool de $FARM](https://medium.com/@Blue_Poison/bancor-irá-estender-suas-recompensas-lm-para-o-pool-de-farm-fb302a727375)
+* 🇪🇸 Spanish: [Bancor ampliará las recompensas de LM para el fondo común de $FARM](https://c3h.medium.com/bancor-ampliará-las-recompensas-de-lm-para-el-fondo-común-de-farm-fb8bde41b8c3)
+* 🇹🇼 Traditional Chinese: [Bancor 為 $FARM 資金池延長流動性挖礦獎勵](https://harvestfinance-tw.medium.com/bancor-為-farm-資金池延長流動性挖礦獎勵-b6e648aeb702)
+* 🇹🇷 Turkish: 
+* More international versions coming soon!
+
+### [Harvest Participates in Gitcoin Grants Round 11](https://medium.com/harvest-finance/harvest-participates-in-gitcoin-grants-round-11-4f13901a683e?source=collection_home---4------2-----------------------)
+
+* 🇮🇹 Italian: [Harvest partecipa al Gitcoin Grants Round 11](https://coirof.medium.com/harvest-partecipa-al-gitcoin-grants-round-11-a4dbf6de69bb)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[ハーベスト、Gitcoin助成金ラウンド11に参加](https://miwa-wv.medium.com/ハーベスト-gitcoin助成金ラウンド11に参加-30dd4f943b25)
+* 🇵🇹 Portuguese: [Harvest Participa da Rodada 11 do Gitcoin Grants](https://medium.com/@Blue_Poison/harvest-participa-da-rodada-11-do-gitcoin-grants-10d512007479)
+* 🇪🇸 Spanish: [Harvest participa en la 11ª ronda de becas de Gitcoin](https://c3h.medium.com/harvest-participa-en-la-11ª-ronda-de-becas-de-gitcoin-35539accdcc7)
+* 🇹🇼 Traditional Chinese: [Harvest 參與 Gitcoin Grants 第 11 輪](https://harvestfinance-tw.medium.com/harvest-參與-gitcoin-grants-第-11-輪-e6341d29fd4d)
+* 🇹🇷 Turkish: [Harvest Gitcoin Grants 11. Turuna Katılıyor!](https://harvestfiturkce.medium.com/harvest-gitcoin-grants-11-turuna-katılıyor-3b1c4d9b95bd)
+* More international versions coming soon!
+
 ### [Recap: August 2021](https://medium.com/harvest-finance/recap-august-2021-5dac29f3c1d3)
 
 * 🇮🇹 Italian: [Riepilogo: Agosto 2021](https://coirof.medium.com/riepilogo-agosto-2021-6aa1d87ee1b1)
