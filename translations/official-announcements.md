@@ -7,6 +7,17 @@ description: >-
 
 # Official announcements
 
+### [Recap: Week 54](https://medium.com/harvest-finance/recap-week-54-560ba04fe29c)
+
+* 🇮🇹 Italian: [Riepilogo: Settimana 54](https://coirof.medium.com/riepilogo-settimana-54-a1a537130f31)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[おさらい：54週目](https://miwa-wv.medium.com/おさらい-54週目-bda316cb03a3)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 54](https://medium.com/@Blue_Poison/recapitulação-semana-54-4b75fae25d4)
+* 🇪🇸 Spanish: [Resumen de la Semana 54](https://c3h.medium.com/es-resumen-de-la-semana-52-f452cfb7b4c9)
+* 🇹🇼 Traditional Chinese: [第 54 週回顧](https://harvestfinance-tw.medium.com/第-54-週回顧-a61956a5913b)
+* 🇹🇷 Turkish: [Özet: 54. Hafta](https://harvestfiturkce.medium.com/özet-54-hafta-72d575992d40)
+* French: [Récapitulatif de la semaine 54](https://bob-duval.medium.com/récapitulatif-de-la-semaine-54-d9533dab1c5)
+* More international versions coming soon!
+
 ### [Bancor To Extend LM Rewards for the $FARM Pool](https://medium.com/harvest-finance/bancor-to-extend-lm-rewards-for-the-farm-pool-7f855fe73a90?source=collection_home---4------1-----------------------)
 
 * 🇮🇹 Italian: [Bancor estende le ricompense per la pool $FARM](https://coirof.medium.com/bancor-estende-le-ricompense-per-la-pool-farm-65793f2e37cc)
@@ -14,8 +25,9 @@ description: >-
 * 🇵🇹 Portuguese: [Bancor irá estender suas recompensas LM para o pool de $FARM](https://medium.com/@Blue_Poison/bancor-irá-estender-suas-recompensas-lm-para-o-pool-de-farm-fb302a727375)
 * 🇪🇸 Spanish: [Bancor ampliará las recompensas de LM para el fondo común de $FARM](https://c3h.medium.com/bancor-ampliará-las-recompensas-de-lm-para-el-fondo-común-de-farm-fb8bde41b8c3)
 * 🇹🇼 Traditional Chinese: [Bancor 為 $FARM 資金池延長流動性挖礦獎勵](https://harvestfinance-tw.medium.com/bancor-為-farm-資金池延長流動性挖礦獎勵-b6e648aeb702)
-* 🇹🇷 Turkish: 
-* More international versions coming soon!
+* 🇹🇷 Turkish: [Bancor $FARM Havuzu için LM Ödüllerini Uzatıyor](https://harvestfiturkce.medium.com/bancor-farm-havuzu-için-lm-ödüllerini-uzatıyor-9cfa90075467)
+* Polish: [Bancor przedłuża program wspierania płynności dla puli $FARM](https://1551lukas.medium.com/bancor-przedłuża-program-wspierania-płynności-dla-puli-farm-afa207cce391)
+* French: [Bancor va étendre les récompenses de liquidité pour la cagnotte $FARM](https://bob-duval.medium.com/bancor-va-étendre-les-récompenses-de-liquidité-pour-la-cagnotte-farm-4000bec14000)
 
 ### [Harvest Participates in Gitcoin Grants Round 11](https://medium.com/harvest-finance/harvest-participates-in-gitcoin-grants-round-11-4f13901a683e?source=collection_home---4------2-----------------------)
 
@@ -25,7 +37,11 @@ description: >-
 * 🇪🇸 Spanish: [Harvest participa en la 11ª ronda de becas de Gitcoin](https://c3h.medium.com/harvest-participa-en-la-11ª-ronda-de-becas-de-gitcoin-35539accdcc7)
 * 🇹🇼 Traditional Chinese: [Harvest 參與 Gitcoin Grants 第 11 輪](https://harvestfinance-tw.medium.com/harvest-參與-gitcoin-grants-第-11-輪-e6341d29fd4d)
 * 🇹🇷 Turkish: [Harvest Gitcoin Grants 11. Turuna Katılıyor!](https://harvestfiturkce.medium.com/harvest-gitcoin-grants-11-turuna-katılıyor-3b1c4d9b95bd)
-* More international versions coming soon!
+* Serbian: [Harvest učestvuje u 11. krugu grantova Gitcoin](https://medium.com/@krompir12422/harvest-učestvuje-u-11-krugu-grantova-gitcoin-6bae318b83e1)
+* French: [Harvest participe au 11ème tour des subventions Gitcoin](https://bob-duval.medium.com/harvest-participe-au-11ème-tour-des-subventions-gitcoin-4d192647b282)
+* Polish: [Harvest bierze udział w jedenastej edycji Gitcoin Grants!](https://1551lukas.medium.com/harvest-bierze-udział-w-jedenastej-edycji-gitcoin-grants-322210528575)
+* Russian: [Harvest участвует в 11 раунде Gitcoin](https://makurinma03.medium.com/harvest-участвует-в-11-раунде-gitcoin-148c3c200a30)
+* Indonesian: [Harvest berpartisipasi di Gitcoin ronde 11](https://gamewatch21.medium.com/harvest-berpartisipasi-di-gitcoin-ronde-11-7f8c970b82d6)
 
 ### [Recap: August 2021](https://medium.com/harvest-finance/recap-august-2021-5dac29f3c1d3)
 
@@ -36,7 +52,8 @@ description: >-
 * 🇹🇼 Traditional Chinese: [2021 年 8 月回顧](https://harvestfinance-tw.medium.com/2021-年-8-月回顧-63ed2d43d22f)
 * 🇹🇷 Turkish: [Özet: Ağustos 2021](https://harvestfiturkce.medium.com/özet-ağustos-2021-34a621938dcc)
 * French: [Récapitulatif du mois d’août 2021](https://bob-duval.medium.com/récapitulatif-du-mois-daoût-2021-5f9d4304ee82)
-* More international versions coming soon!
+* Serbian: [Recap:August 2021](https://medium.com/@krompir12422/recap-august-2021-82da2b74540d)
+* Russian: [Сводка: Август 2021](https://makurinma03.medium.com/сводка-август-2021-5a0837624eb3)
 
 ### [Harvest’s Creativity Contest — Anniversary Edition](https://medium.com/harvest-finance/harvests-creativity-contest-anniversary-edition-fc5255bc1172)
 
@@ -49,7 +66,7 @@ description: >-
 * Serbian: [Harvestov Kreativiti Contest — godišnjica](https://medium.com/@krompir12422/harvestov-kreativiti-contest-godišnjica-13f92d3779fc)
 * Polish: [Harvest ogłasza konkurs na kreatywność — edycja urodzinowa](https://1551lukas.medium.com/harvest-ogłasza-konkurs-na-kreatywność-edycja-urodzinowa-97c3a823faed)
 * French: [Concours de créativité de Harvest — Anniversary Edition](https://bob-duval.medium.com/concours-de-créativité-de-harvest-anniversary-edition-ede9257f0ef3)
-* More international versions coming soon!
+* Indonesian: [Kontes Kreatifitas Harvest — Edisi Ulang Tahun](https://gamewatch21.medium.com/kontes-kreatifitas-harvest-edisi-ulang-tahun-d596481639ae)
 
 ### [The Untold Story of Harvest — First Anniversary](https://medium.com/harvest-finance/the-untold-story-of-harvest-first-anniversary-967d8b094907)
 
@@ -62,7 +79,7 @@ description: >-
 * Serbian: [Neispričana priča o Harvestu— prva godišnjica](https://medium.com/@krompir12422/neispričana-priča-o-harvestu-prva-godišnjica-8403142f8dd4)
 * French: [L’histoire jamais racontée de Harvest — Premier anniversaire](https://bob-duval.medium.com/lhistoire-jamais-racontée-de-harvest-premier-anniversaire-e48f1796096f)
 * Russian: [Нерассказанная история Harvest— Первая годовщина](https://makurinma03.medium.com/нерассказанная-история-harvest-первая-годовщина-8e3f0a745ac4)
-* More international versions coming soon!
+* Indonesian: [“The Untold Story" dari Harvest — Ulang Tahun yang Pertama](https://gamewatch21.medium.com/the-untold-story-dari-harvest-ulang-tahun-yang-pertama-3fa7204ef6fc)
 
 ### [Recap: Week 52](https://medium.com/harvest-finance/recap-week-52-741a31b68003?source=collection_home---4------0-----------------------)
 
@@ -77,7 +94,6 @@ description: >-
 * French: [Récapitulatif de la semaine 52](https://bob-duval.medium.com/récapitulatif-de-la-semaine-52-39611cd56274)
 * Russian: [Неделя №52](https://makurinma03.medium.com/rus-неделя-52-44a0930ccb3a)
 * Indonesian: [Rekap: Minggu Ke-52](https://gamewatch21.medium.com/rekap-minggu-ke-52-b35cb96eb00b)
-* More international versions coming soon!
 
 ### [Recap: Binance AMA](https://medium.com/harvest-finance/recap-binance-ama-d37fae92b63a?source=user_profile---------0----------------------------)
 
