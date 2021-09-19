@@ -33,7 +33,7 @@ All done? Alright! Let's get farming!
 * Go ahead and install the MetaMask extension on your Brave browser. You're using Brave, right? I thought you said you were into this whole blockchain thing!
 * If you are using Brave, go into Brave Settings → Extensions → Web3 provider for using Dapps. Then select MetaMask \(or whatever wallet you installed\) from the dropdown.
 
-![](../../../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 * Follow instructions on your exchange and your wallet to transfer USDC from the exchange to the wallet. The flow would be something like this:
 * On your Exchange, follow instructions to Send USDC
@@ -49,13 +49,13 @@ All done? Alright! Let's get farming!
 * Now the fun begins! Navigate to [harvest.finance](https://harvest.finance/) with a Desktop browser \(doesn't work with mobile, sorry, not sorry\).
 * Click Connect Wallet. 
 
-![](../../../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 * Your Wallet should ask you to approve connecting to harvest.finance. \(yes, click Approve\)
 * Now you can send money into the harvest!
 * Find USDC on the page. Here we can see the APY we'll earn on our deposit. Note: APY is not the same as APR. There are several articles on the interwebs covering this ![&#x1F604;](https://farm.chainwiki.dev/_assets/svg/twemoji/1f604.svg)
 
-![](../../../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 * Either enter an amount or click Max. Then click deposit.
 * Your Wallet should open up and ask for Approval of the transaction
@@ -66,7 +66,7 @@ All done? Alright! Let's get farming!
 * After the transaction completed, you have now deposited USDC and receive an equivalent value of Farm tokenized USDC as fUSDC. Want to learn more about fUSDC and other f&lt;Assets&gt;? Check the FAQ!
 * You can watch your balance \[mostly\] grow \(remember the risk of Impermanent Loss?\). You can see your balance to the right of the coin on the main page. Hopefully yours isn't blurred out like mine ![&#x1F606;](https://farm.chainwiki.dev/_assets/svg/twemoji/1f606.svg). 
 
-![](../../../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ## Stake Your Tokens to Earn FARM <a id="stake-your-tokens-to-earn-farm"></a>
 
@@ -77,7 +77,7 @@ _No! I said "Stake"!_
 * At the bottom of the page, you'll see a notice that you have unstaked fUSDC. Let's put that unstaked fUSDC to good use!
 * Click Earn at the top of the page
 
-![](../../../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 * Look for the "Deposit: fUSDC Earn: FARM", and click on the APY button ![getting\_started\_select\_fusdc\_farm.png](https://farm.chainwiki.dev/getting_started_select_fusdc_farm.png)
 * Select Stake \(the yellow one\)

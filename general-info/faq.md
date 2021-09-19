@@ -11,7 +11,7 @@
 * Are there fAssets shareprice charts? Use [farmdashboard.xyz](https://farmdashboard.xyz/)
 * Where can I trade FARM tokens? [Where trade FARM](how-to-use-1/where-trade-farm-bfarm.md)
 * How do I turn tokens into Harvest `fTokens` that earn yield farming revenue? [**on the Harvest front page**](https://harvest.finance/)
-* How do I turn`fTokens` tokens back into regular tokens? [**withdrawal instructions**](how-to-use-1/how-to-deposit-withdraw/)
+* How do I turn`fTokens` tokens back into regular tokens? [**withdrawal instructions**](how-to-use-1/how-to-deposit-withdraw.md)
 * Do FARM tokens get yield farming revenue just by holding them? **FARM must be deposited in** [**Profit Sharing**](what-do-we-do/profit-sharing-pool-ps.md) to earn yield farming revenue.
 * How much yield farming revenue is shared with Profit Sharing stakers? **30% of yield farming revenue on ETH and 8% on BSC.** [**PS Pool** ](what-do-we-do/profit-sharing-pool-ps.md)
 * What happens to the other 70% of yield farming revenue? **It is paid out to users that deposit assets to Harvest for farming**. Over time, holders of Harvest farming fTokens will receive more of the underlying tokens when they withdraw.

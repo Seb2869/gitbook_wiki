@@ -9,12 +9,9 @@
   * [FARM token](general-info/what-do-we-do/profit-share-pool-and-farm-tokenomics.md)
   * [Profit Sharing and iFARM](general-info/what-do-we-do/profit-sharing-pool-ps.md)
   * [Council of 69](general-info/what-do-we-do/420-69-programm.md)
-  * [fCASH](general-info/what-do-we-do/fcash.md)
   * [ampliFARM](general-info/what-do-we-do/amplifarm.md)
 * [How to use Harvest](general-info/how-to-use-1/README.md)
-  * [How to deposit and stake](general-info/how-to-use-1/how-to-deposit-withdraw/README.md)
-    * [\(Old\) Getting Started with UNI Pools](general-info/how-to-use-1/how-to-deposit-withdraw/old-getting-started-with-uni-pools.md)
-    * [\(Old\) Farm with USDC](general-info/how-to-use-1/how-to-deposit-withdraw/farm-with-usdc.md)
+  * [How to deposit and stake](general-info/how-to-use-1/how-to-deposit-withdraw.md)
   * [How to understand how much you earn](general-info/how-to-use-1/how-to-understand-how-much-you-earn/README.md)
     * [Interest rate guide](general-info/how-to-use-1/how-to-understand-how-much-you-earn/interest-rate-guide.md)
     * [APY Calculation](general-info/how-to-use-1/how-to-understand-how-much-you-earn/apy-calculation.md)
@@ -66,4 +63,13 @@
 * [Merchandise](merchendise.md)
 * [Contests](contests.md)
 * [Collabs](collabs.md)
+
+## Archive
+
+---
+
+* [Archived](archived/README.md)
+  * [fCASH](archived/fcash.md)
+  * [\(Old\) Getting Started with UNI Pools](archived/old-getting-started-with-uni-pools.md)
+  * [\(Old\) Farm with USDC](archived/farm-with-usdc.md)
 

@@ -2,8 +2,12 @@
 
 Harvest Finance launched on September 1st. New farming strategies are constantly evaluated for addition to Harvest. 
 
-* **2021-08-19** Harvest Points Its BuyBack Mechanism at Bancor
-* **2021-08-09** Harvest Finance releases  Uniswap V3: ETH-sETH2
+* **2021-09-17** Harvest Finance releases Zerogoki vaults. zUSD-USDC \(full range\) and REI-ETH \(full range\).
+* **2021-09-17** Harvest Finance releases YEL and YEL-ETH vaults.
+* **2021-09-16** Harvest discontinues fCASH due the great success of RARI Fuse. 
+* **2021-08-25** Harvest launches Phuture vaults PHTR-FARM and PHTR-ETH.
+* **2021-08-19** Harvest Points Its BuyBack Mechanism at Bancor.
+* **2021-08-09** Harvest Finance releases  Uniswap V3: ETH-sETH2.
 * **2021-08-02** Harvest Finance releases FARMStead strategy, this enables to earn extra iFARM on provided stable coins. 
 * **2021-07-23** Harvest Finance releases LQTY strategy. 
 * **2021-07-22** Harvest Finance releases FOX-WETH strategy.

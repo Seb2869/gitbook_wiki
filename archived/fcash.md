@@ -8,19 +8,19 @@ description: The yield dollar backed by iFarm
 
 fCASH is a solution to leverage iFARM, essentially it works as a loan without needing to sell iFARM. iFARM holders provide iFARM to get fCASH, it can be swaped to USDC. iFARM provided as collateral can be claimed when fCASH collected is returned. 
 
-![](../../.gitbook/assets/fcash.jpg)
+![](../.gitbook/assets/fcash.jpg)
 
 ## Expiration 
 
 In the Expiry date each token of fCASH will expire for $1 of iFARM in the time of expiration. This mechanism gives fCASH an intrinsic value characteristic and a predictable target of value in a given date.
 
-![](../../.gitbook/assets/fcash3.jpg)
+![](../.gitbook/assets/fcash3.jpg)
 
 ## Liquidation
 
 Deposited iFARM can be liquidated if depositor fail to provide enough collateral to maintain the position. When iFARM is provided and fCASH is taken, an iFARM liquidation price is generated based on the  iFARM quantity depositor decides to provide and  fCASH decided to be taken. If iFARM price drops bellow liquidation price, any user can liquidate the under collaterized iFARM position. 
 
-![](../../.gitbook/assets/fcash2.jpg)
+![](../.gitbook/assets/fcash2.jpg)
 
 ## Use fCASH
 
