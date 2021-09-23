@@ -14,7 +14,7 @@ description: >-
 * 🇵🇹 Portuguese: [Nossos ganhadores do Concurso Criativo: edição de aniversário](https://medium.com/@Blue_Poison/nossos-ganhadores-do-concurso-criativo-edição-de-aniversário-78b72377f095)
 * 🇪🇸 Spanish: [Ganadores del Concurso de Creatividad: Edición de Aniversario](https://c3h.medium.com/ganadores-de-concurso-de-creatividad-edición-de-aniversario-da0ba58ba95f)
 * 🇹🇼 Traditional Chinese: [創意大賽獲獎者系列：週年紀念版](https://harvestfinance-tw.medium.com/創意大賽獲獎者系列-週年紀念版-18b8e784e152)
-* 🇹🇷 Turkish: 
+* 🇹🇷 Turkish: [Yaratıcılık Yarışması Kazananları: Yıldönümü Özel](https://harvestfiturkce.medium.com/yaratıcılık-yarışması-kazananları-yıldönümü-özel-f8f3db446235)
 
 ### [Introducing: NFT Profit Sharing](https://medium.com/harvest-finance/introducing-nft-profit-sharing-e221642d0fb0)
 
