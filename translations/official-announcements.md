@@ -7,6 +7,74 @@ description: >-
 
 # Official announcements
 
+### [Creativity Contest Winners: Anniversary Edition](https://medium.com/harvest-finance/creativity-contest-winners-anniversary-edition-9f1907ce144)
+
+* 🇮🇹 Italian: [I ivncitori del Contest Creativo: Edizione Anniversario](https://coirof.medium.com/i-ivncitori-del-contest-creativo-edizione-anniversario-e6985fced235)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[クリエイティブコンテスト勝者：記念日エディション](https://miwa-wv.medium.com/クリエイティブコンテスト勝者-記念日エディション-1b99a8b77b58)
+* 🇵🇹 Portuguese: [Nossos ganhadores do Concurso Criativo: edição de aniversário](https://medium.com/@Blue_Poison/nossos-ganhadores-do-concurso-criativo-edição-de-aniversário-78b72377f095)
+* 🇪🇸 Spanish: [Ganadores del Concurso de Creatividad: Edición de Aniversario](https://c3h.medium.com/ganadores-de-concurso-de-creatividad-edición-de-aniversario-da0ba58ba95f)
+* 🇹🇼 Traditional Chinese: [創意大賽獲獎者系列：週年紀念版](https://harvestfinance-tw.medium.com/創意大賽獲獎者系列-週年紀念版-18b8e784e152)
+* 🇹🇷 Turkish: 
+
+### [Introducing: NFT Profit Sharing](https://medium.com/harvest-finance/introducing-nft-profit-sharing-e221642d0fb0)
+
+* 🇮🇹 Italian: [Introduzione alla condivisione del profitto NFT](https://coirof.medium.com/introduzione-alla-condivisione-del-profitto-nft-46549a488c6)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[紹介：NFT利益配当](https://miwa-wv.medium.com/紹介-nft利益配当-5d67fedc1299)
+* 🇵🇹 Portuguese: [Apresentando a NFT Profit Sharing](https://medium.com/@Blue_Poison/apresentando-a-nft-profit-sharing-dcc80d5898e2)
+* 🇪🇸 Spanish: [Presentando la Participación de Lucros de NFTs](https://c3h.medium.com/presentando-la-participación-de-lucros-de-nfts-5166037a3752)
+* 🇹🇼 Traditional Chinese: [介紹: NFT 利潤分享](https://harvestfinance-tw.medium.com/介紹-nft-利潤分享-3b0419b35530)
+* 🇹🇷 Turkish: [NFT Kar Paylaşımı Tanıtımı](https://harvestfiturkce.medium.com/nft-kar-paylaşımı-tanıtımı-3380d60e96ea)
+
+### [Recap: Week 55](https://medium.com/harvest-finance/recap-week-55-f2b8768aa047)
+
+* 🇮🇹 Italian: [Riepilogo: Settimana 55](https://coirof.medium.com/riepilogo-settimana-55-b05d3cf7e9a1)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[おさらい：55週目](https://miwa-wv.medium.com/おさらい-55週目-c57e33d9aa61)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 55](https://medium.com/@Blue_Poison/recapitulação-semana-55-506f65efb997)
+* 🇪🇸 Spanish: [Resumen de la Semana 55](https://c3h.medium.com/es-resumen-de-la-semana-55-5d319b73788e)
+* 🇹🇼 Traditional Chinese: [第 55 週回顧](https://harvestfinance-tw.medium.com/第-55-週回顧-9bd5c4375e2)
+* 🇹🇷 Turkish: [Özet: 55. Hafta](https://harvestfiturkce.medium.com/özet-55-hafta-def62459408e)
+* Serbian: [Recap:Nedelja 55](https://medium.com/@krompir12422/recap-nedelja-55-85372ec5ff30)
+* French: [Récapitulatif de la semaine 55](https://bob-duval.medium.com/récapitulatif-de-la-semaine-55-5e4438b5a37b)
+
+### [2 New Vaults](https://medium.com/harvest-finance/2-new-vaults-37031c472ce6)
+
+* 🇮🇹 Italian: [Due nuove pool](https://coirof.medium.com/due-nuove-pool-63508c917125)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[2つの新しいヴァルト](https://miwa-wv.medium.com/2つの新ヴァルト-97891b3485e1)
+* 🇵🇹 Portuguese: [Dois novos vaults](https://medium.com/@Blue_Poison/dois-novos-vaults-40e194ed37b9)
+* 🇪🇸 Spanish: [2 Nuevas Bóvedas](https://c3h.medium.com/2-nuevas-bóvedas-c229819fd371)
+* 🇹🇼 Traditional Chinese: [2個新資金庫](https://harvestfinance-tw.medium.com/2個新資金庫-9a5b0b42753f)
+* 🇹🇷 Turkish: [2 Yeni Kasa](https://harvestfiturkce.medium.com/2-yeni-kasa-f92def31be9a)
+
+### [New $YEL Vaults](https://medium.com/harvest-finance/new-yel-vaults-31af707900ca)
+
+* 🇮🇹 Italian: [Nuove pool $YEL](https://coirof.medium.com/nuove-pool-yel-89744dbad2bc)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[新たな$YELヴァルト](https://miwa-wv.medium.com/新たな-yelヴァルト-c469aae3c3d2)
+* 🇵🇹 Portuguese: [Novos vaults $YEL](https://medium.com/@Blue_Poison/novos-vaults-yel-8dc13e654d98)
+* 🇪🇸 Spanish: [Nuevas Bóvedas $YEL](https://c3h.medium.com/nuevas-bóvedas-yel-1b61e6728206)
+* 🇹🇼 Traditional Chinese: [新資金庫 — $YEL](https://harvestfinance-tw.medium.com/新資金庫-yel-474a13103344)
+* 🇹🇷 Turkish: [Yeni $YEL Kasaları](https://harvestfiturkce.medium.com/yeni-yel-kasaları-5e21cb6756e7)
+
+### [Introducing Fertilizer With Stakewise.io](https://medium.com/harvest-finance/introducing-fertilizer-with-stakewise-io-946ed0592809)
+
+* 🇮🇹 Italian: [Introduzione al “Fertilizzante” con Stakewise.io](https://coirof.medium.com/introduzione-al-fertilizzante-con-stakewise-io-805786c02775)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[Stakewise.IoとのFertilizer（肥料）のご紹介](https://miwa-wv.medium.com/stakewise-ioとのfertilizer-肥料-のご紹介-363f8a14ae54)
+* 🇵🇹 Portuguese: [Apresentando Fertilizer com Stakewise.io](https://medium.com/@Blue_Poison/apresentando-fertilizer-com-stakewise-io-8b2732775b7f)
+* 🇪🇸 Spanish: [Presentando Fertilizer con Stakewise.io](https://c3h.medium.com/presentando-fertilizer-con-stakewise-io-df6d6c3c8ad4)
+* 🇹🇼 Traditional Chinese: [透過 Stakewise.io 介紹 Fertilizer](https://harvestfinance-tw.medium.com/透過-stakewise-io-介紹-fertilizer-d3ee9bf8aea)
+* 🇹🇷 Turkish: [Stakewise.io ile Fertilizer Tanıtımı](https://harvestfiturkce.medium.com/stakewise-io-ile-fertilizer-tanıtımı-900ae23bad21)
+* Serbian: [Predstavljamo Fertilizer sa Stakwise.io](https://medium.com/@krompir12422/predstavljamo-fertilizer-sa-stakwise-io-5c2ff8ff06de)
+* French: [Présentation de Fertilizer avec Stakewise.io](https://bob-duval.medium.com/présentation-de-fertilizer-avec-stakewise-io-6559c74208f5)
+* Indonesian: [Memperkenalkan Fertilizer dengan Stakewise.io](https://gamewatch21.medium.com/memperkenalkan-fertilizer-dengan-stakewise-io-a966f8d37de3)
+
+### [Retiring fCASH](https://medium.com/harvest-finance/retiring-fcash-d985b5166ce)
+
+* 🇮🇹 Italian: [Dismissione fCASH](https://coirof.medium.com/dismissione-fcash-7173a899fbb)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[fCASHリタイア](https://miwa-wv.medium.com/fcashリタイア-93485702591c)
+* 🇵🇹 Portuguese: [Aposentando fCASH](https://medium.com/@Blue_Poison/apresentando-fcash-6da4bd862448)
+* 🇪🇸 Spanish: [fCASH se Jubila](https://c3h.medium.com/fcash-se-jubila-f57ab826c3af)
+* 🇹🇼 Traditional Chinese: [fCASH 功成身退](https://harvestfinance-tw.medium.com/fcash-功成身退-e440cc1568a9)
+* 🇹🇷 Turkish: [fCASH Emekli Oluyor](https://harvestfiturkce.medium.com/fcash-emekli-oluyor-3570b964084b)
+
 ### [Recap: Week 54](https://medium.com/harvest-finance/recap-week-54-560ba04fe29c)
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 54](https://coirof.medium.com/riepilogo-settimana-54-a1a537130f31)
@@ -16,7 +84,8 @@ description: >-
 * 🇹🇼 Traditional Chinese: [第 54 週回顧](https://harvestfinance-tw.medium.com/第-54-週回顧-a61956a5913b)
 * 🇹🇷 Turkish: [Özet: 54. Hafta](https://harvestfiturkce.medium.com/özet-54-hafta-72d575992d40)
 * French: [Récapitulatif de la semaine 54](https://bob-duval.medium.com/récapitulatif-de-la-semaine-54-d9533dab1c5)
-* More international versions coming soon!
+* Indonesian: [Rekap: Minggu Ke-54](https://gamewatch21.medium.com/rekap-minggu-ke-54-e407d12725ec)
+* Russian: [Итоги: Неделя 54](https://makurinma03.medium.com/итоги-неделя-54-bb75d2e1e4c9)
 
 ### [Bancor To Extend LM Rewards for the $FARM Pool](https://medium.com/harvest-finance/bancor-to-extend-lm-rewards-for-the-farm-pool-7f855fe73a90?source=collection_home---4------1-----------------------)
 
@@ -28,6 +97,7 @@ description: >-
 * 🇹🇷 Turkish: [Bancor $FARM Havuzu için LM Ödüllerini Uzatıyor](https://harvestfiturkce.medium.com/bancor-farm-havuzu-için-lm-ödüllerini-uzatıyor-9cfa90075467)
 * Polish: [Bancor przedłuża program wspierania płynności dla puli $FARM](https://1551lukas.medium.com/bancor-przedłuża-program-wspierania-płynności-dla-puli-farm-afa207cce391)
 * French: [Bancor va étendre les récompenses de liquidité pour la cagnotte $FARM](https://bob-duval.medium.com/bancor-va-étendre-les-récompenses-de-liquidité-pour-la-cagnotte-farm-4000bec14000)
+* Russian: [Bancor увеличивает LM награды за пулы-ликвидности $FARM](https://makurinma03.medium.com/bancor-увеличивает-lm-награды-за-пулы-ликвидности-farm-ff8d497190a0)
 
 ### [Harvest Participates in Gitcoin Grants Round 11](https://medium.com/harvest-finance/harvest-participates-in-gitcoin-grants-round-11-4f13901a683e?source=collection_home---4------2-----------------------)
 
