@@ -7,6 +7,17 @@ description: >-
 
 # Official announcements
 
+### [Recap: Week 56](https://medium.com/harvest-finance/recap-week-56-9af878c557a4)
+
+* 🇮🇹 Italian: [Riepilogo: Settimana 56](https://coirof.medium.com/riepilogo-settimana-56-e14cb06d4d86)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[おさらい：56週目](https://miwa-wv.medium.com/おさらい-56週目-76b1456dc998)
+* 🇵🇹 Portuguese: [Recapitulação da Semana 56](https://medium.com/@Blue_Poison/recapitulação-da-semana-56-bb597053dd5c)
+* 🇪🇸 Spanish: [Resumen de la Semana 56](https://c3h.medium.com/es-resumen-de-la-semana-56-4cecb260323e)
+* 🇹🇼 Traditional Chinese: [第 56 週回顧](https://harvestfinance-tw.medium.com/第-56-週回顧-fcf693bea2d3)
+* 🇹🇷 Turkish: [Özet: 56. Hafta](https://harvestfiturkce.medium.com/özet-56-hafta-9dbffd9eed13)
+* French: [Récapitulatif de la semaine 56](https://bob-duval.medium.com/récapitulatif-de-la-semaine-56-96bf32d843f7)
+* Serbian: [Recap Nedelja:56](https://medium.com/@krompir12422/recap-nedelja-56-2eabd3d9124d)
+
 ### [Creativity Contest Winners: Anniversary Edition](https://medium.com/harvest-finance/creativity-contest-winners-anniversary-edition-9f1907ce144)
 
 * 🇮🇹 Italian: [I ivncitori del Contest Creativo: Edizione Anniversario](https://coirof.medium.com/i-ivncitori-del-contest-creativo-edizione-anniversario-e6985fced235)
