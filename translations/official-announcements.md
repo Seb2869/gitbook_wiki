@@ -13,7 +13,7 @@ description: >-
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)
 * 🇵🇹 Portuguese: 
 * 🇪🇸 Spanish: 
-* 🇹🇼 Traditional Chinese: 
+* 🇹🇼 Traditional Chinese: [新 $DON 資金庫 — 與 Donkey Finance 合作](https://harvestfinance-tw.medium.com/%E6%96%B0-don-%E8%B3%87%E9%87%91%E5%BA%AB-%E8%88%87-donkey-finance-%E5%90%88%E4%BD%9C-a38e1e321f16)
 * 🇹🇷 Turkish: [Yeni $DON Kasası ve Donkey Finance](https://harvestfiturkce.medium.com/yeni-don-kasas%C4%B1-ve-donkey-finance-47acc3d07960)
 
 ### [Recap: Week 56](https://medium.com/harvest-finance/recap-week-56-9af878c557a4)
