@@ -9,12 +9,13 @@ description: >-
 
 ### [New $DON Vault ft. Donkey Finance](https://medium.com/harvest-finance/new-don-vault-ft-donkey-finance-b84771e83e29)
 
-* 🇮🇹 Italian: 
-* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)
-* 🇵🇹 Portuguese: 
-* 🇪🇸 Spanish: 
+* 🇮🇹 Italian: [Nuova pool $DON di Donkey Finance](https://coirof.medium.com/nuova-pool-don-di-donkey-finance-e276d676727f)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[注目のDonkey Finance との新しい$DONヴァルト](https://miwa-wv.medium.com/注目のdonkey-finance-との新しい-donヴァルト-69526e6b6c9)
+* 🇵🇹 Portuguese: [Novo Vault $DON em parceria com a Donkey Finance](https://medium.com/@Blue_Poison/novo-vault-don-em-parceria-com-a-donkey-finance-f6bc8469a3d2)
+* 🇪🇸 Spanish: [Nueva Bóveda $DON con Donkey Finance](https://c3h.medium.com/nueva-bóveda-don-con-donkey-finance-feabd4e42eb6)
 * 🇹🇼 Traditional Chinese: [新 $DON 資金庫 — 與 Donkey Finance 合作](https://harvestfinance-tw.medium.com/%E6%96%B0-don-%E8%B3%87%E9%87%91%E5%BA%AB-%E8%88%87-donkey-finance-%E5%90%88%E4%BD%9C-a38e1e321f16)
 * 🇹🇷 Turkish: [Yeni $DON Kasası ve Donkey Finance](https://harvestfiturkce.medium.com/yeni-don-kasas%C4%B1-ve-donkey-finance-47acc3d07960)
+* Serbian: [Nova $DON Valuta sa Donkey Finance](https://medium.com/@krompir12422/nova-don-valuta-sa-donkey-finance-596e9b52ef39)
 
 ### [Recap: Week 56](https://medium.com/harvest-finance/recap-week-56-9af878c557a4)
 
