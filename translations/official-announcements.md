@@ -7,6 +7,15 @@ description: >-
 
 # Official announcements
 
+### [New $DON Vault ft. Donkey Finance](https://medium.com/harvest-finance/new-don-vault-ft-donkey-finance-b84771e83e29)
+
+* 🇮🇹 Italian: 
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)
+* 🇵🇹 Portuguese: 
+* 🇪🇸 Spanish: 
+* 🇹🇼 Traditional Chinese: 
+* 🇹🇷 Turkish: [Yeni $DON Kasası ve Donkey Finance](https://harvestfiturkce.medium.com/yeni-don-kasas%C4%B1-ve-donkey-finance-47acc3d07960)
+
 ### [Recap: Week 56](https://medium.com/harvest-finance/recap-week-56-9af878c557a4)
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 56](https://coirof.medium.com/riepilogo-settimana-56-e14cb06d4d86)
@@ -17,6 +26,7 @@ description: >-
 * 🇹🇷 Turkish: [Özet: 56. Hafta](https://harvestfiturkce.medium.com/özet-56-hafta-9dbffd9eed13)
 * French: [Récapitulatif de la semaine 56](https://bob-duval.medium.com/récapitulatif-de-la-semaine-56-96bf32d843f7)
 * Serbian: [Recap Nedelja:56](https://medium.com/@krompir12422/recap-nedelja-56-2eabd3d9124d)
+* Indonesian: [Rekap: Minggu ke-56](https://gamewatch21.medium.com/rekap-minggu-ke-56-cf890e085ca9)
 
 ### [Creativity Contest Winners: Anniversary Edition](https://medium.com/harvest-finance/creativity-contest-winners-anniversary-edition-9f1907ce144)
 
