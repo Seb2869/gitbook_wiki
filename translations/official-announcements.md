@@ -7,6 +7,25 @@ description: >-
 
 # Official announcements
 
+### [Recap: Week 57](https://medium.com/harvest-finance/recap-week-57-e73e9586e248)
+
+* 🇮🇹 Italian: [Riepilogo: Settimana 57](https://coirof.medium.com/riepilogo-settimana-57-483f73f72849)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[おさらい：57週目](https://miwa-wv.medium.com/おさらい-57週目-fa0827dd1a5c)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 57](https://medium.com/@Blue_Poison/recapitulação-semana-57-557977339594)
+* 🇪🇸 Spanish: [Resumen de la Semana 57](https://c3h.medium.com/es-resumen-de-la-semana-57-31cc86ab8e58)
+* 🇹🇼 Traditional Chinese: [第 57 週回顧](https://harvestfinance-tw.medium.com/第-57-週回顧-e8ceda9c5f4)
+* 🇹🇷 Turkish: ****[Özet: 57. Hafta](https://harvestfiturkce.medium.com/özet-57-hafta-594f333a34e9)
+* Indonesian: [Rekap: Minggu ke-57](https://gamewatch21.medium.com/rekap-minggu-ke-57-7ef1079a26b1)
+
+### [Introducing: NFT Incubator](https://medium.com/harvest-finance/introducing-nft-incubator-18888fce7dac)
+
+* 🇮🇹 Italian: [Introduzione all’Incubatrice NFT](https://coirof.medium.com/introduzione-allincubatrice-nft-958a5f45cf80)
+* 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/ハーベストのクリエイティブコンテスト-一年記念-7092acdb9583)[紹介：NFT Incubator\(孵卵器\)](https://miwa-wv.medium.com/紹介-nft-incubator-孵卵器-bfbd756222ee)
+* 🇵🇹 Portuguese: [Apresentando a NFT Incubator](https://medium.com/@Blue_Poison/apresentando-a-nft-incubator-ca794d2706d8)
+* 🇪🇸 Spanish: [Presentando: Incubadora NFT](https://c3h.medium.com/presentando-incubadora-nft-c8cb3a69e836)
+* 🇹🇼 Traditional Chinese: [介紹：NFT 孵化器](https://harvestfinance-tw.medium.com/介紹-nft-孵化器-a7c139b8a469)
+* 🇹🇷 Turkish: [NFT İnkübatörü Tanıtımı](https://harvestfiturkce.medium.com/nft-i̇nkübatörü-tanıtımı-d39c96159608)
+
 ### [New $DON Vault ft. Donkey Finance](https://medium.com/harvest-finance/new-don-vault-ft-donkey-finance-b84771e83e29)
 
 * 🇮🇹 Italian: [Nuova pool $DON di Donkey Finance](https://coirof.medium.com/nuova-pool-don-di-donkey-finance-e276d676727f)
@@ -16,6 +35,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [新 $DON 資金庫 — 與 Donkey Finance 合作](https://harvestfinance-tw.medium.com/%E6%96%B0-don-%E8%B3%87%E9%87%91%E5%BA%AB-%E8%88%87-donkey-finance-%E5%90%88%E4%BD%9C-a38e1e321f16)
 * 🇹🇷 Turkish: [Yeni $DON Kasası ve Donkey Finance](https://harvestfiturkce.medium.com/yeni-don-kasas%C4%B1-ve-donkey-finance-47acc3d07960)
 * Serbian: [Nova $DON Valuta sa Donkey Finance](https://medium.com/@krompir12422/nova-don-valuta-sa-donkey-finance-596e9b52ef39)
+* Indonesian: [Vault $DON Baru ft. Donkey Finance](https://gamewatch21.medium.com/vault-don-baru-ft-donkey-finance-14139c9f66d2)
 
 ### [Recap: Week 56](https://medium.com/harvest-finance/recap-week-56-9af878c557a4)
 
