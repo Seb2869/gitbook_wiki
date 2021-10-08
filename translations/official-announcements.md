@@ -7,6 +7,33 @@ description: >-
 
 # Official announcements
 
+### [Harvest Gives $8,000 Back to Yeomen Who Brought In the Bancor Deal](https://medium.com/harvest-finance/harvest-gives-8-000-back-to-yeomen-who-brought-in-the-bancor-deal-b2e3034b9656)
+
+* 🇮🇹 Italian: [Harvest rende 8.000 $ agli Yeomen che hanno realizzato l’affare con Bancor](https://coirof.medium.com/harvest-rende-8-000-agli-yeoman-che-hanno-realizzato-laffare-con-bancor-d4914a090948)
+* 🇯🇵 Japanese: [ハーベストはBancorと契約を結んだ働き者に$8,000を与える](https://miwa-wv.medium.com/ハーベストはbancorと契約を結んだ働き者に-8-000を与える-4ae75ae0a807)
+* 🇵🇹 Portuguese: [Harvest devolve $8.000 para a Yeomen que trouxe o Bancor Deal](https://medium.com/@Blue_Poison/harvest-devolve-8-000-para-a-yeomen-que-trouxe-o-bancor-deal-2a1e1b0b603d)
+* 🇪🇸 Spanish: [Harvest retribuye con 8.000 dólares a los que hicieron posible el acuerdo con Bancor](https://c3h.medium.com/harvest-retribuye-con-8-000-dólares-a-los-que-hicieron-posible-el-acuerdo-con-bancor-d96eb8c4f459)
+* 🇹🇼 Traditional Chinese: [Harvest 回饋 8,000 美元給引入 Bancor 交易的自耕農](https://harvestfinance-tw.medium.com/harvest-回饋-8-000-美元給引入-bancor-交易的自耕農-80d1c432475f)
+* 🇹🇷 Turkish: [Harvest, Bancor Anlaşmasını Getiren Yeomen’e 8.000$ Verdi](https://harvestfiturkce.medium.com/harvest-bancor-anlaşmasını-getiren-yeomene-8-000-verdi-e16e52ca15f8)
+
+### [Fertilizer ft. Phuture Finance](https://medium.com/harvest-finance/fertilizer-ft-phuture-finance-a030b2db0af8)
+
+* 🇮🇹 Italian: [Fertilizer con Phuture Finance](https://coirof.medium.com/fertilizer-con-phuture-finance-fd437fcf1e59)
+* 🇯🇵 Japanese: [注目のPhuture FinanceとFertilizer](https://miwa-wv.medium.com/注目のphuture-financeとfertilizer-12eba960d0ee)
+* 🇵🇹 Portuguese: [Fertilizer com a Phuture Finance](https://medium.com/@Blue_Poison/fertilizer-com-a-phuture-finance-bc47733cab5d)
+* 🇪🇸 Spanish: [Fertilizer en colaboración con Phuture Finance](https://c3h.medium.com/fertilizer-en-colaboración-con-phuture-finance-dd8b3395d12e)
+* 🇹🇼 Traditional Chinese: [Fertilizer -與 Phuture Finance合作](https://harvestfinance-tw.medium.com/fertilizer-與-phuture-finance合作-c51ccb5d4db5)
+* 🇹🇷 Turkish: [Fertilizer ft. Phuture Finance](https://harvestfiturkce.medium.com/fertilizer-ft-phuture-finance-4c1ae7608a43)
+
+### [NFT Incubator: Public Sale \#1](https://medium.com/harvest-finance/nft-incubator-public-sale-1-949b24614657)
+
+* 🇮🇹 Italian: [Incubatrice NFT: Vendita pubblica n. 1](https://coirof.medium.com/incubatrice-nft-vendita-pubblica-n-1-17edcdb2b50d)
+* 🇯🇵 Japanese: [NFT Incubator: \#1 販売開始](https://miwa-wv.medium.com/nft-incubator-1-販売開始-71fb10241963)
+* 🇵🇹 Portuguese: Incubator: [Venda Pública Número \#1](https://medium.com/@Blue_Poison/incubator-venda-pública-número-1-74361ded8f2f)
+* 🇪🇸 Spanish: [Incubadora NFT: Venta Pública \#1](https://c3h.medium.com/incubadora-nft-venta-pública-1-5b8cadb16453)
+* 🇹🇼 Traditional Chinese: [NFT 孵化器 : 公開發售 \#1](https://harvestfinance-tw.medium.com/nft-孵化器-公開發售-1-8c0b32ec36c6)
+* 🇹🇷 Turkish: [NFT İnkübatörü: Halka Açık Satış \#1](https://harvestfiturkce.medium.com/nft-i̇nkübatörü-halka-açık-satış-1-c6ee1ec8e929)
+
 ### [Recap: Week 57](https://medium.com/harvest-finance/recap-week-57-e73e9586e248)
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 57](https://coirof.medium.com/riepilogo-settimana-57-483f73f72849)
