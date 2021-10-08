@@ -43,6 +43,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [第 57 週回顧](https://harvestfinance-tw.medium.com/第-57-週回顧-e8ceda9c5f4)
 * 🇹🇷 Turkish: ****[Özet: 57. Hafta](https://harvestfiturkce.medium.com/özet-57-hafta-594f333a34e9)
 * Indonesian: [Rekap: Minggu ke-57](https://gamewatch21.medium.com/rekap-minggu-ke-57-7ef1079a26b1)
+* Serbian: [Recap: Nedelja 57](https://medium.com/@krompir12422/recap-nedelja-57-97dfda5e9aa)
 
 ### [Introducing: NFT Incubator](https://medium.com/harvest-finance/introducing-nft-incubator-18888fce7dac)
 
@@ -52,6 +53,8 @@ description: >-
 * 🇪🇸 Spanish: [Presentando: Incubadora NFT](https://c3h.medium.com/presentando-incubadora-nft-c8cb3a69e836)
 * 🇹🇼 Traditional Chinese: [介紹：NFT 孵化器](https://harvestfinance-tw.medium.com/介紹-nft-孵化器-a7c139b8a469)
 * 🇹🇷 Turkish: [NFT İnkübatörü Tanıtımı](https://harvestfiturkce.medium.com/nft-i̇nkübatörü-tanıtımı-d39c96159608)
+* Indonesian: [Perkenalkan: Inkubator NFT](https://gamewatch21.medium.com/perkenalkan-inkubator-nft-aa1814ed3347)
+* French: [Présentation de l’incubateur de NFT](https://bob-duval.medium.com/présentation-de-lincubateur-de-nft-796579fab166)
 
 ### [New $DON Vault ft. Donkey Finance](https://medium.com/harvest-finance/new-don-vault-ft-donkey-finance-b84771e83e29)
 
@@ -63,6 +66,7 @@ description: >-
 * 🇹🇷 Turkish: [Yeni $DON Kasası ve Donkey Finance](https://harvestfiturkce.medium.com/yeni-don-kasas%C4%B1-ve-donkey-finance-47acc3d07960)
 * Serbian: [Nova $DON Valuta sa Donkey Finance](https://medium.com/@krompir12422/nova-don-valuta-sa-donkey-finance-596e9b52ef39)
 * Indonesian: [Vault $DON Baru ft. Donkey Finance](https://gamewatch21.medium.com/vault-don-baru-ft-donkey-finance-14139c9f66d2)
+* French: [Nouveau coffre $DON avec Donkey Finance](https://bob-duval.medium.com/nouveau-coffre-don-avec-donkey-finance-7ac08bfe812e)
 
 ### [Recap: Week 56](https://medium.com/harvest-finance/recap-week-56-9af878c557a4)
 
