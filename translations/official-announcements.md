@@ -16,6 +16,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [第 58 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-58-%E9%80%B1%E5%9B%9E%E9%A1%A7-22582852405d)
 * 🇹🇷 Turkish: [Özet: 58. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-58-hafta-b077a020fb8)
 * Serbian: [Recap: Nedelja 58](https://medium.com/@krompir12422/recap-nedelja-58-969bf8cf5226)
+* French: [Récapitulatif de la semaine 58](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-58-92e01f944062)
 
 ### [Harvest Gives $8,000 Back to Yeomen Who Brought In the Bancor Deal](https://medium.com/harvest-finance/harvest-gives-8-000-back-to-yeomen-who-brought-in-the-bancor-deal-b2e3034b9656)
 
@@ -26,6 +27,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [Harvest 回饋 8,000 美元給引入 Bancor 交易的自耕農](https://harvestfinance-tw.medium.com/harvest-%E5%9B%9E%E9%A5%8B-8-000-%E7%BE%8E%E5%85%83%E7%B5%A6%E5%BC%95%E5%85%A5-bancor-%E4%BA%A4%E6%98%93%E7%9A%84%E8%87%AA%E8%80%95%E8%BE%B2-80d1c432475f)
 * 🇹🇷 Turkish: [Harvest, Bancor Anlaşmasını Getiren Yeomen’e 8.000$ Verdi](https://harvestfiturkce.medium.com/harvest-bancor-anla%C5%9Fmas%C4%B1n%C4%B1-getiren-yeomene-8-000-verdi-e16e52ca15f8)
 * Serbian: [Harvest daje 8.000 dolara natrag Ieomenu koji je doneo Bancor Deal](https://medium.com/@krompir12422/harvest-daje-8-000-dolara-natrag-ieomenu-koji-je-doneo-bancor-deal-c02ef71560ab)
+* French: [Harvest donne 8 000 $ aux Yeomen qui ont conclu l’accord avec Bancor](https://bob-duval.medium.com/harvest-donne-8-000-aux-yeomen-qui-ont-conclu-laccord-avec-bancor-f5dab6a6c094)
 
 ### [Fertilizer ft. Phuture Finance](https://medium.com/harvest-finance/fertilizer-ft-phuture-finance-a030b2db0af8)
 
