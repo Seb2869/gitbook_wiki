@@ -20,12 +20,12 @@ description: >-
 ### [Farming With Harvest Just Got 4x Easier with Zapper — Full Beginner Guide](https://medium.com/harvest-finance/farming-with-harvest-just-got-4x-easier-with-zapper-full-beginner-guide-55379abddac1) <a href="63c1" id="63c1"></a>
 
 * 🇫🇷 French:
-* 🇮🇹 Italian: 
-* 🇯🇵 Japanese: 
-* 🇵🇹 Portuguese: 
-* 🇪🇸 Spanish:
-* 🇹🇼 Traditional Chinese: 
-* 🇹🇷 Turkish: 
+* 🇮🇹 Italian:[ Il farming con Harvest è diventato 4 volte più facile con Zapper — Guida Completa](https://coirof.medium.com/il-farming-con-harvest-%C3%A8-diventato-4-volte-pi%C3%B9-facile-con-zapper-guida-completa-ea9010faaee0)
+* 🇯🇵 Japanese: [Zapperを使えばハーベストのファーミングが4倍楽になるー初心者のための完全ガイド](https://miwa-wv.medium.com/zapper%E3%82%92%E4%BD%BF%E3%81%88%E3%81%B0%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%83%95%E3%82%A1%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%8C4%E5%80%8D%E6%A5%BD%E3%81%AB%E3%81%AA%E3%82%8B%E3%83%BC%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89-ecd17810049e)
+* 🇵🇹 Portuguese: [Farmar com a Harvest ficou 4 vezes mais fácil com a Zapper - Guia completo para iniciantes](https://medium.com/@Blue_Poison/farmar-com-a-harvest-ficou-4-vezes-mais-f%C3%A1cil-com-a-zapper-guia-completo-para-iniciantes-b3d3e6ebdfb8)
+* 🇪🇸 Spanish: [Los cultivos con Harvest son ahora 4 veces más fáciles con Zapper — Guía completa para principiantes](https://c3h.medium.com/los-cultivos-con-harvest-son-ahora-4-veces-m%C3%A1s-f%C3%A1ciles-con-zapper-gu%C3%ADa-completa-para-c54b435fcfb4)
+* 🇹🇼 Traditional Chinese: [使用 Zapper 使 Harvest 流動性挖礦變得簡單 4 倍 — 完整的初學者指南](https://harvestfinance-tw.medium.com/%E4%BD%BF%E7%94%A8-zapper-%E4%BD%BF-harvest-%E6%B5%81%E5%8B%95%E6%80%A7%E6%8C%96%E7%A4%A6%E8%AE%8A%E5%BE%97%E7%B0%A1%E5%96%AE-4-%E5%80%8D-%E5%AE%8C%E6%95%B4%E7%9A%84%E5%88%9D%E5%AD%B8%E8%80%85%E6%8C%87%E5%8D%97-663daab9786a)
+* 🇹🇷 Turkish: [Farming Zapper ile 4 Kat Daha Kolay — Başlangıç Kılavuzu](https://harvestfiturkce.medium.com/farming-zapper-ile-4-kat-daha-kolay-ba%C5%9Flang%C4%B1%C3%A7-k%C4%B1lavuzu-ac613dc2325b)
 
 ### [Recap: Week 58](https://medium.com/harvest-finance/recap-week-58-fffab36732f0?source=user_profile---------0----------------------------) <a href="63c1" id="63c1"></a>
 
