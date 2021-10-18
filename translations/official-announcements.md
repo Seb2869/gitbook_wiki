@@ -16,6 +16,7 @@ description: >-
 * 🇪🇸 Spanish: [Resumen de la Semana 59](https://c3h.medium.com/es-resumen-de-la-semana-59-ce904a1d034c)
 * 🇹🇼 Traditional Chinese: [第 59 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-59-%E9%80%B1%E5%9B%9E%E9%A1%A7-d9a524ac4c73)
 * 🇹🇷 Turkish: [Özet: 59. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-59-hafta-3ce2e38d6544)
+* Serbian: [Recap:Nedelja 59](https://medium.com/@krompir12422/recap-nedelja-59-64b2a1815269)
 
 ### [Farming With Harvest Just Got 4x Easier with Zapper — Full Beginner Guide](https://medium.com/harvest-finance/farming-with-harvest-just-got-4x-easier-with-zapper-full-beginner-guide-55379abddac1) <a href="63c1" id="63c1"></a>
 
@@ -26,6 +27,7 @@ description: >-
 * 🇪🇸 Spanish: [Los cultivos con Harvest son ahora 4 veces más fáciles con Zapper — Guía completa para principiantes](https://c3h.medium.com/los-cultivos-con-harvest-son-ahora-4-veces-m%C3%A1s-f%C3%A1ciles-con-zapper-gu%C3%ADa-completa-para-c54b435fcfb4)
 * 🇹🇼 Traditional Chinese: [使用 Zapper 使 Harvest 流動性挖礦變得簡單 4 倍 — 完整的初學者指南](https://harvestfinance-tw.medium.com/%E4%BD%BF%E7%94%A8-zapper-%E4%BD%BF-harvest-%E6%B5%81%E5%8B%95%E6%80%A7%E6%8C%96%E7%A4%A6%E8%AE%8A%E5%BE%97%E7%B0%A1%E5%96%AE-4-%E5%80%8D-%E5%AE%8C%E6%95%B4%E7%9A%84%E5%88%9D%E5%AD%B8%E8%80%85%E6%8C%87%E5%8D%97-663daab9786a)
 * 🇹🇷 Turkish: [Farming Zapper ile 4 Kat Daha Kolay — Başlangıç Kılavuzu](https://harvestfiturkce.medium.com/farming-zapper-ile-4-kat-daha-kolay-ba%C5%9Flang%C4%B1%C3%A7-k%C4%B1lavuzu-ac613dc2325b)
+* Serbian: [Farming sa Harvestom postala je 4 puta lakša uz Zapper — Potpuni vodič za početnike](https://medium.com/@krompir12422/farming-sa-harvestom-postala-je-4-puta-lak%C5%A1a-uz-zapper-potpuni-vodi%C4%8D-za-po%C4%8Detnike-9d89ffcf059c)
 
 ### [Recap: Week 58](https://medium.com/harvest-finance/recap-week-58-fffab36732f0?source=user_profile---------0----------------------------) <a href="63c1" id="63c1"></a>
 
