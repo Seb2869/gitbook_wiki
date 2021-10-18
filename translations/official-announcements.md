@@ -7,7 +7,27 @@ description: >-
 
 # Official announcements
 
-## [Recap: Week 58](https://medium.com/harvest-finance/recap-week-58-fffab36732f0?source=user_profile---------0----------------------------) <a href="63c1" id="63c1"></a>
+### [Recap: Week 59](https://medium.com/harvest-finance/recap-week-59-c1ceaafb677d) <a href="c9c5" id="c9c5"></a>
+
+* 🇫🇷 French: 
+* 🇮🇹 Italian: 
+* 🇯🇵 Japanese: 
+* 🇵🇹 Portuguese: 
+* 🇪🇸 Spanish:
+* 🇹🇼 Traditional Chinese: 
+* 🇹🇷 Turkish: 
+
+### [Farming With Harvest Just Got 4x Easier with Zapper — Full Beginner Guide](https://medium.com/harvest-finance/farming-with-harvest-just-got-4x-easier-with-zapper-full-beginner-guide-55379abddac1) <a href="63c1" id="63c1"></a>
+
+* 🇫🇷 French:
+* 🇮🇹 Italian: 
+* 🇯🇵 Japanese: 
+* 🇵🇹 Portuguese: 
+* 🇪🇸 Spanish:
+* 🇹🇼 Traditional Chinese: 
+* 🇹🇷 Turkish: 
+
+### [Recap: Week 58](https://medium.com/harvest-finance/recap-week-58-fffab36732f0?source=user_profile---------0----------------------------) <a href="63c1" id="63c1"></a>
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 58](https://coirof.medium.com/riepilogo-settimana-58-9f4f84b0ee49)
 * 🇯🇵 Japanese: [おさらい：58週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-58%E9%80%B1%E7%9B%AE-bc2967cdb708)
