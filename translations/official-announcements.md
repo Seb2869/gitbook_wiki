@@ -10,12 +10,12 @@ description: >-
 ### [Recap: Week 59](https://medium.com/harvest-finance/recap-week-59-c1ceaafb677d) <a href="c9c5" id="c9c5"></a>
 
 * 🇫🇷 French: 
-* 🇮🇹 Italian: 
-* 🇯🇵 Japanese: 
-* 🇵🇹 Portuguese: 
-* 🇪🇸 Spanish:
-* 🇹🇼 Traditional Chinese: 
-* 🇹🇷 Turkish: 
+* 🇮🇹 Italian: [Riepilogo: Settimana 59](https://coirof.medium.com/riepilogo-settimana-59-71d8dc584212)
+* 🇯🇵 Japanese: [おさらい：59週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-59%E9%80%B1%E7%9B%AE-3e72144cc61e)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 59](https://medium.com/@Blue_Poison/recapitula%C3%A7%C3%A3o-semana-59-c0430e9f0566)
+* 🇪🇸 Spanish: [Resumen de la Semana 59](https://c3h.medium.com/es-resumen-de-la-semana-59-ce904a1d034c)
+* 🇹🇼 Traditional Chinese: [第 59 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-59-%E9%80%B1%E5%9B%9E%E9%A1%A7-d9a524ac4c73)
+* 🇹🇷 Turkish: [Özet: 59. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-59-hafta-3ce2e38d6544)
 
 ### [Farming With Harvest Just Got 4x Easier with Zapper — Full Beginner Guide](https://medium.com/harvest-finance/farming-with-harvest-just-got-4x-easier-with-zapper-full-beginner-guide-55379abddac1) <a href="63c1" id="63c1"></a>
 
