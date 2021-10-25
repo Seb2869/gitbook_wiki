@@ -9,10 +9,10 @@ description: >-
 
 ### [Recap: Week 59](https://medium.com/harvest-finance/recap-week-59-c1ceaafb677d) <a href="c9c5" id="c9c5"></a>
 
-* 🇫🇷 French: 
+* 🇫🇷 French: [Récapitulatif de la semaine 59](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-59-a58cedcee96e)
 * 🇮🇹 Italian: [Riepilogo: Settimana 59](https://coirof.medium.com/riepilogo-settimana-59-71d8dc584212)
 * 🇯🇵 Japanese: [おさらい：59週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-59%E9%80%B1%E7%9B%AE-3e72144cc61e)
-* 🇵🇹 Portuguese: [Recapitulação: Semana 59](https://medium.com/@Blue_Poison/recapitula%C3%A7%C3%A3o-semana-59-c0430e9f0566)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 59](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-59-c0430e9f0566)
 * 🇪🇸 Spanish: [Resumen de la Semana 59](https://c3h.medium.com/es-resumen-de-la-semana-59-ce904a1d034c)
 * 🇹🇼 Traditional Chinese: [第 59 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-59-%E9%80%B1%E5%9B%9E%E9%A1%A7-d9a524ac4c73)
 * 🇹🇷 Turkish: [Özet: 59. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-59-hafta-3ce2e38d6544)
@@ -20,20 +20,20 @@ description: >-
 
 ### [Farming With Harvest Just Got 4x Easier with Zapper — Full Beginner Guide](https://medium.com/harvest-finance/farming-with-harvest-just-got-4x-easier-with-zapper-full-beginner-guide-55379abddac1) <a href="63c1" id="63c1"></a>
 
-* 🇫🇷 French:
+* 🇫🇷 French: [Le farming avec Harvest est devenu 4x plus facile avec Zapper — Guide pour les débutants](https://bob-duval.medium.com/le-farming-avec-harvest-est-devenu-4x-plus-facile-avec-zapper-guide-pour-les-d%C3%A9butants-d8a41078b70f)
 * 🇮🇹 Italian:[ Il farming con Harvest è diventato 4 volte più facile con Zapper — Guida Completa](https://coirof.medium.com/il-farming-con-harvest-%C3%A8-diventato-4-volte-pi%C3%B9-facile-con-zapper-guida-completa-ea9010faaee0)
 * 🇯🇵 Japanese: [Zapperを使えばハーベストのファーミングが4倍楽になるー初心者のための完全ガイド](https://miwa-wv.medium.com/zapper%E3%82%92%E4%BD%BF%E3%81%88%E3%81%B0%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%83%95%E3%82%A1%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%8C4%E5%80%8D%E6%A5%BD%E3%81%AB%E3%81%AA%E3%82%8B%E3%83%BC%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89-ecd17810049e)
-* 🇵🇹 Portuguese: [Farmar com a Harvest ficou 4 vezes mais fácil com a Zapper - Guia completo para iniciantes](https://medium.com/@Blue_Poison/farmar-com-a-harvest-ficou-4-vezes-mais-f%C3%A1cil-com-a-zapper-guia-completo-para-iniciantes-b3d3e6ebdfb8)
+* 🇵🇹 Portuguese: [Farmar com a Harvest ficou 4 vezes mais fácil com a Zapper - Guia completo para iniciantes](https://medium.com/@Blue\_Poison/farmar-com-a-harvest-ficou-4-vezes-mais-f%C3%A1cil-com-a-zapper-guia-completo-para-iniciantes-b3d3e6ebdfb8)
 * 🇪🇸 Spanish: [Los cultivos con Harvest son ahora 4 veces más fáciles con Zapper — Guía completa para principiantes](https://c3h.medium.com/los-cultivos-con-harvest-son-ahora-4-veces-m%C3%A1s-f%C3%A1ciles-con-zapper-gu%C3%ADa-completa-para-c54b435fcfb4)
 * 🇹🇼 Traditional Chinese: [使用 Zapper 使 Harvest 流動性挖礦變得簡單 4 倍 — 完整的初學者指南](https://harvestfinance-tw.medium.com/%E4%BD%BF%E7%94%A8-zapper-%E4%BD%BF-harvest-%E6%B5%81%E5%8B%95%E6%80%A7%E6%8C%96%E7%A4%A6%E8%AE%8A%E5%BE%97%E7%B0%A1%E5%96%AE-4-%E5%80%8D-%E5%AE%8C%E6%95%B4%E7%9A%84%E5%88%9D%E5%AD%B8%E8%80%85%E6%8C%87%E5%8D%97-663daab9786a)
 * 🇹🇷 Turkish: [Farming Zapper ile 4 Kat Daha Kolay — Başlangıç Kılavuzu](https://harvestfiturkce.medium.com/farming-zapper-ile-4-kat-daha-kolay-ba%C5%9Flang%C4%B1%C3%A7-k%C4%B1lavuzu-ac613dc2325b)
 * Serbian: [Farming sa Harvestom postala je 4 puta lakša uz Zapper — Potpuni vodič za početnike](https://medium.com/@krompir12422/farming-sa-harvestom-postala-je-4-puta-lak%C5%A1a-uz-zapper-potpuni-vodi%C4%8D-za-po%C4%8Detnike-9d89ffcf059c)
 
-### [Recap: Week 58](https://medium.com/harvest-finance/recap-week-58-fffab36732f0?source=user_profile---------0----------------------------) <a href="63c1" id="63c1"></a>
+### [Recap: Week 58](https://medium.com/harvest-finance/recap-week-58-fffab36732f0?source=user\_profile---------0----------------------------) <a href="63c1" id="63c1"></a>
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 58](https://coirof.medium.com/riepilogo-settimana-58-9f4f84b0ee49)
 * 🇯🇵 Japanese: [おさらい：58週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-58%E9%80%B1%E7%9B%AE-bc2967cdb708)
-* 🇵🇹 Portuguese: [Recapitulação: Semana 58](https://medium.com/@Blue_Poison/recapitula%C3%A7%C3%A3o-semana-58-3c62501e48b0)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 58](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-58-3c62501e48b0)
 * 🇪🇸 Spanish: [Resumen de la Semana 58](https://c3h.medium.com/es-resumen-de-la-semana-58-b413c3b1dd34)
 * 🇹🇼 Traditional Chinese: [第 58 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-58-%E9%80%B1%E5%9B%9E%E9%A1%A7-22582852405d)
 * 🇹🇷 Turkish: [Özet: 58. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-58-hafta-b077a020fb8)
@@ -44,7 +44,7 @@ description: >-
 
 * 🇮🇹 Italian: [Harvest rende 8.000 $ agli Yeomen che hanno realizzato l’affare con Bancor](https://coirof.medium.com/harvest-rende-8-000-agli-yeoman-che-hanno-realizzato-laffare-con-bancor-d4914a090948)
 * 🇯🇵 Japanese: [ハーベストはBancorと契約を結んだ働き者に$8,000を与える](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AFbancor%E3%81%A8%E5%A5%91%E7%B4%84%E3%82%92%E7%B5%90%E3%82%93%E3%81%A0%E5%83%8D%E3%81%8D%E8%80%85%E3%81%AB-8-000%E3%82%92%E4%B8%8E%E3%81%88%E3%82%8B-4ae75ae0a807)
-* 🇵🇹 Portuguese: [Harvest devolve $8.000 para a Yeomen que trouxe o Bancor Deal](https://medium.com/@Blue_Poison/harvest-devolve-8-000-para-a-yeomen-que-trouxe-o-bancor-deal-2a1e1b0b603d)
+* 🇵🇹 Portuguese: [Harvest devolve $8.000 para a Yeomen que trouxe o Bancor Deal](https://medium.com/@Blue\_Poison/harvest-devolve-8-000-para-a-yeomen-que-trouxe-o-bancor-deal-2a1e1b0b603d)
 * 🇪🇸 Spanish: [Harvest retribuye con 8.000 dólares a los que hicieron posible el acuerdo con Bancor](https://c3h.medium.com/harvest-retribuye-con-8-000-d%C3%B3lares-a-los-que-hicieron-posible-el-acuerdo-con-bancor-d96eb8c4f459)
 * 🇹🇼 Traditional Chinese: [Harvest 回饋 8,000 美元給引入 Bancor 交易的自耕農](https://harvestfinance-tw.medium.com/harvest-%E5%9B%9E%E9%A5%8B-8-000-%E7%BE%8E%E5%85%83%E7%B5%A6%E5%BC%95%E5%85%A5-bancor-%E4%BA%A4%E6%98%93%E7%9A%84%E8%87%AA%E8%80%95%E8%BE%B2-80d1c432475f)
 * 🇹🇷 Turkish: [Harvest, Bancor Anlaşmasını Getiren Yeomen’e 8.000$ Verdi](https://harvestfiturkce.medium.com/harvest-bancor-anla%C5%9Fmas%C4%B1n%C4%B1-getiren-yeomene-8-000-verdi-e16e52ca15f8)
@@ -55,7 +55,7 @@ description: >-
 
 * 🇮🇹 Italian: [Fertilizer con Phuture Finance](https://coirof.medium.com/fertilizer-con-phuture-finance-fd437fcf1e59)
 * 🇯🇵 Japanese: [注目のPhuture FinanceとFertilizer](https://miwa-wv.medium.com/%E6%B3%A8%E7%9B%AE%E3%81%AEphuture-finance%E3%81%A8fertilizer-12eba960d0ee)
-* 🇵🇹 Portuguese: [Fertilizer com a Phuture Finance](https://medium.com/@Blue_Poison/fertilizer-com-a-phuture-finance-bc47733cab5d)
+* 🇵🇹 Portuguese: [Fertilizer com a Phuture Finance](https://medium.com/@Blue\_Poison/fertilizer-com-a-phuture-finance-bc47733cab5d)
 * 🇪🇸 Spanish: [Fertilizer en colaboración con Phuture Finance](https://c3h.medium.com/fertilizer-en-colaboraci%C3%B3n-con-phuture-finance-dd8b3395d12e)
 * 🇹🇼 Traditional Chinese: [Fertilizer -與 Phuture Finance合作](https://harvestfinance-tw.medium.com/fertilizer-%E8%88%87-phuture-finance%E5%90%88%E4%BD%9C-c51ccb5d4db5)
 * 🇹🇷 Turkish: [Fertilizer ft. Phuture Finance](https://harvestfiturkce.medium.com/fertilizer-ft-phuture-finance-4c1ae7608a43)
@@ -64,7 +64,7 @@ description: >-
 
 * 🇮🇹 Italian: [Incubatrice NFT: Vendita pubblica n. 1](https://coirof.medium.com/incubatrice-nft-vendita-pubblica-n-1-17edcdb2b50d)
 * 🇯🇵 Japanese: [NFT Incubator: #1 販売開始](https://miwa-wv.medium.com/nft-incubator-1-%E8%B2%A9%E5%A3%B2%E9%96%8B%E5%A7%8B-71fb10241963)
-* 🇵🇹 Portuguese: Incubator: [Venda Pública Número #1](https://medium.com/@Blue_Poison/incubator-venda-p%C3%BAblica-n%C3%BAmero-1-74361ded8f2f)
+* 🇵🇹 Portuguese: Incubator: [Venda Pública Número #1](https://medium.com/@Blue\_Poison/incubator-venda-p%C3%BAblica-n%C3%BAmero-1-74361ded8f2f)
 * 🇪🇸 Spanish: [Incubadora NFT: Venta Pública #1](https://c3h.medium.com/incubadora-nft-venta-p%C3%BAblica-1-5b8cadb16453)
 * 🇹🇼 Traditional Chinese: [NFT 孵化器 : 公開發售 #1](https://harvestfinance-tw.medium.com/nft-%E5%AD%B5%E5%8C%96%E5%99%A8-%E5%85%AC%E9%96%8B%E7%99%BC%E5%94%AE-1-8c0b32ec36c6)
 * 🇹🇷 Turkish: [NFT İnkübatörü: Halka Açık Satış #1](https://harvestfiturkce.medium.com/nft-i%CC%87nk%C3%BCbat%C3%B6r%C3%BC-halka-a%C3%A7%C4%B1k-sat%C4%B1%C5%9F-1-c6ee1ec8e929)
@@ -76,7 +76,7 @@ description: >-
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 57](https://coirof.medium.com/riepilogo-settimana-57-483f73f72849)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[おさらい：57週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-57%E9%80%B1%E7%9B%AE-fa0827dd1a5c)
-* 🇵🇹 Portuguese: [Recapitulação: Semana 57](https://medium.com/@Blue_Poison/recapitula%C3%A7%C3%A3o-semana-57-557977339594)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 57](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-57-557977339594)
 * 🇪🇸 Spanish: [Resumen de la Semana 57](https://c3h.medium.com/es-resumen-de-la-semana-57-31cc86ab8e58)
 * 🇹🇼 Traditional Chinese: [第 57 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-57-%E9%80%B1%E5%9B%9E%E9%A1%A7-e8ceda9c5f4)
 * 🇹🇷 Turkish:** **[Özet: 57. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-57-hafta-594f333a34e9)
@@ -89,7 +89,7 @@ description: >-
 
 * 🇮🇹 Italian: [Introduzione all’Incubatrice NFT](https://coirof.medium.com/introduzione-allincubatrice-nft-958a5f45cf80)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[紹介：NFT Incubator(孵卵器)](https://miwa-wv.medium.com/%E7%B4%B9%E4%BB%8B-nft-incubator-%E5%AD%B5%E5%8D%B5%E5%99%A8-bfbd756222ee)
-* 🇵🇹 Portuguese: [Apresentando a NFT Incubator](https://medium.com/@Blue_Poison/apresentando-a-nft-incubator-ca794d2706d8)
+* 🇵🇹 Portuguese: [Apresentando a NFT Incubator](https://medium.com/@Blue\_Poison/apresentando-a-nft-incubator-ca794d2706d8)
 * 🇪🇸 Spanish: [Presentando: Incubadora NFT](https://c3h.medium.com/presentando-incubadora-nft-c8cb3a69e836)
 * 🇹🇼 Traditional Chinese: [介紹：NFT 孵化器](https://harvestfinance-tw.medium.com/%E4%BB%8B%E7%B4%B9-nft-%E5%AD%B5%E5%8C%96%E5%99%A8-a7c139b8a469)
 * 🇹🇷 Turkish: [NFT İnkübatörü Tanıtımı](https://harvestfiturkce.medium.com/nft-i%CC%87nk%C3%BCbat%C3%B6r%C3%BC-tan%C4%B1t%C4%B1m%C4%B1-d39c96159608)
@@ -101,7 +101,7 @@ description: >-
 
 * 🇮🇹 Italian: [Nuova pool $DON di Donkey Finance](https://coirof.medium.com/nuova-pool-don-di-donkey-finance-e276d676727f)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[注目のDonkey Finance との新しい$DONヴァルト](https://miwa-wv.medium.com/%E6%B3%A8%E7%9B%AE%E3%81%AEdonkey-finance-%E3%81%A8%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84-don%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88-69526e6b6c9)
-* 🇵🇹 Portuguese: [Novo Vault $DON em parceria com a Donkey Finance](https://medium.com/@Blue_Poison/novo-vault-don-em-parceria-com-a-donkey-finance-f6bc8469a3d2)
+* 🇵🇹 Portuguese: [Novo Vault $DON em parceria com a Donkey Finance](https://medium.com/@Blue\_Poison/novo-vault-don-em-parceria-com-a-donkey-finance-f6bc8469a3d2)
 * 🇪🇸 Spanish: [Nueva Bóveda $DON con Donkey Finance](https://c3h.medium.com/nueva-b%C3%B3veda-don-con-donkey-finance-feabd4e42eb6)
 * 🇹🇼 Traditional Chinese: [新 $DON 資金庫 — 與 Donkey Finance 合作](https://harvestfinance-tw.medium.com/%E6%96%B0-don-%E8%B3%87%E9%87%91%E5%BA%AB-%E8%88%87-donkey-finance-%E5%90%88%E4%BD%9C-a38e1e321f16)
 * 🇹🇷 Turkish: [Yeni $DON Kasası ve Donkey Finance](https://harvestfiturkce.medium.com/yeni-don-kasas%C4%B1-ve-donkey-finance-47acc3d07960)
@@ -113,7 +113,7 @@ description: >-
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 56](https://coirof.medium.com/riepilogo-settimana-56-e14cb06d4d86)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[おさらい：56週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-56%E9%80%B1%E7%9B%AE-76b1456dc998)
-* 🇵🇹 Portuguese: [Recapitulação da Semana 56](https://medium.com/@Blue_Poison/recapitula%C3%A7%C3%A3o-da-semana-56-bb597053dd5c)
+* 🇵🇹 Portuguese: [Recapitulação da Semana 56](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-da-semana-56-bb597053dd5c)
 * 🇪🇸 Spanish: [Resumen de la Semana 56](https://c3h.medium.com/es-resumen-de-la-semana-56-4cecb260323e)
 * 🇹🇼 Traditional Chinese: [第 56 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-56-%E9%80%B1%E5%9B%9E%E9%A1%A7-fcf693bea2d3)
 * 🇹🇷 Turkish: [Özet: 56. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-56-hafta-9dbffd9eed13)
@@ -125,7 +125,7 @@ description: >-
 
 * 🇮🇹 Italian: [I ivncitori del Contest Creativo: Edizione Anniversario](https://coirof.medium.com/i-ivncitori-del-contest-creativo-edizione-anniversario-e6985fced235)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[クリエイティブコンテスト勝者：記念日エディション](https://miwa-wv.medium.com/%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E5%8B%9D%E8%80%85-%E8%A8%98%E5%BF%B5%E6%97%A5%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3-1b99a8b77b58)
-* 🇵🇹 Portuguese: [Nossos ganhadores do Concurso Criativo: edição de aniversário](https://medium.com/@Blue_Poison/nossos-ganhadores-do-concurso-criativo-edi%C3%A7%C3%A3o-de-anivers%C3%A1rio-78b72377f095)
+* 🇵🇹 Portuguese: [Nossos ganhadores do Concurso Criativo: edição de aniversário](https://medium.com/@Blue\_Poison/nossos-ganhadores-do-concurso-criativo-edi%C3%A7%C3%A3o-de-anivers%C3%A1rio-78b72377f095)
 * 🇪🇸 Spanish: [Ganadores del Concurso de Creatividad: Edición de Aniversario](https://c3h.medium.com/ganadores-de-concurso-de-creatividad-edici%C3%B3n-de-aniversario-da0ba58ba95f)
 * 🇹🇼 Traditional Chinese: [創意大賽獲獎者系列：週年紀念版](https://harvestfinance-tw.medium.com/%E5%89%B5%E6%84%8F%E5%A4%A7%E8%B3%BD%E7%8D%B2%E7%8D%8E%E8%80%85%E7%B3%BB%E5%88%97-%E9%80%B1%E5%B9%B4%E7%B4%80%E5%BF%B5%E7%89%88-18b8e784e152)
 * 🇹🇷 Turkish: [Yaratıcılık Yarışması Kazananları: Yıldönümü Özel](https://harvestfiturkce.medium.com/yarat%C4%B1c%C4%B1l%C4%B1k-yar%C4%B1%C5%9Fmas%C4%B1-kazananlar%C4%B1-y%C4%B1ld%C3%B6n%C3%BCm%C3%BC-%C3%B6zel-f8f3db446235)
@@ -134,7 +134,7 @@ description: >-
 
 * 🇮🇹 Italian: [Introduzione alla condivisione del profitto NFT](https://coirof.medium.com/introduzione-alla-condivisione-del-profitto-nft-46549a488c6)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[紹介：NFT利益配当](https://miwa-wv.medium.com/%E7%B4%B9%E4%BB%8B-nft%E5%88%A9%E7%9B%8A%E9%85%8D%E5%BD%93-5d67fedc1299)
-* 🇵🇹 Portuguese: [Apresentando a NFT Profit Sharing](https://medium.com/@Blue_Poison/apresentando-a-nft-profit-sharing-dcc80d5898e2)
+* 🇵🇹 Portuguese: [Apresentando a NFT Profit Sharing](https://medium.com/@Blue\_Poison/apresentando-a-nft-profit-sharing-dcc80d5898e2)
 * 🇪🇸 Spanish: [Presentando la Participación de Lucros de NFTs](https://c3h.medium.com/presentando-la-participaci%C3%B3n-de-lucros-de-nfts-5166037a3752)
 * 🇹🇼 Traditional Chinese: [介紹: NFT 利潤分享](https://harvestfinance-tw.medium.com/%E4%BB%8B%E7%B4%B9-nft-%E5%88%A9%E6%BD%A4%E5%88%86%E4%BA%AB-3b0419b35530)
 * 🇹🇷 Turkish: [NFT Kar Paylaşımı Tanıtımı](https://harvestfiturkce.medium.com/nft-kar-payla%C5%9F%C4%B1m%C4%B1-tan%C4%B1t%C4%B1m%C4%B1-3380d60e96ea)
@@ -143,7 +143,7 @@ description: >-
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 55](https://coirof.medium.com/riepilogo-settimana-55-b05d3cf7e9a1)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[おさらい：55週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-55%E9%80%B1%E7%9B%AE-c57e33d9aa61)
-* 🇵🇹 Portuguese: [Recapitulação: Semana 55](https://medium.com/@Blue_Poison/recapitula%C3%A7%C3%A3o-semana-55-506f65efb997)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 55](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-55-506f65efb997)
 * 🇪🇸 Spanish: [Resumen de la Semana 55](https://c3h.medium.com/es-resumen-de-la-semana-55-5d319b73788e)
 * 🇹🇼 Traditional Chinese: [第 55 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-55-%E9%80%B1%E5%9B%9E%E9%A1%A7-9bd5c4375e2)
 * 🇹🇷 Turkish: [Özet: 55. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-55-hafta-def62459408e)
@@ -154,7 +154,7 @@ description: >-
 
 * 🇮🇹 Italian: [Due nuove pool](https://coirof.medium.com/due-nuove-pool-63508c917125)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[2つの新しいヴァルト](https://miwa-wv.medium.com/2%E3%81%A4%E3%81%AE%E6%96%B0%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88-97891b3485e1)
-* 🇵🇹 Portuguese: [Dois novos vaults](https://medium.com/@Blue_Poison/dois-novos-vaults-40e194ed37b9)
+* 🇵🇹 Portuguese: [Dois novos vaults](https://medium.com/@Blue\_Poison/dois-novos-vaults-40e194ed37b9)
 * 🇪🇸 Spanish: [2 Nuevas Bóvedas](https://c3h.medium.com/2-nuevas-b%C3%B3vedas-c229819fd371)
 * 🇹🇼 Traditional Chinese: [2個新資金庫](https://harvestfinance-tw.medium.com/2%E5%80%8B%E6%96%B0%E8%B3%87%E9%87%91%E5%BA%AB-9a5b0b42753f)
 * 🇹🇷 Turkish: [2 Yeni Kasa](https://harvestfiturkce.medium.com/2-yeni-kasa-f92def31be9a)
@@ -163,7 +163,7 @@ description: >-
 
 * 🇮🇹 Italian: [Nuove pool $YEL](https://coirof.medium.com/nuove-pool-yel-89744dbad2bc)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[新たな$YELヴァルト](https://miwa-wv.medium.com/%E6%96%B0%E3%81%9F%E3%81%AA-yel%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88-c469aae3c3d2)
-* 🇵🇹 Portuguese: [Novos vaults $YEL](https://medium.com/@Blue_Poison/novos-vaults-yel-8dc13e654d98)
+* 🇵🇹 Portuguese: [Novos vaults $YEL](https://medium.com/@Blue\_Poison/novos-vaults-yel-8dc13e654d98)
 * 🇪🇸 Spanish: [Nuevas Bóvedas $YEL](https://c3h.medium.com/nuevas-b%C3%B3vedas-yel-1b61e6728206)
 * 🇹🇼 Traditional Chinese: [新資金庫 — $YEL](https://harvestfinance-tw.medium.com/%E6%96%B0%E8%B3%87%E9%87%91%E5%BA%AB-yel-474a13103344)
 * 🇹🇷 Turkish: [Yeni $YEL Kasaları](https://harvestfiturkce.medium.com/yeni-yel-kasalar%C4%B1-5e21cb6756e7)
@@ -172,7 +172,7 @@ description: >-
 
 * 🇮🇹 Italian: [Introduzione al “Fertilizzante” con Stakewise.io](https://coirof.medium.com/introduzione-al-fertilizzante-con-stakewise-io-805786c02775)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[Stakewise.IoとのFertilizer（肥料）のご紹介](https://miwa-wv.medium.com/stakewise-io%E3%81%A8%E3%81%AEfertilizer-%E8%82%A5%E6%96%99-%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B-363f8a14ae54)
-* 🇵🇹 Portuguese: [Apresentando Fertilizer com Stakewise.io](https://medium.com/@Blue_Poison/apresentando-fertilizer-com-stakewise-io-8b2732775b7f)
+* 🇵🇹 Portuguese: [Apresentando Fertilizer com Stakewise.io](https://medium.com/@Blue\_Poison/apresentando-fertilizer-com-stakewise-io-8b2732775b7f)
 * 🇪🇸 Spanish: [Presentando Fertilizer con Stakewise.io](https://c3h.medium.com/presentando-fertilizer-con-stakewise-io-df6d6c3c8ad4)
 * 🇹🇼 Traditional Chinese: [透過 Stakewise.io 介紹 Fertilizer](https://harvestfinance-tw.medium.com/%E9%80%8F%E9%81%8E-stakewise-io-%E4%BB%8B%E7%B4%B9-fertilizer-d3ee9bf8aea)
 * 🇹🇷 Turkish: [Stakewise.io ile Fertilizer Tanıtımı](https://harvestfiturkce.medium.com/stakewise-io-ile-fertilizer-tan%C4%B1t%C4%B1m%C4%B1-900ae23bad21)
@@ -184,7 +184,7 @@ description: >-
 
 * 🇮🇹 Italian: [Dismissione fCASH](https://coirof.medium.com/dismissione-fcash-7173a899fbb)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[fCASHリタイア](https://miwa-wv.medium.com/fcash%E3%83%AA%E3%82%BF%E3%82%A4%E3%82%A2-93485702591c)
-* 🇵🇹 Portuguese: [Aposentando fCASH](https://medium.com/@Blue_Poison/apresentando-fcash-6da4bd862448)
+* 🇵🇹 Portuguese: [Aposentando fCASH](https://medium.com/@Blue\_Poison/apresentando-fcash-6da4bd862448)
 * 🇪🇸 Spanish: [fCASH se Jubila](https://c3h.medium.com/fcash-se-jubila-f57ab826c3af)
 * 🇹🇼 Traditional Chinese: [fCASH 功成身退](https://harvestfinance-tw.medium.com/fcash-%E5%8A%9F%E6%88%90%E8%BA%AB%E9%80%80-e440cc1568a9)
 * 🇹🇷 Turkish: [fCASH Emekli Oluyor](https://harvestfiturkce.medium.com/fcash-emekli-oluyor-3570b964084b)
@@ -193,7 +193,7 @@ description: >-
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 54](https://coirof.medium.com/riepilogo-settimana-54-a1a537130f31)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[おさらい：54週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-54%E9%80%B1%E7%9B%AE-bda316cb03a3)
-* 🇵🇹 Portuguese: [Recapitulação: Semana 54](https://medium.com/@Blue_Poison/recapitula%C3%A7%C3%A3o-semana-54-4b75fae25d4)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 54](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-54-4b75fae25d4)
 * 🇪🇸 Spanish: [Resumen de la Semana 54](https://c3h.medium.com/es-resumen-de-la-semana-52-f452cfb7b4c9)
 * 🇹🇼 Traditional Chinese: [第 54 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-54-%E9%80%B1%E5%9B%9E%E9%A1%A7-a61956a5913b)
 * 🇹🇷 Turkish: [Özet: 54. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-54-hafta-72d575992d40)
@@ -201,11 +201,11 @@ description: >-
 * Indonesian: [Rekap: Minggu Ke-54](https://gamewatch21.medium.com/rekap-minggu-ke-54-e407d12725ec)
 * Russian: [Итоги: Неделя 54](https://makurinma03.medium.com/%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-54-bb75d2e1e4c9)
 
-### [Bancor To Extend LM Rewards for the $FARM Pool](https://medium.com/harvest-finance/bancor-to-extend-lm-rewards-for-the-farm-pool-7f855fe73a90?source=collection_home---4------1-----------------------)
+### [Bancor To Extend LM Rewards for the $FARM Pool](https://medium.com/harvest-finance/bancor-to-extend-lm-rewards-for-the-farm-pool-7f855fe73a90?source=collection\_home---4------1-----------------------)
 
 * 🇮🇹 Italian: [Bancor estende le ricompense per la pool $FARM](https://coirof.medium.com/bancor-estende-le-ricompense-per-la-pool-farm-65793f2e37cc)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[$FARMプールのLM報酬を拡張するBancor](https://miwa-wv.medium.com/farm%E3%83%97%E3%83%BC%E3%83%AB%E3%81%AElm%E5%A0%B1%E9%85%AC%E3%82%92%E6%8B%A1%E5%BC%B5%E3%81%99%E3%82%8Bbancor-58979fde4226)
-* 🇵🇹 Portuguese: [Bancor irá estender suas recompensas LM para o pool de $FARM](https://medium.com/@Blue_Poison/bancor-ir%C3%A1-estender-suas-recompensas-lm-para-o-pool-de-farm-fb302a727375)
+* 🇵🇹 Portuguese: [Bancor irá estender suas recompensas LM para o pool de $FARM](https://medium.com/@Blue\_Poison/bancor-ir%C3%A1-estender-suas-recompensas-lm-para-o-pool-de-farm-fb302a727375)
 * 🇪🇸 Spanish: [Bancor ampliará las recompensas de LM para el fondo común de $FARM](https://c3h.medium.com/bancor-ampliar%C3%A1-las-recompensas-de-lm-para-el-fondo-com%C3%BAn-de-farm-fb8bde41b8c3)
 * 🇹🇼 Traditional Chinese: [Bancor 為 $FARM 資金池延長流動性挖礦獎勵](https://harvestfinance-tw.medium.com/bancor-%E7%82%BA-farm-%E8%B3%87%E9%87%91%E6%B1%A0%E5%BB%B6%E9%95%B7%E6%B5%81%E5%8B%95%E6%80%A7%E6%8C%96%E7%A4%A6%E7%8D%8E%E5%8B%B5-b6e648aeb702)
 * 🇹🇷 Turkish: [Bancor $FARM Havuzu için LM Ödüllerini Uzatıyor](https://harvestfiturkce.medium.com/bancor-farm-havuzu-i%C3%A7in-lm-%C3%B6d%C3%BCllerini-uzat%C4%B1yor-9cfa90075467)
@@ -213,11 +213,11 @@ description: >-
 * French: [Bancor va étendre les récompenses de liquidité pour la cagnotte $FARM](https://bob-duval.medium.com/bancor-va-%C3%A9tendre-les-r%C3%A9compenses-de-liquidit%C3%A9-pour-la-cagnotte-farm-4000bec14000)
 * Russian: [Bancor увеличивает LM награды за пулы-ликвидности $FARM](https://makurinma03.medium.com/bancor-%D1%83%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D1%82-lm-%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D1%8B-%D0%B7%D0%B0-%D0%BF%D1%83%D0%BB%D1%8B-%D0%BB%D0%B8%D0%BA%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8-farm-ff8d497190a0)
 
-### [Harvest Participates in Gitcoin Grants Round 11](https://medium.com/harvest-finance/harvest-participates-in-gitcoin-grants-round-11-4f13901a683e?source=collection_home---4------2-----------------------)
+### [Harvest Participates in Gitcoin Grants Round 11](https://medium.com/harvest-finance/harvest-participates-in-gitcoin-grants-round-11-4f13901a683e?source=collection\_home---4------2-----------------------)
 
 * 🇮🇹 Italian: [Harvest partecipa al Gitcoin Grants Round 11](https://coirof.medium.com/harvest-partecipa-al-gitcoin-grants-round-11-a4dbf6de69bb)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[ハーベスト、Gitcoin助成金ラウンド11に参加](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88-gitcoin%E5%8A%A9%E6%88%90%E9%87%91%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%8911%E3%81%AB%E5%8F%82%E5%8A%A0-30dd4f943b25)
-* 🇵🇹 Portuguese: [Harvest Participa da Rodada 11 do Gitcoin Grants](https://medium.com/@Blue_Poison/harvest-participa-da-rodada-11-do-gitcoin-grants-10d512007479)
+* 🇵🇹 Portuguese: [Harvest Participa da Rodada 11 do Gitcoin Grants](https://medium.com/@Blue\_Poison/harvest-participa-da-rodada-11-do-gitcoin-grants-10d512007479)
 * 🇪🇸 Spanish: [Harvest participa en la 11ª ronda de becas de Gitcoin](https://c3h.medium.com/harvest-participa-en-la-11%C2%AA-ronda-de-becas-de-gitcoin-35539accdcc7)
 * 🇹🇼 Traditional Chinese: [Harvest 參與 Gitcoin Grants 第 11 輪](https://harvestfinance-tw.medium.com/harvest-%E5%8F%83%E8%88%87-gitcoin-grants-%E7%AC%AC-11-%E8%BC%AA-e6341d29fd4d)
 * 🇹🇷 Turkish: [Harvest Gitcoin Grants 11. Turuna Katılıyor!](https://harvestfiturkce.medium.com/harvest-gitcoin-grants-11-turuna-kat%C4%B1l%C4%B1yor-3b1c4d9b95bd)
@@ -231,7 +231,7 @@ description: >-
 
 * 🇮🇹 Italian: [Riepilogo: Agosto 2021](https://coirof.medium.com/riepilogo-agosto-2021-6aa1d87ee1b1)
 * 🇯🇵 Japanese:[ ](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)[おさらい：2021年8月](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-2021%E5%B9%B48%E6%9C%88-661a07b1e8be)
-* 🇵🇹 Portuguese: [Recapitulação: Agosto de 2021](https://medium.com/@Blue_Poison/recapitula%C3%A7%C3%A3o-agosto-de-2021-4bfaf963568)
+* 🇵🇹 Portuguese: [Recapitulação: Agosto de 2021](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-agosto-de-2021-4bfaf963568)
 * 🇪🇸 Spanish: [Recapitulación: Agosto 2021](https://c3h.medium.com/recapitulaci%C3%B3n-agosto-2021-ea7d8df17090)
 * 🇹🇼 Traditional Chinese: [2021 年 8 月回顧](https://harvestfinance-tw.medium.com/2021-%E5%B9%B4-8-%E6%9C%88%E5%9B%9E%E9%A1%A7-63ed2d43d22f)
 * 🇹🇷 Turkish: [Özet: Ağustos 2021](https://harvestfiturkce.medium.com/%C3%B6zet-a%C4%9Fustos-2021-34a621938dcc)
@@ -243,7 +243,7 @@ description: >-
 
 * 🇮🇹 Italian: [Contest creativo di Harvest — Edizione Anniversario](https://coirof.medium.com/contest-creativo-di-harvest-edizione-anniversario-6e38aac65c2c)
 * 🇯🇵 Japanese:[ ハーベストのクリエイティブコンテスト — 一年記念](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-%E4%B8%80%E5%B9%B4%E8%A8%98%E5%BF%B5-7092acdb9583)
-* 🇵🇹 Portuguese: [Concurso Criativo da Harvest - Edição Aniversário](https://medium.com/@Blue_Poison/concurso-criativo-da-harvest-edi%C3%A7%C3%A3o-anivers%C3%A1rio-a0f490d380a3)
+* 🇵🇹 Portuguese: [Concurso Criativo da Harvest - Edição Aniversário](https://medium.com/@Blue\_Poison/concurso-criativo-da-harvest-edi%C3%A7%C3%A3o-anivers%C3%A1rio-a0f490d380a3)
 * 🇪🇸 Spanish: [Concurso de creatividad de Harvest — Edición de aniversario](https://c3h.medium.com/concurso-de-creatividad-de-harvest-edici%C3%B3n-de-aniversario-91f7b86ac9e3)
 * 🇹🇼 Traditional Chinese: [Harvest 創意大賽 — 週年紀念版](https://harvestfinance-tw.medium.com/harvest-%E5%89%B5%E6%84%8F%E5%A4%A7%E8%B3%BD-%E9%80%B1%E5%B9%B4%E7%B4%80%E5%BF%B5%E7%89%88-a3c2f4018fc1)
 * 🇹🇷 Turkish: [Yıldönümüne Özel Harvest Yaratıcılık Yarışması](https://harvestfiturkce.medium.com/y%C4%B1ld%C3%B6n%C3%BCm%C3%BCne-%C3%B6zel-harvest-yarat%C4%B1c%C4%B1l%C4%B1k-yar%C4%B1%C5%9Fmas%C4%B1-e532a11b8232)
@@ -256,7 +256,7 @@ description: >-
 
 * 🇮🇹 Italian: [La storia non raccontata di Harvest — Primo anniversario](https://coirof.medium.com/la-storia-non-raccontata-di-harvest-primo-anniversario-2985283f8c11)
 * 🇯🇵 Japanese: [語られていないハーベストのことー1年記念](https://miwa-wv.medium.com/%E8%AA%9E%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E3%81%93%E3%81%A8%E3%83%BC1%E5%B9%B4%E8%A8%98%E5%BF%B5-4047cfc2b178)
-* 🇵🇹 Portuguese: [A história não contada da Harvest - O Nosso Primeiro aniversário](https://medium.com/@Blue_Poison/a-hist%C3%B3ria-n%C3%A3o-contada-da-harvest-o-nosso-primeiro-anivers%C3%A1rio-a2e8208157e3)
+* 🇵🇹 Portuguese: [A história não contada da Harvest - O Nosso Primeiro aniversário](https://medium.com/@Blue\_Poison/a-hist%C3%B3ria-n%C3%A3o-contada-da-harvest-o-nosso-primeiro-anivers%C3%A1rio-a2e8208157e3)
 * 🇪🇸 Spanish: [La historia no contada de Harvest — Primer aniversario](https://c3h.medium.com/es-la-historia-no-contada-de-harvest-primer-aniversario-6ed550ff421c)
 * 🇹🇼 Traditional Chinese: [Harvest 異聞錄 — 一週年](https://harvestfinance-tw.medium.com/harvest-%E7%95%B0%E8%81%9E%E9%8C%84-%E4%B8%80%E9%80%B1%E5%B9%B4-69098be6c824)
 * 🇹🇷 Turkish: [Harvest’ın Anlatılmamış Hikayesi — Birinci Yıldönümü](https://harvestfiturkce.medium.com/harvest%C4%B1n-anlat%C4%B1lmam%C4%B1%C5%9F-hikayesi-birinci-y%C4%B1ld%C3%B6n%C3%BCm%C3%BC-fb19caf5ca0e)
@@ -265,11 +265,11 @@ description: >-
 * Russian: [Нерассказанная история Harvest— Первая годовщина](https://makurinma03.medium.com/%D0%BD%D0%B5%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-harvest-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2%D1%89%D0%B8%D0%BD%D0%B0-8e3f0a745ac4)
 * Indonesian: [“The Untold Story" dari Harvest — Ulang Tahun yang Pertama](https://gamewatch21.medium.com/the-untold-story-dari-harvest-ulang-tahun-yang-pertama-3fa7204ef6fc)
 
-### [Recap: Week 52](https://medium.com/harvest-finance/recap-week-52-741a31b68003?source=collection_home---4------0-----------------------)
+### [Recap: Week 52](https://medium.com/harvest-finance/recap-week-52-741a31b68003?source=collection\_home---4------0-----------------------)
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 52](https://coirof.medium.com/riepilogo-settimana-52-917a45537201)
 * 🇯🇵 Japanese: [おさらい：52週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-52%E9%80%B1%E7%9B%AE-8eb541210c85)
-* 🇵🇹 Portuguese: [Recapitulação: Semana 52](https://medium.com/@Blue_Poison/recapitula%C3%A7%C3%A3o-semana-52-b84feaa9553)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 52](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-52-b84feaa9553)
 * 🇪🇸 Spanish: [Resumen de la Semana 52](https://c3h.medium.com/es-resumen-de-la-semana-52-90aef28e98e5)
 * 🇹🇼 Traditional Chinese: [第 52 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-52-%E9%80%B1%E5%9B%9E%E9%A1%A7-5e040c5d4735)
 * 🇹🇷 Turkish: [Özet: 52. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-52-hafta-70821ccfbdc1)
@@ -279,11 +279,11 @@ description: >-
 * Russian: [Неделя №52](https://makurinma03.medium.com/rus-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-52-44a0930ccb3a)
 * Indonesian: [Rekap: Minggu Ke-52](https://gamewatch21.medium.com/rekap-minggu-ke-52-b35cb96eb00b)
 
-### [Recap: Binance AMA](https://medium.com/harvest-finance/recap-binance-ama-d37fae92b63a?source=user_profile---------0----------------------------)
+### [Recap: Binance AMA](https://medium.com/harvest-finance/recap-binance-ama-d37fae92b63a?source=user\_profile---------0----------------------------)
 
 * 🇮🇹 Italian: [Riepilogo: Binance AMA](https://coirof.medium.com/riepilogo-binance-ama-c252cb77ad31)
 * 🇯🇵 Japanese: [おさらい：Binance AMA](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-binance-ama-9c1f4b1ba202)
-* 🇵🇹 Portuguese: [Recapitulação: Binance AMA](https://medium.com/@Blue_Poison/recapitula%C3%A7%C3%A3o-binance-ama-a8b28c2a97a9)
+* 🇵🇹 Portuguese: [Recapitulação: Binance AMA](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-binance-ama-a8b28c2a97a9)
 * 🇪🇸 Spanish: [Resumen del AMA en Binance](https://c3h.medium.com/resumen-del-ama-en-binance-a03cb3551956)
 * 🇹🇼 Traditional Chinese: [回顧 — 幣安有問必答](https://harvestfinance-tw.medium.com/%E5%9B%9E%E9%A1%A7-%E5%B9%A3%E5%AE%89%E6%9C%89%E5%95%8F%E5%BF%85%E7%AD%94-7588f580f327)
 * 🇹🇷 Turkish: [Özet: Binance AMA](https://harvestfiturkce.medium.com/%C3%B6zet-binance-ama-5d7176b6edec)
@@ -292,11 +292,11 @@ description: >-
 * Russian: Итог: [Binance AMA](https://makurinma03.medium.com/%D0%B8%D1%82%D0%BE%D0%B3-binance-ama-46a7a0858cf9)
 * French: [Récapitulatif Binance AMA](https://bob-duval.medium.com/r%C3%A9captitulatif-binance-ama-3f0ef7deb436)
 
-### [New $PHTR Vaults](https://medium.com/harvest-finance/new-phtr-vaults-7c98bde7a7bf?source=user_profile---------2----------------------------)
+### [New $PHTR Vaults](https://medium.com/harvest-finance/new-phtr-vaults-7c98bde7a7bf?source=user\_profile---------2----------------------------)
 
 * 🇮🇹 Italian: [Nuova pool $PHTR](https://coirof.medium.com/nuova-pool-phtr-6588139f8bfa)
 * 🇯🇵 Japanese: [新たな$PHTRヴァルト](https://miwa-wv.medium.com/%E6%96%B0%E3%81%9F%E3%81%AA-phtr%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88-6e0fae1be49f)
-* 🇵🇹 Portuguese: [Novos vaults $PHTR](https://medium.com/@Blue_Poison/novos-vaults-phtr-989df5a15445)
+* 🇵🇹 Portuguese: [Novos vaults $PHTR](https://medium.com/@Blue\_Poison/novos-vaults-phtr-989df5a15445)
 * 🇪🇸 Spanish: [Nuevas Bóvedas $PHTR](https://c3h.medium.com/novas-b%C3%B3vedas-phtr-b2f278cd3d47)
 * 🇹🇼 Traditional Chinese: [新資金庫 $PHTR](https://harvestfinance-tw.medium.com/%E6%96%B0%E8%B3%87%E9%87%91%E5%BA%AB-phtr-5a358e985791)
 * 🇹🇷 Turkish: [Yeni $PHTR Kasaları](https://harvestfiturkce.medium.com/yeni-phtr-kasalar%C4%B1-ea4a243c9e1b)
@@ -310,7 +310,7 @@ description: >-
 
 * 🇮🇹 Italian: [Il feed del prezzo FARM/ETH di Chainlink è attivo](https://coirof.medium.com/il-feed-del-prezzo-farm-eth-di-chainlink-%C3%A8-attivo-9d5d179482ca)
 * 🇯🇵 Japanese: [Chainlinkによって与えられるFARM/ETH 価格](https://miwa-wv.medium.com/chainlink%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E4%B8%8E%E3%81%88%E3%82%89%E3%82%8C%E3%82%8Bfarm-eth-%E4%BE%A1%E6%A0%BC-97ed7da598de)
-* 🇵🇹 Portuguese: [O Feed de preços FARM / ETH por Chainlink está ativo](https://medium.com/%40Blue_Poison/o-feed-de-pre%C3%A7os-farm-eth-por-chainlink-est%C3%A1-ativo-863103ccd3ea)
+* 🇵🇹 Portuguese: [O Feed de preços FARM / ETH por Chainlink está ativo](https://medium.com/%40Blue\_Poison/o-feed-de-pre%C3%A7os-farm-eth-por-chainlink-est%C3%A1-ativo-863103ccd3ea)
 * 🇪🇸 Spanish: [El Feed de Precios FARM/ETH por Chainlink está en Linea](https://c3h.medium.com/el-feed-de-precios-farm-eth-por-chainlink-est%C3%A1-en-linea-8d283ba813be)
 * 🇹🇼 Traditional Chinese: [FARM/ETH 價格已上線由預言機Chainlink 餵價](https://harvestfinance-tw.medium.com/farm-eth-%E5%83%B9%E6%A0%BC%E5%B7%B2%E4%B8%8A%E7%B7%9A%E7%94%B1%E9%A0%90%E8%A8%80%E6%A9%9Fchainlink-%E9%A4%B5%E5%83%B9-ee684e39639d)
 * 🇹🇷 Turkish: [FARM/ETH Fiyat Dengesi Yayında](https://harvestfiturkce.medium.com/farm-eth-fiyat-dengesi-yay%C4%B1nda-a635160d1c7e)
@@ -323,7 +323,7 @@ description: >-
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 51](https://coirof.medium.com/riepilogo-settimana-51-1233bb687844)
 * 🇯🇵 Japanese: [おさらい：51週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-51%E9%80%B1%E7%9B%AE-7eca2da79d37)
-* 🇵🇹 Portuguese: [Recapitulação: Semana 51](https://medium.com/%40Blue_Poison/recapitula%C3%A7%C3%A3o-semana-51-7d6f4f6bfc3e)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 51](https://medium.com/%40Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-51-7d6f4f6bfc3e)
 * 🇪🇸 Spanish: [Resumen de la Semana 51](https://c3h.medium.com/es-resumen-de-la-semana-51-c2b075b542fd)
 * 🇹🇼 Traditional Chinese: [第 51 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-51-%E9%80%B1%E5%9B%9E%E9%A1%A7-85ce168ea691)
 * 🇹🇷 Turkish: [Özet: 51. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-51-hafta-bf8c88ec109)
@@ -337,7 +337,7 @@ description: >-
 
 * 🇮🇹 Italian: [Come mettere in stake $FARM su Binance](https://coirof.medium.com/come-mettere-in-stake-farm-su-binance-53778d5b2ad8)
 * 🇯🇵 Japanese: [$FARMをBinanceにステイクする方法](https://miwa-wv.medium.com/farm%E3%82%92binance%E3%81%AB%E3%82%B9%E3%83%86%E3%82%A4%E3%82%AF%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-1de46c5c178a)
-* 🇵🇹 Portuguese: [Como depositar $FARM no Binance](https://medium.com/@Blue_Poison/como-depositar-farm-no-binance-94a34a07c971)
+* 🇵🇹 Portuguese: [Como depositar $FARM no Binance](https://medium.com/@Blue\_Poison/como-depositar-farm-no-binance-94a34a07c971)
 * 🇪🇸 Spanish: [Cómo stakear $FARM en Binance](https://c3h.medium.com/c%C3%B3mo-stakear-farm-en-binance-64de779843db)
 * 🇹🇼 Traditional Chinese: [如何在幣安交易所質押 $FARM](https://harvestfinance-tw.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B9%A3%E5%AE%89%E4%BA%A4%E6%98%93%E6%89%80%E8%B3%AA%E6%8A%BC-farm-719befbbdf1d)
 * 🇹🇷 Turkish: [Binance’de $FARM Nasıl Stake Edilir?](https://harvestfiturkce.medium.com/binanceda-farm-nas%C4%B1l-stake-edilir-a4f93b96bf25)
@@ -351,7 +351,7 @@ description: >-
 
 * 🇮🇹 Italian: [Harvest indirizza il suo meccanismo di riacquisto su Bancor](https://coirof.medium.com/harvest-indirizza-il-suo-meccanismo-di-riacquisto-su-bancor-817ed0928bcc)
 * 🇯🇵 Japanese: [ハーベストがBancorにて買取メカニズムを使う](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%8Cbancor%E3%81%AB%E3%81%A6%E8%B2%B7%E5%8F%96%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%BA%E3%83%A0%E3%82%92%E4%BD%BF%E3%81%86-70faf1b530dc)
-* 🇵🇹 Portuguese: [Harvest Aponta seu Mecanismo BuyBack para o Bancor](https://medium.com/@Blue_Poison/harvest-aponta-seu-mecanismo-buyback-para-o-bancor-b1b8b9319da3)
+* 🇵🇹 Portuguese: [Harvest Aponta seu Mecanismo BuyBack para o Bancor](https://medium.com/@Blue\_Poison/harvest-aponta-seu-mecanismo-buyback-para-o-bancor-b1b8b9319da3)
 * 🇪🇸 Spanish: [Harvest dirige su mecanismo de recompra hacia Bancor](https://c3h.medium.com/harvest-dirige-su-mecanismo-de-recompra-hacia-bancor-e0dcaaf473da)
 * 🇹🇼 Traditional Chinese: [Harvest 在 Bancor 上的回購機制](https://harvestfinance-tw.medium.com/harvest-%E5%9C%A8-bancor-%E4%B8%8A%E7%9A%84%E5%9B%9E%E8%B3%BC%E6%A9%9F%E5%88%B6-470c0db91d2)
 * 🇹🇷 Turkish: [Harvest, Geri Alım Mekanizmasını Bancor’da Uyguluyor](https://harvestfiturkce.medium.com/harvest-geri-al%C4%B1m-mekanizmas%C4%B1n%C4%B1-bancorda-uyguluyor-b2072328363d)
@@ -361,11 +361,11 @@ description: >-
 * Indonesian: [Harvest menunjuk Mekanikal BuyBack ke Bancor](https://gamewatch21.medium.com/harvest-menunjuk-mekanikal-buyback-ke-bancor-6259bee0a647)
 * Russian: [Harvest Points механизм обратного выкупа на Bancor](https://makurinma03.medium.com/harvest-points-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC-%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D1%8B%D0%BA%D1%83%D0%BF%D0%B0-%D0%BD%D0%B0-bancor-3a185dab741e)
 
-### [$FARM is Now Available on Crypto.com App](https://medium.com/harvest-finance/farm-is-now-available-on-crypto-com-app-82ad3dabd696?source=user_profile---------0----------------------------)
+### [$FARM is Now Available on Crypto.com App](https://medium.com/harvest-finance/farm-is-now-available-on-crypto-com-app-82ad3dabd696?source=user\_profile---------0----------------------------)
 
 * 🇮🇹 Italian: [$FARM è ora disponibile su Crypto.com App](https://coirof.medium.com/farm-%C3%A8-ora-disponibile-su-crypto-com-app-e4c034117615)
 * 🇯🇵 Japanese: [$FARMが今ならCrypto.com アプリで使える](https://miwa-wv.medium.com/farm%E3%81%8C%E4%BB%8A%E3%81%AA%E3%82%89crypto-com-%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B-66540ce2ac32)
-* 🇵🇹 Portuguese: [$FARM agora está disponível no app Crypto.com](https://medium.com/%40Blue_Poison/farm-agora-est%C3%A1-dispon%C3%ADvel-no-app-crypto-com-4d27cf58324f)
+* 🇵🇹 Portuguese: [$FARM agora está disponível no app Crypto.com](https://medium.com/%40Blue\_Poison/farm-agora-est%C3%A1-dispon%C3%ADvel-no-app-crypto-com-4d27cf58324f)
 * 🇪🇸 Spanish: [$FARM ahora está disponible en el App Crypto.com](https://c3h.medium.com/farm-ahora-est%C3%A1-disponible-ena-el-app-crypto-com-9d00234f27ba)
 * 🇹🇼 Traditional Chinese: [現可在 Crypto.com 應用程式上使用$FARM](https://harvestfinance-tw.medium.com/%E7%8F%BE%E5%8F%AF%E5%9C%A8-crypto-com-%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E4%B8%8A%E4%BD%BF%E7%94%A8-farm-c53d5b25ffed)
 * 🇹🇷 Turkish: [$FARM Artık Crypto.com App’de!](https://harvestfiturkce.medium.com/farm-art%C4%B1k-crypto-comda-13d4e41049b4)
@@ -375,11 +375,11 @@ description: >-
 * French: [$FARM est disponible sur l’app Crypto.com](https://bob-duval.medium.com/farm-est-disponible-sur-lapp-crypto-com-29ef3c550a88)
 * Russian: [$FARM теперь доступен на Crypto.com App](https://makurinma03.medium.com/farm-%D1%82%D0%B5%D0%BF%D0%B5%D1%80%D1%8C-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD-%D0%BD%D0%B0-crypto-com-app-98339eca91b8)
 
-### [Recap: Week 50](https://medium.com/harvest-finance/recap-week-50-dbff3ed26dc1?source=user_profile---------0----------------------------)
+### [Recap: Week 50](https://medium.com/harvest-finance/recap-week-50-dbff3ed26dc1?source=user\_profile---------0----------------------------)
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 50](https://coirof.medium.com/riepilogo-settimana-50-4bcdd5afe307)
 * 🇯🇵 Japanese: [おさらい：50週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-50%E9%80%B1%E7%9B%AE-3ad0f6baf7e3)
-* 🇵🇹 Portuguese: [Recapitulação: Semana 50](https://medium.com/%40Blue_Poison/recapitula%C3%A7%C3%A3o-semana-50-f0fc1afd8250)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 50](https://medium.com/%40Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-50-f0fc1afd8250)
 * 🇪🇸 Spanish: [Resumen de la Semana 50](https://c3h.medium.com/resumen-de-la-semana-50-ffe6ef21cbd)
 * 🇹🇼 Traditional Chinese: [第 50 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-50-%E9%80%B1%E5%9B%9E%E9%A1%A7-46ff33ca97ab)
 * 🇹🇷 Turkish: [Özet: 50. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-50-hafta-5cc2a57263fd)
@@ -389,11 +389,11 @@ description: >-
 * Indonesian: [Rekap: Minggu ke-50](https://gamewatch21.medium.com/rekap-minggu-ke-50-ce660266c5dd)
 * Serbian: [Recap: Nedelja 50!](https://medium.com/@krompir12422/recap-nedelja-50-689e5d3a41e9)
 
-### [$FARM is Now Officially on Binance](https://medium.com/harvest-finance/farm-is-now-officially-on-binance-a005d647e6b2?source=user_profile---------1----------------------------)
+### [$FARM is Now Officially on Binance](https://medium.com/harvest-finance/farm-is-now-officially-on-binance-a005d647e6b2?source=user\_profile---------1----------------------------)
 
 * 🇮🇹 Italian: [$FARM è ufficialmente su Binance](https://coirof.medium.com/farm-%C3%A8-ufficialmente-su-binance-ef400e470842)
 * 🇯🇵 Japanese: [$FARMは今、正式にBinance上にいます](https://miwa-wv.medium.com/farm%E3%81%AF%E4%BB%8A-%E6%AD%A3%E5%BC%8F%E3%81%ABbinance%E4%B8%8A%E3%81%AB%E3%81%84%E3%81%BE%E3%81%99-6d915c451086)
-* 🇵🇹 Portuguese: [$FARM está agora oficialmente na Binance](https://medium.com/%40Blue_Poison/farm-est%C3%A1-agora-oficialmente-na-binance-96d05a3381e9)
+* 🇵🇹 Portuguese: [$FARM está agora oficialmente na Binance](https://medium.com/%40Blue\_Poison/farm-est%C3%A1-agora-oficialmente-na-binance-96d05a3381e9)
 * 🇪🇸 Spanish: [$FARM Ahora está oficialmente en Binance](https://c3h.medium.com/farm-ahora-est%C3%A1-oficialmente-en-binance-30ad571df846)
 * 🇹🇼 Traditional Chinese: [$FARM 正式登入幣安](https://harvestfinance-tw.medium.com/farm-%E6%AD%A3%E5%BC%8F%E7%99%BB%E5%85%A5%E5%B9%A3%E5%AE%89-6dc594aeea51)
 * 🇹🇷 Turkish: [$FARM Resmi Olarak Binance’da!](https://harvestfiturkce.medium.com/farm-resmi-olarak-binanceda-713b17a38ff4)
@@ -403,11 +403,11 @@ description: >-
 * Russian: [Теперь $FARM официально на Binance](https://makurinma03.medium.com/%D1%82%D0%B5%D0%BF%D0%B5%D1%80%D1%8C-farm-%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BD%D0%B0-binance-fb106af1a9e7)
 * Serbian: [$FARM je officialno na Binance!](https://medium.com/@krompir12422/farm-je-officialno-na-binance-791e4397f7ff)
 
-### [New $zUSD Vault](https://medium.com/harvest-finance/new-zusd-vault-baaa04d24361?source=user_profile---------0----------------------------)
+### [New $zUSD Vault](https://medium.com/harvest-finance/new-zusd-vault-baaa04d24361?source=user\_profile---------0----------------------------)
 
 * 🇮🇹 Italian: [Nuova pool $zUSD](https://coirof.medium.com/nuova-pool-zusd-b31ebcb93161)
 * 🇯🇵 Japanese: [新しい$zUSDヴァルト](https://miwa-wv.medium.com/%E6%96%B0%E3%81%97%E3%81%84-zusd%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88-2fe2167050dd)
-* 🇵🇹 Portuguese: [Novo Vault $zUSD](https://medium.com/@Blue_Poison/novo-vault-zusd-ba4fb003f2ab)
+* 🇵🇹 Portuguese: [Novo Vault $zUSD](https://medium.com/@Blue\_Poison/novo-vault-zusd-ba4fb003f2ab)
 * 🇪🇸 Spanish: [Nueva Bóveda $zUSD](https://c3h.medium.com/nueva-b%C3%B3veda-zusd-f0b7a4cc435f)
 * 🇹🇼 Traditional Chinese: [新資金庫 $zUSD](https://harvestfinance-tw.medium.com/%E6%96%B0%E8%B3%87%E9%87%91%E5%BA%AB-zusd-329c42cbbd23)
 * 🇹🇷 Turkish: [Yeni $zUSD Kasası](https://harvestfiturkce.medium.com/yeni-zusd-kasas%C4%B1-dc719d9f9149)
@@ -417,11 +417,11 @@ description: >-
 * Serbian: [Novi $zUSD Valuta!](https://medium.com/@krompir12422/novi-zusd-valuta-b78e15af6e08)
 * Hungarian: [Új $zUSD Vault](https://medium.com/%40h1ghe3a/%C3%BAj-zusd-vault-99bc9d45ff3d)
 
-### [Recap: #1 Community Call](https://medium.com/harvest-finance/recap-1-community-call-15341c809f35?source=user_profile---------1----------------------------)
+### [Recap: #1 Community Call](https://medium.com/harvest-finance/recap-1-community-call-15341c809f35?source=user\_profile---------1----------------------------)
 
 * 🇮🇹 Italian: [Riassunto 1a “Community Call”](https://coirof.medium.com/riassunto-1a-community-call-3b879146c7bc)
 * 🇯🇵 Japanese: [おさらい：#1 コミュニティコール](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-1-%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%82%B3%E3%83%BC%E3%83%AB-e824a18263ff)
-* 🇵🇹 Portuguese: [Recapitulação: Primeira “Comunity Call”](https://medium.com/%40Blue_Poison/recapitula%C3%A7%C3%A3o-primeira-comunity-call-13454c32f77)
+* 🇵🇹 Portuguese: [Recapitulação: Primeira “Comunity Call”](https://medium.com/%40Blue\_Poison/recapitula%C3%A7%C3%A3o-primeira-comunity-call-13454c32f77)
 * 🇪🇸 Spanish: [Recapitulación: 1º Llamada Comunitaria](https://c3h.medium.com/recapitulaci%C3%B3n-1%C2%BA-llamada-comunitaria-8ac60d01f399)
 * 🇹🇼 Traditional Chinese: [回顧: #1 社群召集令](https://harvestfinance-tw.medium.com/%E5%9B%9E%E9%A1%A7-1-%E7%A4%BE%E7%BE%A4%E5%8F%AC%E9%9B%86%E4%BB%A4-798fb704d5f6)
 * 🇹🇷 Turkish: [Özet: #1 Topluluk Buluşması](https://harvestfiturkce.medium.com/%C3%B6zet-1-topluluk-bulu%C5%9Fmas%C4%B1-ca8d4999b98a)
@@ -431,22 +431,22 @@ description: >-
 * Serbian: [Recap #1 Community poziv](https://medium.com/@krompir12422/recap-1-community-poziv-490a267dd70d)
 * Hungarian: [Összegzés: #1 Közösségi hívás](https://medium.com/%40h1ghe3a/%C3%B6sszegz%C3%A9s-1-k%C3%B6z%C3%B6ss%C3%A9gi-h%C3%ADv%C3%A1s-bc3793645b35)
 
-### [How to Protect Your Deposits With Risk Harbor \[In-Depth Tutorial\]](https://medium.com/harvest-finance/how-to-protect-your-deposits-with-risk-harbor-in-depth-tutorial-f29644cc28ea?source=user_profile---------0----------------------------)
+### [How to Protect Your Deposits With Risk Harbor \[In-Depth Tutorial\]](https://medium.com/harvest-finance/how-to-protect-your-deposits-with-risk-harbor-in-depth-tutorial-f29644cc28ea?source=user\_profile---------0----------------------------)
 
 * 🇮🇹 Italian: [Come proteggere i tuoi depositi con Risk Harbor \[guida approfondita\]](https://coirof.medium.com/come-proteggere-i-tuoi-depositi-con-risk-harbor-guida-approfondita-1ca2f6bb96fb)
 * 🇯🇵 Japanese: [どうやってRisk Harborを用いて自分の入金を守るのか（詳しく解説）](https://miwa-wv.medium.com/%E3%81%A9%E3%81%86%E3%82%84%E3%81%A3%E3%81%A6risk-harbor%E3%82%92%E7%94%A8%E3%81%84%E3%81%A6%E8%87%AA%E5%88%86%E3%81%AE%E5%85%A5%E9%87%91%E3%82%92%E5%AE%88%E3%82%8B%E3%81%AE%E3%81%8B-%E8%A9%B3%E3%81%97%E3%81%8F%E8%A7%A3%E8%AA%AC-ab27cf0695a9)
-* 🇵🇹 Portuguese: [Como proteger seus depósitos com Risk Harbor \[tutorial detalhado\]](https://medium.com/%40Blue_Poison/como-proteger-seus-dep%C3%B3sitos-com-risk-harbor-tutorial-detalhado-a52f095b8254)
+* 🇵🇹 Portuguese: [Como proteger seus depósitos com Risk Harbor \[tutorial detalhado\]](https://medium.com/%40Blue\_Poison/como-proteger-seus-dep%C3%B3sitos-com-risk-harbor-tutorial-detalhado-a52f095b8254)
 * 🇪🇸 Spanish: [Como Proteger sus Depósitos con Risk Harbor \[Tutorial detallado\]](https://c3h.medium.com/como-proteger-sus-dep%C3%B3sitos-con-risk-harbor-tutorial-en-detallado-952d241fd6fd)
 * 🇹🇼 Traditional Chinese: [如何使用Risk Harbor保護您的存款 \[深度學習\]](https://harvestfinance-tw.medium.com/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8risk-harbor%E4%BF%9D%E8%AD%B7%E6%82%A8%E7%9A%84%E5%AD%98%E6%AC%BE-%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-9a3cdb7e0d62)
 * 🇹🇷 Turkish: [Fonlarınızı Risk Harbor İle Nasıl Korursunuz?\[Ayrıntılı Eğitim\]](https://harvestfiturkce.medium.com/fonlar%C4%B1n%C4%B1z%C4%B1-risk-harbor-i%CC%87le-nas%C4%B1l-korursunuz-ayr%C4%B1nt%C4%B1l%C4%B1-e%C4%9Fitim-358f09775151)
 * French: [Comment protéger vos dépôts avec Risk Harbor \[Tutoriel détaillé\]](https://bob-duval.medium.com/comment-prot%C3%A9ger-vos-d%C3%A9p%C3%B4ts-avec-risk-harbor-tutoriel-d%C3%A9taill%C3%A9-d4cccd059093)
 * Russian: [Как защитить Свои Депозиты С Помощью Risk Harbor \[Подробное руководство\]](https://makurinma03.medium.com/%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B8%D1%82%D1%8C-%D1%81%D0%B2%D0%BE%D0%B8-%D0%B4%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D1%8B-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-risk-harbor-%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-93a1cabf919)
 
-### [Recap: Week 49](https://medium.com/harvest-finance/harvestrecap-week-49-5d9668591f4a?source=user_profile---------0----------------------------)
+### [Recap: Week 49](https://medium.com/harvest-finance/harvestrecap-week-49-5d9668591f4a?source=user\_profile---------0----------------------------)
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 49](https://coirof.medium.com/riepilogo-settimana-49-a896e33fe34e)
 * 🇯🇵 Japanese: [おさらい：49週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-49%E9%80%B1%E7%9B%AE-77c67a203a90)
-* 🇵🇹 Portuguese: [Recapitulação: Semana 49](https://medium.com/%40Blue_Poison/recapitula%C3%A7%C3%A3o-semana-49-1635dd679028)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 49](https://medium.com/%40Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-49-1635dd679028)
 * 🇪🇸 Spanish: [Recapitulación de la Semana 49](https://c3h.medium.com/recapitulaci%C3%B3n-de-la-semana-49-77417d91a485)
 * 🇹🇼 Traditional Chinese: [第 49 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-49-%E9%80%B1%E5%9B%9E%E9%A1%A7-ca891e239f63)
 * 🇹🇷 Turkish: [Özet: 49. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-49-hafta-42cb56ef3f02)
@@ -455,7 +455,7 @@ description: >-
 * Indonesian: [Rekap: Minggu ke-49](https://gamewatch21.medium.com/rekap-minggu-ke-49-4afe2dbabf99)
 * Russian: [Неделя №49](https://makurinma03.medium.com/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-49-2d696a980d30)
 
-### [New Ethereum Vault ft. StakeWise](https://medium.com/harvest-finance/new-ethereum-vault-ft-stakewise-72432809a5a6?source=user_profile---------1----------------------------)
+### [New Ethereum Vault ft. StakeWise](https://medium.com/harvest-finance/new-ethereum-vault-ft-stakewise-72432809a5a6?source=user\_profile---------1----------------------------)
 
 * Serbian: [Nova Ethereum Valuta sa StakeWise](https://medium.com/@krompir12422/nova-ethereum-valuta-sa-stakewise-32806af243d4)
 * French: [Nouveau coffre Ethereum avec StakeWise](https://bob-duval.medium.com/nouveau-coffre-ethereum-avec-stakewise-299258654d69)
@@ -463,13 +463,13 @@ description: >-
 * Polish: [Nowy vault Ethereum ft. StakeWise](https://1551lukas.medium.com/nowy-vault-ethereum-ft-stakewise-b9ae125714f8)
 * Spanish: [Nueva Bóveda Ethereum con StakeWise](https://c3h.medium.com/nueva-b%C3%B3veda-ethereum-con-stakewise-72c58b19e918)
 * Turkish: [StakeWise ile Yeni Ethereum Kasası Detayları](https://harvestfiturkce.medium.com/stakewise-ile-yeni-ethereum-kasas%C4%B1-detaylar%C4%B1-fb74a08b6480)
-* Portuguese: [Novo Vault Ethereum com StakeWise](https://medium.com/@Blue_Poison/novo-vault-ethereum-com-stakewise-f06e97c0363a)
+* Portuguese: [Novo Vault Ethereum com StakeWise](https://medium.com/@Blue\_Poison/novo-vault-ethereum-com-stakewise-f06e97c0363a)
 * Japanese: [新しいEthereumヴァルト注目のStakeWise](https://miwa-wv.medium.com/%E6%96%B0%E3%81%97%E3%81%84ethereum%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88%E6%B3%A8%E7%9B%AE%E3%81%AEstakewise-1b1b98ba0c43)
 * Traditional Chinese: [與StakeWise合作新的以太坊資金庫](https://harvestfinance-tw.medium.com/%E8%88%87stakewise%E5%90%88%E4%BD%9C%E6%96%B0%E7%9A%84%E4%BB%A5%E5%A4%AA%E5%9D%8A%E8%B3%87%E9%87%91%E5%BA%AB-14ed76f136b8)
 * Italian: [Nuova pool Ethereum ft. StakeWise](https://coirof.medium.com/nuova-pool-ethereum-ft-stakewise-548d498b9654)
 * Indonesian: [Vault Ethereum baru ft. StakeWise](https://gamewatch21.medium.com/vault-ethereum-baru-ft-stakewise-8eba78e3ad3c)
 
-### [$FARM is Now Officially on ZB.com Exchange](https://medium.com/harvest-finance/farm-is-now-officially-on-zb-com-exchange-4e948d59822f?source=user_profile---------3----------------------------)
+### [$FARM is Now Officially on ZB.com Exchange](https://medium.com/harvest-finance/farm-is-now-officially-on-zb-com-exchange-4e948d59822f?source=user\_profile---------3----------------------------)
 
 * French: [$FARM est officiellement sur ZB.com](https://bob-duval.medium.com/farm-est-officiellement-sur-zb-com-22467e220c02)
 * Serbian: [$FARM je sada oficialno na ZB.com Exchange](https://medium.com/@krompir12422/farm-je-sada-oficialno-na-zb-com-exchange-a1a819ec570a?postPublishedType=initial)
@@ -479,11 +479,11 @@ description: >-
 * Japanese: [$FARMは今、ZM.com取引所で正式に売買できる](https://miwa-wv.medium.com/farm%E3%81%AF%E4%BB%8A-zm-com%E5%8F%96%E5%BC%95%E6%89%80%E3%81%A7%E6%AD%A3%E5%BC%8F%E3%81%AB%E5%A3%B2%E8%B2%B7%E3%81%A7%E3%81%8D%E3%82%8B-45d486b8f3a3)
 * Turkish: [$FARM ZB.com Exchange’de!](https://harvestfiturkce.medium.com/farm-art%C4%B1k-zb-com-exchangede-50b27c696443)
 * Italian: [$FARM è su ZB.com Exchange](https://coirof.medium.com/farm-%C3%A8-su-zb-com-exchange-cd745299c378)
-* Portuguese: [$FARM está oficialmente no ZB.com Exchange](https://medium.com/%40Blue_Poison/farm-est%C3%A1-oficialmente-no-zb-com-exchange-d451bde27475)
+* Portuguese: [$FARM está oficialmente no ZB.com Exchange](https://medium.com/%40Blue\_Poison/farm-est%C3%A1-oficialmente-no-zb-com-exchange-d451bde27475)
 * Traditional Chinese: [$FARM 在 ZB.com 交易所上市](https://harvestfinance-tw.medium.com/farm-%E5%9C%A8-zb-com-%E4%BA%A4%E6%98%93%E6%89%80%E4%B8%8A%E5%B8%82-8974c53d1bc4)
 * Indonesian: [$FARM secara resmi ada di pertukaran ZB.com](https://gamewatch21.medium.com/farm-secara-resmi-ada-di-pertukaran-zb-com-6a8831522068)
 
-### [Harvest ft. Rari: Borrow Stablecoins Against Your $iFARM](https://medium.com/harvest-finance/harvest-ft-rari-borrow-stablecoins-against-your-ifarm-14f092b539d1?source=user_profile---------0----------------------------)
+### [Harvest ft. Rari: Borrow Stablecoins Against Your $iFARM](https://medium.com/harvest-finance/harvest-ft-rari-borrow-stablecoins-against-your-ifarm-14f092b539d1?source=user\_profile---------0----------------------------)
 
 * Spanish: [Harvest con Rari: Pidiendo prestado Stablecoins dejando $iFARM como garantía](https://c3h.medium.com/harvest-con-rari-pidiendo-prestado-stablecoins-dejando-ifarm-como-garant%C3%ADa-6eb393a6c7a6)
 * French: [Harvest avec Rari : Empruntez des stablecoins contre vos $iFARM](https://bob-duval.medium.com/harvest-avec-rari-empruntez-des-stablecoins-contre-vos-ifarm-9e93dcc68b7b)
@@ -491,25 +491,25 @@ description: >-
 * Turkish: [Harvest ft. Rari: $iFARM’ınıza Karşı Stablecoin Ödünç Alın!](https://harvestfiturkce.medium.com/harvest-ft-rari-ifarm%C4%B1n%C4%B1za-kar%C5%9F%C4%B1-stablecoin-%C3%B6d%C3%BCn%C3%A7-al%C4%B1n-729bd3479d95)
 * Japanese: [ハーベスト注目のRari:$iFARMでステイブルコインを借りる](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E6%B3%A8%E7%9B%AE%E3%81%AErari-ifarm%E3%81%A7%E3%82%B9%E3%83%86%E3%82%A4%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E3%82%92%E5%80%9F%E3%82%8A%E3%82%8B-b22d0f4b736f)
 * Italian: [Harvest ft. Rari: Prendi in prestito stablecoin usando $iFARM come collaterale.](https://coirof.medium.com/harvest-ft-rari-prendi-in-prestito-stablecoin-usando-ifarm-come-collaterale-d585dde67e5b)
-* Portuguese: [Harvest com Rari: Emprestando Stablecoins](https://medium.com/@Blue_Poison/harvest-com-rari-emprestando-stablecoins-882f1c207457)
+* Portuguese: [Harvest com Rari: Emprestando Stablecoins](https://medium.com/@Blue\_Poison/harvest-com-rari-emprestando-stablecoins-882f1c207457)
 * Traditional Chinese: [Harvest 與 Rari 合作: 使用您的 $iFARM 借用穩定幣](https://harvestfinance-tw.medium.com/harvest-%E8%88%87-rari-%E5%90%88%E4%BD%9C-%E4%BD%BF%E7%94%A8%E6%82%A8%E7%9A%84-ifarm-%E5%80%9F%E7%A9%A9%E5%AE%9A%E5%B9%A3-b38076c0c4a6)
 * Indonesian: [Harvest ft. Rari: Meminjan Stablecoins dengan $iFARM anda](https://gamewatch21.medium.com/harvest-ft-rari-meminjan-stablecoins-dengan-ifarm-anda-475bfeb2a695)
 * Russian: [Harvest, совместно с Rari: Одалживайте Stablecoins вместо ваших $iFARM](https://makurinma03.medium.com/harvest-%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%BE-%D1%81-rari-%D0%BE%D0%B4%D0%B0%D0%BB%D0%B6%D0%B8%D0%B2%D0%B0%D0%B9%D1%82%D0%B5-stablecoins-%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BE-%D0%B2%D0%B0%D1%88%D0%B8%D1%85-ifarm-b327c4cdcf86)
 
-### [Harvest: July 2021 Recap](https://medium.com/harvest-finance/harvest-july-2021-recap-6e4dfd3af7d9?source=user_profile---------0----------------------------)
+### [Harvest: July 2021 Recap](https://medium.com/harvest-finance/harvest-july-2021-recap-6e4dfd3af7d9?source=user\_profile---------0----------------------------)
 
 * Italian: [Harvest: riepilogo di Luglio 2021](https://coirof.medium.com/harvest-riepilogo-di-luglio-2021-d7a340d9c833)
-* Spanish: [Harvest: Recapitulación de julio de 2021](https://medium.com/p/harvest-recapitulaci%C3%B3n-de-julio-de-2021-1950fdb7d376?source=social.tw&\_branch_match_id=949852880764488883)
+* Spanish: [Harvest: Recapitulación de julio de 2021](https://medium.com/p/harvest-recapitulaci%C3%B3n-de-julio-de-2021-1950fdb7d376?source=social.tw&\_branch\_match\_id=949852880764488883)
 * Polish: [Harvest — podsumowanie lipca 2021](https://1551lukas.medium.com/pl-harvest-podsumowanie-lipca-2021-f49d01830c73)
 * Vietnamese: [Harvest: Tóm tắt tháng 7 2021 phần 1](https://mmo4me.com/threads/harvest-finance-cap-nhat-tuan-27.422058/post-7432920)
 * French: Harvest: [Récapitulatif du mois de juillet 2021](https://bob-duval.medium.com/harvest-r%C3%A9capitulatif-du-mois-de-juillet-2021-94cde7a8ce03)
 * Japanese: [ハーベスト：2021年7月おさらい](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88-2021%E5%B9%B47%E6%9C%88%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-36cecf37e0a4)
 * Turkish: [Harvest: Temmuz 2021 Özeti](https://harvestfiturkce.medium.com/harvest-temmuz-2021-%C3%B6zeti-dee820ee9d08)
 * Traditional Chinese: [Harvest: 2021年7月回顧](https://harvestfinance-tw.medium.com/harvest-2021%E5%B9%B47%E6%9C%88%E5%9B%9E%E9%A1%A7-940af2c85b32)
-* Portuguese: Harvest: [Recapitulação de Julho de 2021](https://medium.com/%40Blue_Poison/harvest-recapitula%C3%A7%C3%A3o-de-julho-se-2021-3d833e05a830)
+* Portuguese: Harvest: [Recapitulação de Julho de 2021](https://medium.com/%40Blue\_Poison/harvest-recapitula%C3%A7%C3%A3o-de-julho-se-2021-3d833e05a830)
 * Russian: [Harvest: Июль 2021](https://makurinma03.medium.com/harvest-%D0%B8%D1%8E%D0%BB%D1%8C-2021-d4a052ac27f5)
 
-### [$FARM is Now Officially on Coinbase](https://medium.com/harvest-finance/farm-is-now-officially-on-coinbase-8eba4e96461b?source=user_profile---------1----------------------------)
+### [$FARM is Now Officially on Coinbase](https://medium.com/harvest-finance/farm-is-now-officially-on-coinbase-8eba4e96461b?source=user\_profile---------1----------------------------)
 
 * Turkish: [$FARM Resmen Coinbase’de!](https://harvestfiturkce.medium.com/farm-resmen-coinbasede-63fad1f5704f)
 * Italian: [$FARM è ufficialmente su Coinbase](https://coirof.medium.com/farm-%C3%A8-ufficialmente-su-coinbase-4b50da86fa0c)
@@ -520,20 +520,20 @@ description: >-
 * Vietnamese: [$FARM hiện đã chính thức có mặt trên Coinbase](https://mmo4me.com/threads/harvest-finance-cap-nhat-tuan-27.422058/post-7432908)
 * French: [$FARM est maintenant officiellement sur Coinbase](https://bob-duval.medium.com/farm-est-maintenant-officiellement-sur-coinbase-e8208b9d15a9)
 * Traditional Chinese: [$FARM 正式登陸 Coinbase](https://harvestfinance-tw.medium.com/farm-%E6%AD%A3%E5%BC%8F%E7%99%BB%E9%99%B8-coinbase-3939b1d3dee1)
-* Portuguese: [$FARM está oficialmente no Coinbase](https://medium.com/%40Blue_Poison/farm-est%C3%A1-oficialmente-no-coinbase-90204ef69ffc)
+* Portuguese: [$FARM está oficialmente no Coinbase](https://medium.com/%40Blue\_Poison/farm-est%C3%A1-oficialmente-no-coinbase-90204ef69ffc)
 * Serbian: [$FARM je sada oficialno na Coinbase-u](https://medium.com/@krompir12422/farm-je-sada-oficialno-na-coinbase-u-76f8004cb58d)
 * Russian: [Теперь $FARM официально на Coinbase](https://makurinma03.medium.com/%D1%82%D0%B5%D0%BF%D0%B5%D1%80%D1%8C-farm-%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BD%D0%B0-coinbase-7f505cb4637a)
 
-### [How to Stake $FARM on Bancor in a Single-Sided Manner \[In-Depth Tutorial\]](https://medium.com/harvest-finance/how-to-stake-farm-on-bancor-in-a-single-sided-manner-in-depth-tutorial-ff573e0756de?source=user_profile---------1----------------------------)
+### [How to Stake $FARM on Bancor in a Single-Sided Manner \[In-Depth Tutorial\]](https://medium.com/harvest-finance/how-to-stake-farm-on-bancor-in-a-single-sided-manner-in-depth-tutorial-ff573e0756de?source=user\_profile---------1----------------------------)
 
 * Spanish: [Como Stakear $FARM en Bancor de forma unilateral \[Tutorial en profundidad\]](https://c3h.medium.com/como-stakear-farm-en-bancor-de-forma-unilateral-tutorial-en-profundidad-20d8c6eba08)
 * Japanese: [ひとつのトークンーふたつのトークンを利用することでBancorへ$FARMステイクする方法（深く知るための説明書）](https://miwa-wv.medium.com/%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%AE%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E3%83%BC%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%AE%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7bancor%E3%81%B8-farm%E3%82%B9%E3%83%86%E3%82%A4%E3%82%AF%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-%E6%B7%B1%E3%81%8F%E7%9F%A5%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%AA%AC%E6%98%8E%E6%9B%B8-747456854565)
-* Portuguese: [Como fazer Stake $FARM no Bancor De Uma Forma Unilateral \[Detalhadamente\]](https://medium.com/@Blue_Poison/como-fazer-stake-farm-no-bancor-de-uma-forma-unilateral-detalhadamente-a29305bc58fb)
+* Portuguese: [Como fazer Stake $FARM no Bancor De Uma Forma Unilateral \[Detalhadamente\]](https://medium.com/@Blue\_Poison/como-fazer-stake-farm-no-bancor-de-uma-forma-unilateral-detalhadamente-a29305bc58fb)
 * Turkish: [Bancor’da Tek Taraflı $FARM Nasıl Stake Edilir? \[Detaylı Anlatım\]](https://harvestfiturkce.medium.com/bancorda-tek-tarafl%C4%B1-farm-nas%C4%B1l-stake-edilir-derinlemesine-anlat%C4%B1m-9d2d11d6ea7d)
 * Traditional Chinese: [如何在 Bancor 上單邊質押 $FARM \[進階學習\]](https://harvestfinance-tw.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-bancor-%E4%B8%8A%E5%96%AE%E9%82%8A%E8%B3%AA%E6%8A%BC-farm-%E9%80%B2%E9%9A%8E%E5%AD%B8%E7%BF%92-eddc4f6c11e8)
 * Italian: [Come mettere in stake $FARM su BANCOR \[Guida dettagliata\]](https://coirof.medium.com/come-mettere-in-stake-farm-su-bancor-guida-dettagliata-4e7176b419a7)
 
-### [Recap: Week 47](https://medium.com/harvest-finance/recap-week-47-7f66c44030a4?source=collection_home---4------0-----------------------)
+### [Recap: Week 47](https://medium.com/harvest-finance/recap-week-47-7f66c44030a4?source=collection\_home---4------0-----------------------)
 
 * Spanish: [Actualización de la Semana 47](https://c3h.medium.com/es-actualizaci%C3%B3n-de-la-semana-47-fda0b68690ba)
 * Turkish: [47. Hafta Özeti](https://harvestfiturkce.medium.com/47-hafta-%C3%B6zeti-ad92382ce70b)
@@ -546,7 +546,7 @@ description: >-
 * Vietnamese: [Harvest Finance — tóm tắt: Tuần 47](https://mmo4me.com/threads/harvest-finance-cap-nhat-tuan-27.422058/post-7429758)
 * Indonesian: [Rekap: Minggu ke-47](https://gamewatch21.medium.com/rekap-minggu-ke-47-b2d38a40d32e)
 
-### [New $LQTY Staking Vault](https://medium.com/harvest-finance/new-lqty-staking-vault-b3a8bb9d23aa?source=collection_home---4------1-----------------------)
+### [New $LQTY Staking Vault](https://medium.com/harvest-finance/new-lqty-staking-vault-b3a8bb9d23aa?source=collection\_home---4------1-----------------------)
 
 * Indonesian: [Vault Baru $LQTY](https://gamewatch21.medium.com/vault-baru-lqty-c7c65e28c144)
 * Turkish: [Yeni $LQTY Staking Kasasına Genel Bakış](https://harvestfiturkce.medium.com/yeni-lqty-staking-kasas%C4%B1na-genel-bak%C4%B1%C5%9F-810eaf4397ed)
@@ -558,7 +558,7 @@ description: >-
 * Traditional Chinese: [$LQTY 新質押資金庫](https://harvestfinance-tw.medium.com/lqty-%E6%96%B0%E8%B3%AA%E6%8A%BC%E8%B3%87%E9%87%91%E5%BA%AB-b30a78ab902d)
 * Vietnamese: [Kho tiền đặt cọc mới $ LQTY](https://mmo4me.com/threads/harvest-finance-cap-nhat-tuan-27.422058/post-7429675)
 
-### [New $FOX Vault](https://medium.com/harvest-finance/new-fox-vault-b909be340b70?source=user_profile---------0----------------------------)
+### [New $FOX Vault](https://medium.com/harvest-finance/new-fox-vault-b909be340b70?source=user\_profile---------0----------------------------)
 
 * Turkish: [$FOX Kasasına Genel Bakış](https://harvestfiturkce.medium.com/fox-kasas%C4%B1na-genel-bak%C4%B1%C5%9F-84fa32c1eb3f)
 * Traditional Chinese: [新資金庫 $FOX](https://harvestfinance-tw.medium.com/%E6%96%B0%E8%B3%87%E9%87%91%E5%BA%AB-fox-9f8e6cdca8ea)
@@ -570,7 +570,7 @@ description: >-
 * French: [Nouveau coffre $FOX](https://bob-duval.medium.com/nouveau-coffre-fox-5cc90203404f)
 * Vietnamese: [$ FOX Vault mới](https://mmo4me.com/threads/harvest-finance-cap-nhat-tuan-27.422058/post-7429677)
 
-### [Harvest Finance on Binance Smart Chain](https://medium.com/harvest-finance/harvest-finance-on-binance-smart-chain-1758b2b0fada?source=user_profile---------1----------------------------)
+### [Harvest Finance on Binance Smart Chain](https://medium.com/harvest-finance/harvest-finance-on-binance-smart-chain-1758b2b0fada?source=user\_profile---------1----------------------------)
 
 * Japanese: [バイナンス・スマート・チェインにおけるハーベストファイナンス](https://miwa-wv.medium.com/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88-%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9-bad9a309df4)
 * Indonesian: [Harvest Finance di Binance Smart Chain](https://gamewatch21.medium.com/harvest-finance-di-binance-smart-chain-pemahaman-mengenai-detail-integrasi-dari-harvest-dengan-d5f8b3e28ce8)
@@ -582,7 +582,7 @@ description: >-
 * Portuguese: [Harvest Finance agora na Binance Smart Chain](https://medium.com/@sandraspigato/harvest-finance-agora-na-binance-smart-chain-f9f7277f9942)
 * Traditional Chinese: [Harvest Finance 現可在幣安智能鏈運行](https://harvestfinance-tw.medium.com/harvest-finance-%E7%8F%BE%E5%8F%AF%E5%9C%A8%E5%B9%A3%E5%AE%89%E6%99%BA%E8%83%BD%E9%8F%88%E9%81%8B%E8%A1%8C-fa5ceeec17ff)
 
-### [Harvest is now on Polygon](https://medium.com/harvest-finance/harvest-is-now-on-polygon-e0b766e64ee8?source=user_profile---------2----------------------------)
+### [Harvest is now on Polygon](https://medium.com/harvest-finance/harvest-is-now-on-polygon-e0b766e64ee8?source=user\_profile---------2----------------------------)
 
 * Spanish: [Harvest ahora está en Polygon](https://c3h.medium.com/harvest-is-now-on-polygon-2b1db5fc0dc7)
 * Portuguese: [Harvest agora está no Polygon](https://medium.com/%40sandraspigato/pt-br-harvest-agora-est%C3%A1-no-polygon-a5397310c6db)
@@ -597,7 +597,7 @@ description: >-
 * Hungarian: [Harvest elérhető a Polygon-on](https://medium.com/%40h1ghe3a/harvest-el%C3%A9rhet%C5%91-a-polygon-on-884a3fb549d6)
 * Traditional Chinese: [Harvest 擁抱 Polygon](https://harvestfinance-tw.medium.com/harvest-%E6%93%81%E6%8A%B1-polygon-5cfcfbfbbfcf)
 
-### [Recap: Week 46](https://medium.com/harvest-finance/recap-week-46-e2501b63e9ec?source=user_profile---------0----------------------------)
+### [Recap: Week 46](https://medium.com/harvest-finance/recap-week-46-e2501b63e9ec?source=user\_profile---------0----------------------------)
 
 * Turkish: [46. Hafta Güncellemesi](https://armogpublish.medium.com/46-hafta-g%C3%BCncellemesi-b8910baf7321)
 * Portuguese: [Atualização: Semana 46](https://medium.com/%40sandraspigato/atualiza%C3%A7%C3%A3o-semana-46-e40d52ced5ea)
@@ -610,14 +610,14 @@ description: >-
 * Indonesian: [Rekap: Minggu ke-46](https://gamewatch21.medium.com/rekap-minggu-ke-46-diterjemahkan-dari-https-medium-com-harvest-finance-recap-week-46-e2501b63e9-ac91901998ed)
 * Traditional Chinese: [第 46週更新](https://harvestfinance-tw.medium.com/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E7%AC%AC-46%E9%80%B1%E6%9B%B4%E6%96%B0-17ebaabe78d3)
 
-### [Introducing: Terra UST Vault](https://medium.com/harvest-finance/introducing-terra-ust-vault-af168a24e77?source=collection_home---4------5-----------------------)
+### [Introducing: Terra UST Vault](https://medium.com/harvest-finance/introducing-terra-ust-vault-af168a24e77?source=collection\_home---4------5-----------------------)
 
 * Traditional Chinese: [介紹: Terra UST 資金庫](https://harvestfinance-tw.medium.com/%E4%BB%8B%E7%B4%B9-terra-ust-%E8%B3%87%E9%87%91%E5%BA%AB-6d2e149c1749)
 * Spanish: [Presentando: Bóveda Terra UST](https://c3h.medium.com/presentando-b%C3%B3veda-terra-ust-6d01588bf10e)
 * Japanese: [紹介：Terra UST ヴァルト](https://miwa-wv.medium.com/%E7%B4%B9%E4%BB%8B-terra-ust-%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88-682b3bc758a9)
 * Italian: [Introduzione della pool Terra UST](https://coirof.medium.com/introduzione-della-pool-terra-ust-3fcd0f8657e6)
 
-### [Introducing: Balancer Vaults](https://medium.com/harvest-finance/introducing-balancer-vaults-9d2e12a219b0?source=collection_home---4------7-----------------------)
+### [Introducing: Balancer Vaults](https://medium.com/harvest-finance/introducing-balancer-vaults-9d2e12a219b0?source=collection\_home---4------7-----------------------)
 
 * Turkish: [Balancer Kasalarına Genel Bakış](https://armogpublish.medium.com/balancer-kasalar%C4%B1na-genel-bak%C4%B1%C5%9F-8fb8537007fb)
 * Portuguese:[Detalhes de nosso Balancer vaults](https://medium.com/@sandraspigato/detalhes-de-nosso-balancer-vaults-3168339e2f1e)
@@ -625,7 +625,7 @@ description: >-
 * Italian: [Introduzione alle pool Balancer](https://coirof.medium.com/introduzione-alle-pool-balancer-d5ee05b26db5)
 * Japanese: [紹介：Balancerヴァルト](https://miwa-wv.medium.com/%E7%B4%B9%E4%BB%8B-balancer%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88-d64c208d2acd)
 
-### [Introducing ampliFARM & Boost Feature](https://medium.com/harvest-finance/introducing-amplifarm-4dab54a95b41?source=user_profile---------1----------------------------)
+### [Introducing ampliFARM & Boost Feature](https://medium.com/harvest-finance/introducing-amplifarm-4dab54a95b41?source=user\_profile---------1----------------------------)
 
 * Japanese: [ampliFARMの紹介と注目商品Boost](https://miwa-wv.medium.com/amplifarm%E3%81%AE%E7%B4%B9%E4%BB%8B%E3%81%A8%E6%B3%A8%E7%9B%AE%E5%95%86%E5%93%81boost-f920bcb0b7cb)
 * Traditional Chinese: [ampliFARM 與 Boost 功能介紹](https://harvestfinance-tw.medium.com/amplifarm-%E8%88%87-boost-%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%B4%B9-3fd401fe44ac)
@@ -639,12 +639,12 @@ description: >-
 * Turkish: [ampliFARM & Boost Özelliklerine Genel Bakış](https://armogpublish.medium.com/amplifarm-boost-%C3%B6zelliklerine-genel-bak%C4%B1%C5%9F-afa070ed6d2)
 * Russian: [Представляем функцию ampliFARM & Boost](https://makurinma03.medium.com/rus-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8E-amplifarm-boost-e10ee2bd4b15)
 
-### [Introducing fCASH](https://just-z.medium.com/dear-farmers-f983113873b2?source=user_profile---------11----------------------------)
+### [Introducing fCASH](https://just-z.medium.com/dear-farmers-f983113873b2?source=user\_profile---------11----------------------------)
 
 * Turkish: [$fCASH Detaylı İnceleme](https://armogpublish.medium.com/fcash-hakk%C4%B1nda-detayl%C4%B1-i%CC%87nceleme-7276429a19e1)
 * Spanish: [Presentando fCASH](https://c3h.medium.com/presentando-fcash-d9e4ebda1bd6)
 * Indonesian: [Memperkenalkan fCASH](https://gamewatch21.medium.com/memperkenalkan-fcash-4dd533d50caa)
-* Portuguese: [Apresentando fCASH](https://medium.com/@Blue_Poison/apresentando-fcash-bafbf221290d)
+* Portuguese: [Apresentando fCASH](https://medium.com/@Blue\_Poison/apresentando-fcash-bafbf221290d)
 * Japanese: [fCASHの紹介](https://miwa-wv.medium.com/fcash%E3%81%AE%E7%B4%B9%E4%BB%8B-8afd5cc99253)
 
 ### [Harvest V2: The Evolution](https://medium.com/harvest-finance/harvest-v2-the-evolution-ef06302b3ee6)
@@ -662,7 +662,7 @@ description: >-
 * Russian: [Harvest V2: Эволюция](https://makurinma03.medium.com/rus-harvest-v2-%D1%8D%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F-fee7f4f74f01)
 * Serbian: [Harvest V2:Evolucija](https://medium.com/@krompir12422/harvest-v2-evolucija-b69158f04273)
 
-### [Week 45 update](https://yogafire-genuine.medium.com/eng-week-45-update-accabf56b0e?source=user_profile---------0----------------------------)
+### [Week 45 update](https://yogafire-genuine.medium.com/eng-week-45-update-accabf56b0e?source=user\_profile---------0----------------------------)
 
 * Traditional Chinese: [第 45 週更新](https://harvestfinance-tw.medium.com/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E7%AC%AC-45-%E9%80%B1%E6%9B%B4%E6%96%B0-774590b98f8b)
 * Turkish: [45. Hafta Güncellemesi](https://armogpublish.medium.com/tur-45-hafta-g%C3%BCncellemesi-e376b3b945a7)
@@ -937,7 +937,7 @@ description: >-
 * Portuguese: [Atualização da semana 22](https://medium.com/@sandraspigato/atualiza%C3%A7%C3%A3o-da-semana-22-3dc3a67d9a43)
 * Chinese: [💪第22周大事纪：复利是世界第八大奇迹😄](https://harvestfinance-cn.medium.com/22%E5%91%A8%E5%A4%A7%E4%BA%8B%E7%BA%AA-daf1a22a96a)
 
-### [⚙️ Week 21 — New Strategies Galore!](https://medium.com/harvest-finance/%EF%B8%8F-week-21-new-strategies-galore-38ae719f6af1?source=collection_home---6------0-----------------------)
+### [⚙️ Week 21 — New Strategies Galore!](https://medium.com/harvest-finance/%EF%B8%8F-week-21-new-strategies-galore-38ae719f6af1?source=collection\_home---6------0-----------------------)
 
 * French: [🎄 Mise à jour de la semaine 21: Deluge de nouvelles strategies](https://cryptoouf.com/harvest/harvest-21)
 * Italian: [⚙️ Settimana 21 — Nuove Strategie a bizzeffe!](https://coirof.medium.com/%EF%B8%8F-settimana-21-nuove-strategie-a-bizzeffe-2486ee6b0d9e)
@@ -951,7 +951,7 @@ description: >-
 * Traditional Chinese: [⚙️ 第 21 週 — 新策略大放異彩！](https://harvestfinance-tw.medium.com/%EF%B8%8F-%E7%AC%AC-21-%E9%80%B1-%E6%96%B0%E7%AD%96%E7%95%A5%E5%A4%A7%E6%94%BE%E7%95%B0%E5%BD%A9-de3de0d1c184)
 * Indonesian: [⚙️ Minggu ke-21 — Strategi Berlimpah Baru!](https://medium.com/@gamewatch21/%EF%B8%8F-minggu-ke-21-strategi-berlimpah-baru-bed1fc5a460b)
 
-### [🏦 Week 20 — Autoharvests and Self Driving Banks](https://medium.com/harvest-finance/week-20-autoharvests-and-self-driving-banks-b0eb802075f7?source=collection_home---6------0-----------------------)
+### [🏦 Week 20 — Autoharvests and Self Driving Banks](https://medium.com/harvest-finance/week-20-autoharvests-and-self-driving-banks-b0eb802075f7?source=collection\_home---6------0-----------------------)
 
 * Italian: [🏦 Settimana 20 — Autoraccolta e Banche col pilota automatico](https://coirof.medium.com/settimana-20-autoraccolta-e-banche-col-pilota-automatico-bc3040632084)
 * Spanish: [Semana 20 — 🏦 — Cosechas automáticas y bancos autónomos](https://raikao.medium.com/semana-20-cosechas-autom%C3%A1ticas-y-bancos-aut%C3%B3nomos-5be6aa00fa22)
@@ -964,7 +964,7 @@ description: >-
 * Traditional Chinese: [🏦 第20週 — 自動化獲利與自動執行銀行](https://harvestfinance-tw.medium.com/%E7%AC%AC20%E9%80%B1-%E8%87%AA%E5%8B%95%E5%8C%96%E7%8D%B2%E5%88%A9%E8%88%87%E8%87%AA%E5%8B%95%E5%9F%B7%E8%A1%8C%E9%8A%80%E8%A1%8C-4c204baac4e)
 * Indonesian: [🏦 Minggu Ke-20 — Harvest Otomatis dan Bank Personal](https://medium.com/@gamewatch21/minggu-ke-20-harvest-otomatis-dan-bank-personal-3f3e4ced91d0)
 
-### [Week 19 — Running with the 🐂 Bulls](https://medium.com/harvest-finance/week-19-running-with-the-bulls-4c9705afe972?source=collection_home---6------0-----------------------)
+### [Week 19 — Running with the 🐂 Bulls](https://medium.com/harvest-finance/week-19-running-with-the-bulls-4c9705afe972?source=collection\_home---6------0-----------------------)
 
 * French: [Mise à jour de la semaine 19: Courir avec les taureaux 🐂](https://cryptoouf.com/harvest/harvest-19)
 * Spanish: [Semana 19 — Corrida de toros! 🏃🏻🐂](https://raikao.medium.com/semana-19-corrida-de-toros-3d22ba243359)
