@@ -48,7 +48,7 @@
 
 ## Other
 
----
+***
 
 * [Community Apps](community-apps-1.md)
 * [Builders](builders.md)
@@ -59,6 +59,7 @@
   * [Redmption's Farmers Almanac](articles/redmptions-farmers-almanac.md)
 * [Translations](translations/README.md)
   * [Official announcements](translations/official-announcements.md)
+  * [Official announcements (old)](translations/official-announcements-old.md)
   * [Useful articles about Harvest Finance](translations/useful-articles-about-harvest-finance.md)
 * [Merchandise](merchendise.md)
 * [Contests](contests.md)
@@ -66,10 +67,9 @@
 
 ## Archive
 
----
+***
 
 * [Archived](archived/README.md)
   * [fCASH](archived/fcash.md)
-  * [\(Old\) Getting Started with UNI Pools](archived/old-getting-started-with-uni-pools.md)
-  * [\(Old\) Farm with USDC](archived/farm-with-usdc.md)
-
+  * [(Old) Getting Started with UNI Pools](archived/old-getting-started-with-uni-pools.md)
+  * [(Old) Farm with USDC](archived/farm-with-usdc.md)
