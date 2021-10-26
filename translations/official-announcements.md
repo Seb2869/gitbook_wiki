@@ -7,6 +7,42 @@ description: >-
 
 # Official announcements
 
+### [Recap: Week 60](https://medium.com/harvest-finance/recap-week-60-358384591655) <a href="c9c5" id="c9c5"></a>
+
+* 🇫🇷 French: [Récapitulatif de la semaine 60](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-60-41503431bb59)
+* 🇮🇹 Italian: [Riepilogo: Settimana 60](https://coirof.medium.com/riepilogo-settimana-60-3c61ba5bba4b)
+* 🇯🇵 Japanese: [おさらい：60週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-60%E9%80%B1%E7%9B%AE-778ca7d0d3ac)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 60](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-60-c0bfe5b092bd)
+* 🇪🇸 Spanish: [Resumen de la Semana 60](https://c3h.medium.com/es-resumen-de-la-semana-60-69cd6a94173)
+* 🇹🇼 Traditional Chinese: [第 60 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-60-%E9%80%B1%E5%9B%9E%E9%A1%A7-f0a637000301)
+* 🇹🇷 Turkish: [Özet: 60. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-60-hafta-cf36f1bdf444)
+* Indonesian: [Rekap: Minggu ke-60](https://gamewatch21.medium.com/rekap-minggu-ke-60-302893af1a93)
+* Serbian: Recap:Nedelja 60
+
+### [Harvest Integrates Coinbase Wallet](https://medium.com/harvest-finance/harvest-integrates-coinbase-wallet-b60cdc3db85a) <a href="a698" id="a698"></a>
+
+* 🇫🇷 French: [Harvest intègre Coinbase Wallet](https://bob-duval.medium.com/harvest-int%C3%A8gre-coinbase-wallet-23f36caf9d82)
+* 🇮🇹 Italian: [Harvest integra Coinbase Wallet](https://coirof.medium.com/harvest-integra-coinbase-wallet-edc08249e740)
+* 🇯🇵 Japanese: [Coinbase ウォレットとハーベストの統合](https://miwa-wv.medium.com/coinbase-%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%83%E3%83%88%E3%81%A8%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AE%E7%B5%B1%E5%90%88-7a69ee5e9a5e)
+* 🇵🇹 Portuguese: [Harvest se integra à Wallet Coinbase](https://medium.com/@Blue\_Poison/harvest-se-integra-%C3%A0-wallet-coinbase-803fc396a88d)
+* 🇪🇸 Spanish: [Harvest integra la Wallet de Coinbase](https://c3h.medium.com/harvest-integra-la-wallet-de-coinbase-aa2d02aefcc)
+* 🇹🇼 Traditional Chinese: [Harvest 整合 Coinbase 錢包](https://harvestfinance-tw.medium.com/harvest-%E6%95%B4%E5%90%88-coinbase-%E9%8C%A2%E5%8C%85-af8d4c4286e9)
+* 🇹🇷 Turkish: [Harvest Coinbase Cüzdanına Entegre Oldu](https://harvestfiturkce.medium.com/harvest-coinbase-c%C3%BCzdan%C4%B1na-entegre-oldu-acb6b8fd3ac0)
+* Indonesian: [Harvest terintegrasi Coinbase Wallet](https://gamewatch21.medium.com/harvest-terintegrasi-coinbase-wallet-fe1249cad517)
+* Serbian: [Harvest integriše Coinbase novčanik](https://medium.com/@krompir12422/harvest-integri%C5%A1e-coinbase-nov%C4%8Danik-510430c13730)
+
+### [Recap: Week 59](https://medium.com/harvest-finance/recap-week-59-c1ceaafb677d) <a href="c9c5" id="c9c5"></a>
+
+* 🇫🇷 French: [Récapitulatif de la semaine 59](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-59-a58cedcee96e)
+* 🇮🇹 Italian: [Riepilogo: Settimana 59](https://coirof.medium.com/riepilogo-settimana-59-71d8dc584212)
+* 🇯🇵 Japanese: [おさらい：59週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-59%E9%80%B1%E7%9B%AE-3e72144cc61e)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 59](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-59-c0430e9f0566)
+* 🇪🇸 Spanish: [Resumen de la Semana 59](https://c3h.medium.com/es-resumen-de-la-semana-59-ce904a1d034c)
+* 🇹🇼 Traditional Chinese: [第 59 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-59-%E9%80%B1%E5%9B%9E%E9%A1%A7-d9a524ac4c73)
+* 🇹🇷 Turkish: [Özet: 59. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-59-hafta-3ce2e38d6544)
+* Serbian: [Recap:Nedelja 59](https://medium.com/@krompir12422/recap-nedelja-59-64b2a1815269)
+* Indonesian: [Rekap: Minggu ke-59](https://gamewatch21.medium.com/rekap-minggu-ke-59-70312d883785)
+
 ### [Recap: Week 59](https://medium.com/harvest-finance/recap-week-59-c1ceaafb677d) <a href="c9c5" id="c9c5"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 59](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-59-a58cedcee96e)
