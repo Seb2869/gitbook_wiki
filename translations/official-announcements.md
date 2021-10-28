@@ -13,7 +13,7 @@ description: >-
 * 🇮🇹 Italian: [Nuova Pool da Changer](https://coirof.medium.com/nuova-pool-da-changer-49a34aa0975f)
 * 🇯🇵 Japanese: [新しいヴァルト、注目のChanger新しいヴァルト、注目のChanger](https://miwa-wv.medium.com/%E6%96%B0%E3%81%97%E3%81%84%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88-%E6%B3%A8%E7%9B%AE%E3%81%AEchanger-784e54fc974c)
 * 🇵🇹 Portuguese: [Novo Vault com Changer](https://medium.com/@Blue\_Poison/novo-vault-com-changer-9c062b0b5346)
-* 🇪🇸 Spanish:&#x20;
+* 🇪🇸 Spanish: [Nueva Bóveda en colaboración con Changer](https://c3h.medium.com/nueva-b%C3%B3veda-en-colaboraci%C3%B3n-con-changer-ee9c4dedc268)
 * 🇹🇼 Traditional Chinese: [新資金庫與 Changer 合作](https://harvestfinance-tw.medium.com/%E6%96%B0%E8%B3%87%E9%87%91%E5%BA%AB%E8%88%87-changer-%E5%90%88%E4%BD%9C-c7a4ed827465)
 * 🇹🇷 Turkish: [Changer ile Yeni Kasa](https://harvestfiturkce.medium.com/changer-ile-yeni-kasa-e02136ccc0e2)
 
