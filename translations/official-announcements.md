@@ -7,7 +7,37 @@ description: >-
 
 # Official announcements
 
-## [New Vault ft. Changer](https://medium.com/harvest-finance/new-vault-ft-changer-c388979d4f0a) <a href="4b6e" id="4b6e"></a>
+### [Earn $FARM with Layer3 — $4800 for Creating Harvest Content](https://medium.com/harvest-finance/earn-farm-with-layer3-4800-for-creating-harvest-content-82af6d5fc27) <a href="fccb" id="fccb"></a>
+
+* 🇫🇷 French: [Gagnez des $FARM avec Layer3 — 4800$ pour créer du contenu Harvest](https://bob-duval.medium.com/gagnez-des-farm-avec-layer3-4800-pour-cr%C3%A9er-du-contenu-harvest-73c3a3c4c7c4)
+* 🇮🇹 Italian:
+* 🇯🇵 Japanese: [layer3で$FARMを稼ぐ（クリエイティング・ハーベストコンテストのために$4800）](https://miwa-wv.medium.com/layer3%E3%81%A7-farm%E3%82%92%E7%A8%BC%E3%81%90-%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB-4800-cb4f5ccc9263)
+* 🇵🇹 Portuguese:&#x20;
+* 🇪🇸 Spanish:&#x20;
+* 🇹🇼 Traditional Chinese: [透過 Layer3 創建 Harvest 內容賺取價值4800美元 $FARM](https://harvestfinance-tw.medium.com/%E9%80%8F%E9%81%8E-layer3-%E8%B3%BA%E5%8F%96%E5%83%B9%E5%80%BC4800%E7%BE%8E%E5%85%83-farm%E7%94%A8%E6%96%BC%E5%89%B5%E5%BB%BA-harvest-%E5%85%A7%E5%AE%B9-1051bf8d968c)
+* 🇹🇷 Turkish:&#x20;
+
+### [Recap: Week 61](https://medium.com/harvest-finance/recap-week-61-37c11be4f21c) <a href="e29c" id="e29c"></a>
+
+* 🇫🇷 French: [Récapitulatif de la semaine 61](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-61-909eaec025ed)
+* 🇮🇹 Italian:
+* 🇯🇵 Japanese: [おさらい：61週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-61%E9%80%B1%E7%9B%AE-a68f14f58a9)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 61](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-61-33e32502627a)
+* 🇪🇸 Spanish: [Resumen de la Semana 61](https://c3h.medium.com/es-resumen-de-la-semana-61-73c24ce75897)
+* 🇹🇼 Traditional Chinese: [第 61 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-61-%E9%80%B1%E5%9B%9E%E9%A1%A7-5c88e53cdbea)
+* 🇹🇷 Turkish: [Özet: 61. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-61-hafta-b29736592580)
+
+### [Introducing Forex Yield Farming with Jarvis Network](https://medium.com/harvest-finance/introducing-forex-yield-farming-with-jarvis-network-653bbf48c68e) <a href="3b99" id="3b99"></a>
+
+* 🇫🇷 French: [Présentation de l’exploitation de rendements sur les marchés de changes avec Jarvis Network](https://bob-duval.medium.com/pr%C3%A9sentation-de-lexploitation-de-rendements-sur-les-march%C3%A9s-de-changes-avec-jarvis-network-7e19adaed29d)
+* 🇮🇹 Italian: [Introduzione del Forex Yield Farming con Jarvis Network](https://coirof.medium.com/introduzione-del-forex-yield-farming-con-jarvis-network-b1c531c33df5)
+* 🇯🇵 Japanese: [Jarvis NetworkとのForex利回りファーミングのご紹介](https://miwa-wv.medium.com/jarvis-network%E3%81%A8%E3%81%AEforex%E5%88%A9%E5%9B%9E%E3%82%8A%E3%83%95%E3%82%A1%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B-c6bde2032379)
+* 🇵🇹 Portuguese: [Apresentando Forex Yield Farming com Jarvis Network](https://medium.com/@Blue\_Poison/apresentando-forex-yield-farming-com-jarvis-network-b9dda6a83c55)
+* 🇪🇸 Spanish: [Presentamos la agricultura de rendimientos de Forex con Jarvis Network](https://c3h.medium.com/presentamos-la-agricultura-de-rendimientos-de-forex-con-jarvis-network-cb7092576e10)
+* 🇹🇼 Traditional Chinese: [介紹 Jarvis Network 外匯流動性挖礦收益](https://harvestfinance-tw.medium.com/%E4%BB%8B%E7%B4%B9-jarvis-network-%E5%A4%96%E5%8C%AF%E6%B5%81%E5%8B%95%E6%80%A7%E6%8C%96%E7%A4%A6%E6%94%B6%E7%9B%8A-9cede0ad988f)
+* 🇹🇷 Turkish: [Jarvis Network ile Forex Yield Farming](https://harvestfiturkce.medium.com/jarvis-network-ile-forex-yield-farming-af50fa447a04)
+
+### [New Vault ft. Changer](https://medium.com/harvest-finance/new-vault-ft-changer-c388979d4f0a) <a href="4b6e" id="4b6e"></a>
 
 * 🇫🇷 French: [Nouveau coffre avec Changer](https://bob-duval.medium.com/nouveau-coffre-avec-changer-76ce563f734d)
 * 🇮🇹 Italian: [Nuova Pool da Changer](https://coirof.medium.com/nuova-pool-da-changer-49a34aa0975f)
