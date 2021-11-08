@@ -7,6 +7,16 @@ description: >-
 
 # Official announcements
 
+### [Recap: Week 62](https://medium.com/harvest-finance/recap-week-62-40915f55a2a4) <a href="e29c" id="e29c"></a>
+
+* 🇫🇷 French: [Récapitulatif de la semaine 62](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-62-fa9c12d51a01)
+* 🇮🇹 Italian: [Riepilogo: Settimana 62](https://coirof.medium.com/riepilogo-settimana-62-1ba590480e21)
+* 🇯🇵 Japanese: [おさらい：62週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-62%E9%80%B1%E7%9B%AE-4b395d61ca2e)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 62](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-62-29d03f89d32d)
+* 🇪🇸 Spanish: [Resumen de la Semana 62](https://c3h.medium.com/es-resumen-de-la-semana-62-6c3f040c5571)
+* 🇹🇼 Traditional Chinese: [第 62 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-62-%E9%80%B1%E5%9B%9E%E9%A1%A7-3a8c3013a62c)
+* 🇹🇷 Turkish: [Özet: 62. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-62-hafta-abcf7cab941c)
+
 ### [Earn $FARM with Layer3 — $4800 for Creating Harvest Content](https://medium.com/harvest-finance/earn-farm-with-layer3-4800-for-creating-harvest-content-82af6d5fc27) <a href="fccb" id="fccb"></a>
 
 * 🇫🇷 French: [Gagnez des $FARM avec Layer3 — 4800$ pour créer du contenu Harvest](https://bob-duval.medium.com/gagnez-des-farm-avec-layer3-4800-pour-cr%C3%A9er-du-contenu-harvest-73c3a3c4c7c4)
@@ -27,6 +37,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [第 61 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-61-%E9%80%B1%E5%9B%9E%E9%A1%A7-5c88e53cdbea)
 * 🇹🇷 Turkish: [Özet: 61. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-61-hafta-b29736592580)
 * Korean: [개요: 61주차](https://medium.com/@Leviathan\_Harvest/%EA%B0%9C%EC%9A%94-61%EC%A3%BC%EC%B0%A8-a63492c68db4)
+* Indonesian: [Rekap: Minggu ke-61](https://gamewatch21.medium.com/rekap-minggu-ke-61-5e25c28e6cff)
 
 ### [Introducing Forex Yield Farming with Jarvis Network](https://medium.com/harvest-finance/introducing-forex-yield-farming-with-jarvis-network-653bbf48c68e) <a href="3b99" id="3b99"></a>
 
