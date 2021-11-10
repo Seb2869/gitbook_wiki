@@ -7,6 +7,29 @@ description: >-
 
 # Official announcements
 
+### [$FARM Passive Income with Binance Staking \[For Beginners\]](https://medium.com/harvest-finance/farm-passive-income-with-binance-staking-for-beginners-5edd71e54c37) <a href="6846" id="6846"></a>
+
+* 🇫🇷 French: [Revenu passif avec $FARM et Binance Staking \[Pour les débutants\]](https://bob-duval.medium.com/revenu-passif-avec-farm-et-binance-staking-pour-les-d%C3%A9butants-2cfdca91a836)
+* 🇮🇹 Italian: [Guadagni passivi con $FARM staking su Binance \[Per Principianti\]](https://coirof.medium.com/guadagni-passivi-con-farm-staking-su-binance-per-principianti-c872ce4d2a59)
+* 🇯🇵 Japanese: [Binanceステイキングで$FARM不労所得](https://miwa-wv.medium.com/binance%E3%82%B9%E3%83%86%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%A7-farm%E4%B8%8D%E5%8A%B4%E6%89%80%E5%BE%97-8127db96f721)
+* 🇵🇹 Portuguese: [Renda Passiva de $FARM com a Binance Staking \[Para iniciantes\]](https://medium.com/@Blue\_Poison/renda-passiva-de-farm-com-a-binance-staking-para-iniciantes-b6d9229a574e)
+* 🇪🇸 Spanish: [Ingresos pasivos de $FARM con Binance Staking \[Para Principiantes\]](https://c3h.medium.com/ingresos-pasivos-de-farm-con-binance-staking-para-principiantes-5a09fd12e6e7)
+* 🇹🇼 Traditional Chinese: [使用幣安質押獲取$FARM 被動收入 \[初學者篇\]](https://harvestfinance-tw.medium.com/%E4%BD%BF%E7%94%A8%E5%B9%A3%E5%AE%89%E8%B3%AA%E6%8A%BC%E7%8D%B2%E5%8F%96-farm-%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5-%E5%88%9D%E5%AD%B8%E8%80%85%E7%AF%87-c396ed1f150c)
+* Korean: [Binance 스테이킹을 통해 $FARM 패시브 소득(가만히 냅둬도 이자가 들어온다?!)을 얻는 방법을 알려드립니다! \[스테이킹 소액 초보자용\]](https://medium.com/@Leviathan\_Harvest/binance-%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%82%B9%EC%9D%84-%ED%86%B5%ED%95%B4-farm-%ED%8C%A8%EC%8B%9C%EB%B8%8C-%EC%86%8C%EB%93%9D%EC%9D%84-%EC%96%BB%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EB%A0%A4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4-%EC%B4%88%EB%B3%B4%EC%9E%90%EC%9A%A9-5721a9de8799)
+* Serbian: [$FARM Pasivni prihod sa Binance Stakingom \[Za početnike\]](https://medium.com/@krompir12422/farm-pasivni-prihod-sa-binance-stakingom-za-po%C4%8Detnike-aad6ec6e771d)
+
+### [$FARM & Harvest’s NFT Holders Get VIP Access to Babylon IDO](https://medium.com/harvest-finance/farm-harvests-nft-holders-get-vip-access-to-babylon-ido-4af312c24348) <a href="9239" id="9239"></a>
+
+* 🇫🇷 French: [Les possesseurs de $FARM & de NFT Harvest reçoivent un accès VIP a l’IDO de Babylon](https://bob-duval.medium.com/les-possesseurs-de-farm-de-nft-harvest-re%C3%A7oivent-un-acc%C3%A8s-vip-a-lido-de-babylon-29fd4d669e65)
+* 🇮🇹 Italian: [I possessori di $FARM e NFT Harvest ricevono un accesso VIP all’IDO di Babylon](https://coirof.medium.com/i-possessori-di-farm-e-nft-harvest-ricevono-un-accesso-vip-allido-di-babylon-65aef4000b9)
+* 🇯🇵 Japanese: [$FARMとハーベストのNFT所有者はBabylon IDOへのVIPになれる](https://miwa-wv.medium.com/farm%E3%81%A8%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AEnft%E6%89%80%E6%9C%89%E8%80%85%E3%81%AFbabylon-ido%E3%81%B8%E3%81%AEvip%E3%81%AB%E3%81%AA%E3%82%8C%E3%82%8B-bb942e6c1021)
+* 🇵🇹 Portuguese: [Detentores de NFT de $FARM e Harvest agora têm acesso VIP ao Babylon IDO](https://medium.com/@Blue\_Poison/detentores-de-nft-de-farm-e-harvest-agora-t%C3%AAm-acesso-vip-ao-babylon-ido-857d68f183a8)
+* 🇪🇸 Spanish: [Titulares de $FARM y NFTs de Harvest tienen acceso VIP a Babylon IDO](https://c3h.medium.com/titulares-de-farm-y-nfts-de-harvest-tienen-acceso-vip-a-babylon-ido-bf55faffd31c)
+* 🇹🇼 Traditional Chinese: [$FARM 及 持有 Harvest NFT 者獲得 Babylon IDO 的 VIP 訪問權限](https://harvestfinance-tw.medium.com/farm-%E5%8F%8A-%E6%8C%81%E6%9C%89-harvest-nft-%E8%80%85%E7%8D%B2%E5%BE%97-babylon-ido-%E7%9A%84-vip-%E8%A8%AA%E5%95%8F%E6%AC%8A%E9%99%90-556474ff9d1b)
+* 🇹🇷 Turkish: [$FARM & Harvest NFT Sahipleri Babylon IDO’ya VIP Erişim Sağlıyor](https://harvestfiturkce.medium.com)
+* Korean: [$FARM & Harvest의 NFT 보유자는 Babylon IDO에 VIP 권한으로 접속 가능합니다!](https://medium.com/@Leviathan\_Harvest/farm-harvest%EC%9D%98-nft-%EB%B3%B4%EC%9C%A0%EC%9E%90%EA%B0%80-babylon-ido%EC%97%90-vip-%EC%A0%91%EC%86%8D-%EA%B0%80%EB%8A%A5-e193ae16a7ae)
+* Serbian: [$FARM i Harvestovi NFT korisnici dobijaju VIP pristup za Babylon IDO](https://medium.com/@krompir12422/farm-i-harvestovi-nft-korisnici-dobijaju-vip-pristup-za-babylon-ido-2fe0d97ddbd4)
+
 ### [Recap: Week 62](https://medium.com/harvest-finance/recap-week-62-40915f55a2a4) <a href="e29c" id="e29c"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 62](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-62-fa9c12d51a01)
