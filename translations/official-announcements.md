@@ -39,6 +39,7 @@ description: >-
 * 🇪🇸 Spanish: [Resumen de la Semana 62](https://c3h.medium.com/es-resumen-de-la-semana-62-6c3f040c5571)
 * 🇹🇼 Traditional Chinese: [第 62 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-62-%E9%80%B1%E5%9B%9E%E9%A1%A7-3a8c3013a62c)
 * 🇹🇷 Turkish: [Özet: 62. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-62-hafta-abcf7cab941c)
+* Korean: [개요: 62주차](https://medium.com/@Leviathan\_Harvest/%EA%B0%9C%EC%9A%94-62%EC%A3%BC%EC%B0%A8-c6852db35e72)
 
 ### [Earn $FARM with Layer3 — $4800 for Creating Harvest Content](https://medium.com/harvest-finance/earn-farm-with-layer3-4800-for-creating-harvest-content-82af6d5fc27) <a href="fccb" id="fccb"></a>
 
