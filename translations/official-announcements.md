@@ -7,6 +7,37 @@ description: >-
 
 # Official announcements
 
+### [Recap: Week 63](https://medium.com/harvest-finance/recap-week-63-e45994c810bf) <a href="e29c" id="e29c"></a>
+
+* 🇫🇷 French: [Récapitulatif de la semaine 63](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-63-1a6ae5872c84)
+* 🇮🇹 Italian: [Riepilogo: Settimana 63](https://coirof.medium.com/riepilogo-settimana-63-9bb8517259db)
+* 🇯🇵 Japanese: [おさらい：63週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-63%E9%80%B1%E7%9B%AE-4dfe6b458fe1)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 63](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-63-5f3e0c8bee53)
+* 🇪🇸 Spanish: [Resumen de la Semana 63](https://c3h.medium.com/es-resumen-de-la-semana-63-de3d2ea5737f)
+* 🇹🇼 Traditional Chinese: [第 63 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-63-%E9%80%B1%E5%9B%9E%E9%A1%A7-3f1da94d5be6)
+* 🇹🇷 Turkish: [Özet: 63. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-63-hafta-d0802c15f0c4)
+* Indonesian: [Rekap: Minggu ke-63](https://gamewatch21.medium.com/rekap-minggu-ke-63-601f5c565d5)
+
+### [$200K Bug Bounty Payout](https://medium.com/harvest-finance/200k-bug-bounty-payout-bfbb0865b26f) <a href="9d06" id="9d06"></a>
+
+* 🇫🇷 French: [Paiement de 200 000$ de prime pour un bug](https://bob-duval.medium.com/paiement-de-200-000-de-prime-pour-un-bug-2a26cc2abb6)
+* 🇮🇹 Italian: [Pagamento di 200.000 $ per la Taglia sui Bug](https://coirof.medium.com/pagamento-di-200-000-per-la-taglia-sui-bug-969420cfb6d3)
+* 🇯🇵 Japanese: [$200K バグ報奨金支払われる](https://miwa-wv.medium.com/200k-%E3%83%90%E3%82%B0%E5%A0%B1%E5%A5%A8%E9%87%91%E6%94%AF%E6%89%95%E3%82%8F%E3%82%8C%E3%82%8B-52ffb7cbe249)
+* 🇵🇹 Portuguese: [Pagamento de recompensa por bug de $200K](https://medium.com/@Blue\_Poison/pagamento-de-recompensa-por-bug-de-200k-7a9174d68f9d)
+* 🇪🇸 Spanish: [$200.000 dólares en pago de recompensa por Bug](https://c3h.medium.com/200-000-d%C3%B3lares-en-pago-de-recompensa-por-bug-9b68e88c0b28)
+* 🇹🇼 Traditional Chinese: [支付20 萬美元的漏洞賞金](https://harvestfinance-tw.medium.com/%E6%94%AF%E4%BB%9820-%E8%90%AC%E7%BE%8E%E5%85%83%E7%9A%84%E6%BC%8F%E6%B4%9E%E8%B3%9E%E9%87%91-839636e02b5)
+* 🇹🇷 Turkish: [200K$ Hata Avı Ödülü Ödemesi](https://harvestfiturkce.medium.com/200k-hata-av%C4%B1-%C3%B6d%C3%BCl%C3%BC-%C3%B6demesi-b51b5f036b26)
+
+### [Harvest Becomes the Main Integrator of Idle’s Finance B2B Program](https://medium.com/harvest-finance/harvest-becomes-the-main-integrator-of-idles-finance-b2b-program-f364bb562421) <a href="10c8" id="10c8"></a>
+
+* 🇫🇷 French: [Harvest devient l’intégrateur principal du programme B2B de Idle Finance](https://bob-duval.medium.com/harvest-devient-lint%C3%A9grateur-principal-du-programme-b2b-de-idle-finance-ac4329fcdf53)
+* 🇮🇹 Italian: [Harvest diventa il principale integratore del programma B2B di Idle Finance](https://coirof.medium.com/harvest-diventa-il-principale-integratore-del-programma-b2b-di-idle-finance-b66419243c62)
+* 🇯🇵 Japanese: [ハーベストはIdleの Finance B2Bプログラムとのメインの統合となる](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%AFidle%E3%81%AE-finance-b2b%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E7%B5%B1%E5%90%88%E3%81%A8%E3%81%AA%E3%82%8B-d69d6c4c1e32)
+* 🇵🇹 Portuguese: [Harvest se torna o principal integrador do programa de finanças B2B da Idle](https://medium.com/@Blue\_Poison/harvest-se-torna-o-principal-integrador-do-programa-de-finan%C3%A7as-b2b-da-idle-32054401d1fb)
+* 🇪🇸 Spanish: [Harvest se convierte en el principal integrador del programa B2B de finanzas de Idle](https://c3h.medium.com/harvest-se-convierte-en-el-principal-integrador-del-programa-b2b-de-finanzas-de-idle-c06a7ca81673)
+* 🇹🇼 Traditional Chinese: [Harvest 成為 Idle’s Finance B2B 項目的主要整合商](https://harvestfinance-tw.medium.com/harvest-%E6%88%90%E7%82%BA-idles-finance-b2b-%E9%A0%85%E7%9B%AE%E7%9A%84%E4%B8%BB%E8%A6%81%E6%95%B4%E5%90%88%E5%95%86-3b62691f806b)
+* 🇹🇷 Turkish:** **[Harvest, Idle Finance’ın B2B Programının Ana Entegratörü Oldu](https://harvestfiturkce.medium.com/harvest-idle-finance%C4%B1n-b2b-program%C4%B1n%C4%B1n-ana-entegrat%C3%B6r%C3%BC-oldu-e3a920922715)
+
 ### [$FARM Passive Income with Binance Staking \[For Beginners\]](https://medium.com/harvest-finance/farm-passive-income-with-binance-staking-for-beginners-5edd71e54c37) <a href="6846" id="6846"></a>
 
 * 🇫🇷 French: [Revenu passif avec $FARM et Binance Staking \[Pour les débutants\]](https://bob-duval.medium.com/revenu-passif-avec-farm-et-binance-staking-pour-les-d%C3%A9butants-2cfdca91a836)
@@ -17,6 +48,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [使用幣安質押獲取$FARM 被動收入 \[初學者篇\]](https://harvestfinance-tw.medium.com/%E4%BD%BF%E7%94%A8%E5%B9%A3%E5%AE%89%E8%B3%AA%E6%8A%BC%E7%8D%B2%E5%8F%96-farm-%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5-%E5%88%9D%E5%AD%B8%E8%80%85%E7%AF%87-c396ed1f150c)
 * Korean: [Binance 스테이킹을 통해 $FARM 패시브 소득(가만히 냅둬도 이자가 들어온다?!)을 얻는 방법을 알려드립니다! \[스테이킹 소액 초보자용\]](https://medium.com/@Leviathan\_Harvest/binance-%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%82%B9%EC%9D%84-%ED%86%B5%ED%95%B4-farm-%ED%8C%A8%EC%8B%9C%EB%B8%8C-%EC%86%8C%EB%93%9D%EC%9D%84-%EC%96%BB%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EB%A0%A4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4-%EC%B4%88%EB%B3%B4%EC%9E%90%EC%9A%A9-5721a9de8799)
 * Serbian: [$FARM Pasivni prihod sa Binance Stakingom \[Za početnike\]](https://medium.com/@krompir12422/farm-pasivni-prihod-sa-binance-stakingom-za-po%C4%8Detnike-aad6ec6e771d)
+* Indonesian: [Penghasilan Pasif $FARM dengan stake di Binance \[Untuk Pemula\]](https://gamewatch21.medium.com/penghasilan-pasif-farm-dengan-stake-di-binance-untuk-pemula-f9e5781f2ba1)
 
 ### [$FARM & Harvest’s NFT Holders Get VIP Access to Babylon IDO](https://medium.com/harvest-finance/farm-harvests-nft-holders-get-vip-access-to-babylon-ido-4af312c24348) <a href="9239" id="9239"></a>
 
@@ -29,6 +61,7 @@ description: >-
 * 🇹🇷 Turkish: [$FARM & Harvest NFT Sahipleri Babylon IDO’ya VIP Erişim Sağlıyor](https://harvestfiturkce.medium.com)
 * Korean: [$FARM & Harvest의 NFT 보유자는 Babylon IDO에 VIP 권한으로 접속 가능합니다!](https://medium.com/@Leviathan\_Harvest/farm-harvest%EC%9D%98-nft-%EB%B3%B4%EC%9C%A0%EC%9E%90%EA%B0%80-babylon-ido%EC%97%90-vip-%EC%A0%91%EC%86%8D-%EA%B0%80%EB%8A%A5-e193ae16a7ae)
 * Serbian: [$FARM i Harvestovi NFT korisnici dobijaju VIP pristup za Babylon IDO](https://medium.com/@krompir12422/farm-i-harvestovi-nft-korisnici-dobijaju-vip-pristup-za-babylon-ido-2fe0d97ddbd4)
+* Indonesian: [$FARM & Pemegang NFT Harvest’s mendapat Akses VIP ke IDO Babylon](https://gamewatch21.medium.com/farm-pemegang-nft-harvests-mendapat-akses-vip-ke-ido-babylon-9e01f80473b)
 
 ### [Recap: Week 62](https://medium.com/harvest-finance/recap-week-62-40915f55a2a4) <a href="e29c" id="e29c"></a>
 
@@ -40,6 +73,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [第 62 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-62-%E9%80%B1%E5%9B%9E%E9%A1%A7-3a8c3013a62c)
 * 🇹🇷 Turkish: [Özet: 62. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-62-hafta-abcf7cab941c)
 * Korean: [개요: 62주차](https://medium.com/@Leviathan\_Harvest/%EA%B0%9C%EC%9A%94-62%EC%A3%BC%EC%B0%A8-c6852db35e72)
+* Indonesian: [Rekap: Mingu Ke-62](https://gamewatch21.medium.com/rekap-mingu-ke-62-23f6bbdc99bd)
 
 ### [Earn $FARM with Layer3 — $4800 for Creating Harvest Content](https://medium.com/harvest-finance/earn-farm-with-layer3-4800-for-creating-harvest-content-82af6d5fc27) <a href="fccb" id="fccb"></a>
 
