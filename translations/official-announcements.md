@@ -17,6 +17,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [第 63 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-63-%E9%80%B1%E5%9B%9E%E9%A1%A7-3f1da94d5be6)
 * 🇹🇷 Turkish: [Özet: 63. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-63-hafta-d0802c15f0c4)
 * Indonesian: [Rekap: Minggu ke-63](https://gamewatch21.medium.com/rekap-minggu-ke-63-601f5c565d5)
+* Korean: [Recap: Week 63](https://medium.com/@Leviathan\_Harvest/recap-week-63-546612d62ea0)
 
 ### [$200K Bug Bounty Payout](https://medium.com/harvest-finance/200k-bug-bounty-payout-bfbb0865b26f) <a href="9d06" id="9d06"></a>
 
