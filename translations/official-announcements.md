@@ -7,6 +7,17 @@ description: >-
 
 # Official announcements
 
+### [Recap: Week 64](https://medium.com/harvest-finance/recap-week-64-1193a4394d0c) <a href="e29c" id="e29c"></a>
+
+* 🇫🇷 French: [Récapitulatif de la semaine 64](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-64-1a762cdac25d)
+* 🇮🇹 Italian: [Riepilogo: Settimana 64](https://coirof.medium.com/riepilogo-settimana-64-fa91c9ecec5d)
+* 🇯🇵 Japanese: [おさらい：64週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-64%E9%80%B1%E7%9B%AE-5d1a21f849)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 64](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-64-5e52615633df)
+* 🇪🇸 Spanish: [Resumen de la Semana 64](https://c3h.medium.com/es-resumen-de-la-semana-64-c94458835b87)
+* 🇹🇼 Traditional Chinese: [第 64 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-64-%E9%80%B1%E5%9B%9E%E9%A1%A7-c239fbf5d251)
+* 🇹🇷 Turkish: [Özet: 64. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-64-hafta-79d7d6e65e3)
+* Indonesian: [Rekap: Minggu ke-64](https://gamewatch21.medium.com/rekap-minggu-ke-64-6b42838bdbff)
+
 ### [Recap: Week 63](https://medium.com/harvest-finance/recap-week-63-e45994c810bf) <a href="e29c" id="e29c"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 63](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-63-1a6ae5872c84)
@@ -18,6 +29,7 @@ description: >-
 * 🇹🇷 Turkish: [Özet: 63. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-63-hafta-d0802c15f0c4)
 * Indonesian: [Rekap: Minggu ke-63](https://gamewatch21.medium.com/rekap-minggu-ke-63-601f5c565d5)
 * Korean: [Recap: Week 63](https://medium.com/@Leviathan\_Harvest/recap-week-63-546612d62ea0)
+* Serbian: [Recap:Nedelja 63](https://medium.com/@krompir12422/recap-nedelja-63-7ccb92eae1b7)
 
 ### [$200K Bug Bounty Payout](https://medium.com/harvest-finance/200k-bug-bounty-payout-bfbb0865b26f) <a href="9d06" id="9d06"></a>
 
