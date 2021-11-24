@@ -17,6 +17,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [第 64 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-64-%E9%80%B1%E5%9B%9E%E9%A1%A7-c239fbf5d251)
 * 🇹🇷 Turkish: [Özet: 64. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-64-hafta-79d7d6e65e3)
 * Indonesian: [Rekap: Minggu ke-64](https://gamewatch21.medium.com/rekap-minggu-ke-64-6b42838bdbff)
+* Korean: [Recap: Week 64](https://medium.com/@Leviathan\_Harvest/recap-week-64-e1914e790642)
 
 ### [Recap: Week 63](https://medium.com/harvest-finance/recap-week-63-e45994c810bf) <a href="e29c" id="e29c"></a>
 
