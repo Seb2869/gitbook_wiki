@@ -7,6 +7,16 @@ description: >-
 
 # Official announcements
 
+### [Recap: Week 65](https://medium.com/harvest-finance/recap-week-65-477b8eb53d37) <a href="e29c" id="e29c"></a>
+
+* 🇫🇷 French: [Récapitulatif de la semaine 65](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-65-c468d6ff1a8)
+* 🇮🇹 Italian: [Riepilogo: Settimana 65](https://coirof.medium.com/riepilogo-settimana-65-2b12c1bc23c8)
+* 🇯🇵 Japanese: [おさらい：65週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-65%E9%80%B1%E7%9B%AE-795a19784c98)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 65](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-65-86dcb22d7990)
+* 🇪🇸 Spanish: [Resumen de la Semana 65](https://c3h.medium.com/es-resumen-de-la-semana-65-9a41a0513bb9)
+* 🇹🇼 Traditional Chinese: [第 65 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-65-%E9%80%B1%E5%9B%9E%E9%A1%A7-fb879a26e321)
+* 🇹🇷 Turkish: [Özet: 65. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-65-hafta-828481f85ebb)
+
 ### [Recap: Week 64](https://medium.com/harvest-finance/recap-week-64-1193a4394d0c) <a href="e29c" id="e29c"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 64](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-64-1a762cdac25d)
