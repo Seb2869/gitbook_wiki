@@ -7,7 +7,7 @@ description: >-
 
 # Official announcements
 
-### [Recap: Week 65](https://medium.com/harvest-finance/recap-week-65-477b8eb53d37) <a href="e29c" id="e29c"></a>
+### [Recap: Week 65](https://medium.com/harvest-finance/recap-week-65-477b8eb53d37) <a href="#e29c" id="e29c"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 65](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-65-c468d6ff1a8)
 * 🇮🇹 Italian: [Riepilogo: Settimana 65](https://coirof.medium.com/riepilogo-settimana-65-2b12c1bc23c8)
@@ -16,8 +16,10 @@ description: >-
 * 🇪🇸 Spanish: [Resumen de la Semana 65](https://c3h.medium.com/es-resumen-de-la-semana-65-9a41a0513bb9)
 * 🇹🇼 Traditional Chinese: [第 65 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-65-%E9%80%B1%E5%9B%9E%E9%A1%A7-fb879a26e321)
 * 🇹🇷 Turkish: [Özet: 65. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-65-hafta-828481f85ebb)
+* Serbian: [Recap:Nedelja 65](https://medium.com/@krompir12422/recap-nedelja-65-2f3cc944a8ab)
+* Korean: [Recap: Week 65](https://medium.com/@Leviathan\_Harvest)
 
-### [Recap: Week 64](https://medium.com/harvest-finance/recap-week-64-1193a4394d0c) <a href="e29c" id="e29c"></a>
+### [Recap: Week 64](https://medium.com/harvest-finance/recap-week-64-1193a4394d0c) <a href="#e29c" id="e29c"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 64](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-64-1a762cdac25d)
 * 🇮🇹 Italian: [Riepilogo: Settimana 64](https://coirof.medium.com/riepilogo-settimana-64-fa91c9ecec5d)
@@ -29,7 +31,7 @@ description: >-
 * Indonesian: [Rekap: Minggu ke-64](https://gamewatch21.medium.com/rekap-minggu-ke-64-6b42838bdbff)
 * Korean: [Recap: Week 64](https://medium.com/@Leviathan\_Harvest/recap-week-64-e1914e790642)
 
-### [Recap: Week 63](https://medium.com/harvest-finance/recap-week-63-e45994c810bf) <a href="e29c" id="e29c"></a>
+### [Recap: Week 63](https://medium.com/harvest-finance/recap-week-63-e45994c810bf) <a href="#e29c" id="e29c"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 63](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-63-1a6ae5872c84)
 * 🇮🇹 Italian: [Riepilogo: Settimana 63](https://coirof.medium.com/riepilogo-settimana-63-9bb8517259db)
@@ -42,7 +44,7 @@ description: >-
 * Korean: [Recap: Week 63](https://medium.com/@Leviathan\_Harvest/recap-week-63-546612d62ea0)
 * Serbian: [Recap:Nedelja 63](https://medium.com/@krompir12422/recap-nedelja-63-7ccb92eae1b7)
 
-### [$200K Bug Bounty Payout](https://medium.com/harvest-finance/200k-bug-bounty-payout-bfbb0865b26f) <a href="9d06" id="9d06"></a>
+### [$200K Bug Bounty Payout](https://medium.com/harvest-finance/200k-bug-bounty-payout-bfbb0865b26f) <a href="#9d06" id="9d06"></a>
 
 * 🇫🇷 French: [Paiement de 200 000$ de prime pour un bug](https://bob-duval.medium.com/paiement-de-200-000-de-prime-pour-un-bug-2a26cc2abb6)
 * 🇮🇹 Italian: [Pagamento di 200.000 $ per la Taglia sui Bug](https://coirof.medium.com/pagamento-di-200-000-per-la-taglia-sui-bug-969420cfb6d3)
@@ -52,7 +54,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [支付20 萬美元的漏洞賞金](https://harvestfinance-tw.medium.com/%E6%94%AF%E4%BB%9820-%E8%90%AC%E7%BE%8E%E5%85%83%E7%9A%84%E6%BC%8F%E6%B4%9E%E8%B3%9E%E9%87%91-839636e02b5)
 * 🇹🇷 Turkish: [200K$ Hata Avı Ödülü Ödemesi](https://harvestfiturkce.medium.com/200k-hata-av%C4%B1-%C3%B6d%C3%BCl%C3%BC-%C3%B6demesi-b51b5f036b26)
 
-### [Harvest Becomes the Main Integrator of Idle’s Finance B2B Program](https://medium.com/harvest-finance/harvest-becomes-the-main-integrator-of-idles-finance-b2b-program-f364bb562421) <a href="10c8" id="10c8"></a>
+### [Harvest Becomes the Main Integrator of Idle’s Finance B2B Program](https://medium.com/harvest-finance/harvest-becomes-the-main-integrator-of-idles-finance-b2b-program-f364bb562421) <a href="#10c8" id="10c8"></a>
 
 * 🇫🇷 French: [Harvest devient l’intégrateur principal du programme B2B de Idle Finance](https://bob-duval.medium.com/harvest-devient-lint%C3%A9grateur-principal-du-programme-b2b-de-idle-finance-ac4329fcdf53)
 * 🇮🇹 Italian: [Harvest diventa il principale integratore del programma B2B di Idle Finance](https://coirof.medium.com/harvest-diventa-il-principale-integratore-del-programma-b2b-di-idle-finance-b66419243c62)
@@ -60,9 +62,9 @@ description: >-
 * 🇵🇹 Portuguese: [Harvest se torna o principal integrador do programa de finanças B2B da Idle](https://medium.com/@Blue\_Poison/harvest-se-torna-o-principal-integrador-do-programa-de-finan%C3%A7as-b2b-da-idle-32054401d1fb)
 * 🇪🇸 Spanish: [Harvest se convierte en el principal integrador del programa B2B de finanzas de Idle](https://c3h.medium.com/harvest-se-convierte-en-el-principal-integrador-del-programa-b2b-de-finanzas-de-idle-c06a7ca81673)
 * 🇹🇼 Traditional Chinese: [Harvest 成為 Idle’s Finance B2B 項目的主要整合商](https://harvestfinance-tw.medium.com/harvest-%E6%88%90%E7%82%BA-idles-finance-b2b-%E9%A0%85%E7%9B%AE%E7%9A%84%E4%B8%BB%E8%A6%81%E6%95%B4%E5%90%88%E5%95%86-3b62691f806b)
-* 🇹🇷 Turkish:** **[Harvest, Idle Finance’ın B2B Programının Ana Entegratörü Oldu](https://harvestfiturkce.medium.com/harvest-idle-finance%C4%B1n-b2b-program%C4%B1n%C4%B1n-ana-entegrat%C3%B6r%C3%BC-oldu-e3a920922715)
+* 🇹🇷 Turkish: **** [Harvest, Idle Finance’ın B2B Programının Ana Entegratörü Oldu](https://harvestfiturkce.medium.com/harvest-idle-finance%C4%B1n-b2b-program%C4%B1n%C4%B1n-ana-entegrat%C3%B6r%C3%BC-oldu-e3a920922715)
 
-### [$FARM Passive Income with Binance Staking \[For Beginners\]](https://medium.com/harvest-finance/farm-passive-income-with-binance-staking-for-beginners-5edd71e54c37) <a href="6846" id="6846"></a>
+### [$FARM Passive Income with Binance Staking \[For Beginners\]](https://medium.com/harvest-finance/farm-passive-income-with-binance-staking-for-beginners-5edd71e54c37) <a href="#6846" id="6846"></a>
 
 * 🇫🇷 French: [Revenu passif avec $FARM et Binance Staking \[Pour les débutants\]](https://bob-duval.medium.com/revenu-passif-avec-farm-et-binance-staking-pour-les-d%C3%A9butants-2cfdca91a836)
 * 🇮🇹 Italian: [Guadagni passivi con $FARM staking su Binance \[Per Principianti\]](https://coirof.medium.com/guadagni-passivi-con-farm-staking-su-binance-per-principianti-c872ce4d2a59)
@@ -74,7 +76,7 @@ description: >-
 * Serbian: [$FARM Pasivni prihod sa Binance Stakingom \[Za početnike\]](https://medium.com/@krompir12422/farm-pasivni-prihod-sa-binance-stakingom-za-po%C4%8Detnike-aad6ec6e771d)
 * Indonesian: [Penghasilan Pasif $FARM dengan stake di Binance \[Untuk Pemula\]](https://gamewatch21.medium.com/penghasilan-pasif-farm-dengan-stake-di-binance-untuk-pemula-f9e5781f2ba1)
 
-### [$FARM & Harvest’s NFT Holders Get VIP Access to Babylon IDO](https://medium.com/harvest-finance/farm-harvests-nft-holders-get-vip-access-to-babylon-ido-4af312c24348) <a href="9239" id="9239"></a>
+### [$FARM & Harvest’s NFT Holders Get VIP Access to Babylon IDO](https://medium.com/harvest-finance/farm-harvests-nft-holders-get-vip-access-to-babylon-ido-4af312c24348) <a href="#9239" id="9239"></a>
 
 * 🇫🇷 French: [Les possesseurs de $FARM & de NFT Harvest reçoivent un accès VIP a l’IDO de Babylon](https://bob-duval.medium.com/les-possesseurs-de-farm-de-nft-harvest-re%C3%A7oivent-un-acc%C3%A8s-vip-a-lido-de-babylon-29fd4d669e65)
 * 🇮🇹 Italian: [I possessori di $FARM e NFT Harvest ricevono un accesso VIP all’IDO di Babylon](https://coirof.medium.com/i-possessori-di-farm-e-nft-harvest-ricevono-un-accesso-vip-allido-di-babylon-65aef4000b9)
@@ -87,7 +89,7 @@ description: >-
 * Serbian: [$FARM i Harvestovi NFT korisnici dobijaju VIP pristup za Babylon IDO](https://medium.com/@krompir12422/farm-i-harvestovi-nft-korisnici-dobijaju-vip-pristup-za-babylon-ido-2fe0d97ddbd4)
 * Indonesian: [$FARM & Pemegang NFT Harvest’s mendapat Akses VIP ke IDO Babylon](https://gamewatch21.medium.com/farm-pemegang-nft-harvests-mendapat-akses-vip-ke-ido-babylon-9e01f80473b)
 
-### [Recap: Week 62](https://medium.com/harvest-finance/recap-week-62-40915f55a2a4) <a href="e29c" id="e29c"></a>
+### [Recap: Week 62](https://medium.com/harvest-finance/recap-week-62-40915f55a2a4) <a href="#e29c" id="e29c"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 62](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-62-fa9c12d51a01)
 * 🇮🇹 Italian: [Riepilogo: Settimana 62](https://coirof.medium.com/riepilogo-settimana-62-1ba590480e21)
@@ -99,7 +101,7 @@ description: >-
 * Korean: [개요: 62주차](https://medium.com/@Leviathan\_Harvest/%EA%B0%9C%EC%9A%94-62%EC%A3%BC%EC%B0%A8-c6852db35e72)
 * Indonesian: [Rekap: Mingu Ke-62](https://gamewatch21.medium.com/rekap-mingu-ke-62-23f6bbdc99bd)
 
-### [Earn $FARM with Layer3 — $4800 for Creating Harvest Content](https://medium.com/harvest-finance/earn-farm-with-layer3-4800-for-creating-harvest-content-82af6d5fc27) <a href="fccb" id="fccb"></a>
+### [Earn $FARM with Layer3 — $4800 for Creating Harvest Content](https://medium.com/harvest-finance/earn-farm-with-layer3-4800-for-creating-harvest-content-82af6d5fc27) <a href="#fccb" id="fccb"></a>
 
 * 🇫🇷 French: [Gagnez des $FARM avec Layer3 — 4800$ pour créer du contenu Harvest](https://bob-duval.medium.com/gagnez-des-farm-avec-layer3-4800-pour-cr%C3%A9er-du-contenu-harvest-73c3a3c4c7c4)
 * 🇮🇹 Italian: [Guadagna $FARM con Layer3–4.800 $ per creare contenuti su Harvest](https://coirof.medium.com/guadagna-farm-con-il-layer3-4-800-per-creare-contenuti-su-harvest-fc279242e996)
@@ -109,7 +111,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [透過 Layer3 創建 Harvest 內容賺取價值4800美元 $FARM](https://harvestfinance-tw.medium.com/%E9%80%8F%E9%81%8E-layer3-%E8%B3%BA%E5%8F%96%E5%83%B9%E5%80%BC4800%E7%BE%8E%E5%85%83-farm%E7%94%A8%E6%96%BC%E5%89%B5%E5%BB%BA-harvest-%E5%85%A7%E5%AE%B9-1051bf8d968c)
 * 🇹🇷 Turkish: [Layer3 ile FARM$ Kazanın — Harvest İçeriği Oluşturarak 4800$ Kazanma Fırsatı](https://harvestfiturkce.medium.com/layer3-ile-farm-kazan%C4%B1n-harvest-i%CC%87%C3%A7eri%C4%9Fi-olu%C5%9Fturarak-4800-kazanma-f%C4%B1rsat%C4%B1-4198a563978d)
 
-### [Recap: Week 61](https://medium.com/harvest-finance/recap-week-61-37c11be4f21c) <a href="e29c" id="e29c"></a>
+### [Recap: Week 61](https://medium.com/harvest-finance/recap-week-61-37c11be4f21c) <a href="#e29c" id="e29c"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 61](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-61-909eaec025ed)
 * 🇮🇹 Italian: [Riepilogo: Settimana 61](https://coirof.medium.com/riepilogo-settimana-61-5e24011223f)
@@ -121,7 +123,7 @@ description: >-
 * Korean: [개요: 61주차](https://medium.com/@Leviathan\_Harvest/%EA%B0%9C%EC%9A%94-61%EC%A3%BC%EC%B0%A8-a63492c68db4)
 * Indonesian: [Rekap: Minggu ke-61](https://gamewatch21.medium.com/rekap-minggu-ke-61-5e25c28e6cff)
 
-### [Introducing Forex Yield Farming with Jarvis Network](https://medium.com/harvest-finance/introducing-forex-yield-farming-with-jarvis-network-653bbf48c68e) <a href="3b99" id="3b99"></a>
+### [Introducing Forex Yield Farming with Jarvis Network](https://medium.com/harvest-finance/introducing-forex-yield-farming-with-jarvis-network-653bbf48c68e) <a href="#3b99" id="3b99"></a>
 
 * 🇫🇷 French: [Présentation de l’exploitation de rendements sur les marchés de changes avec Jarvis Network](https://bob-duval.medium.com/pr%C3%A9sentation-de-lexploitation-de-rendements-sur-les-march%C3%A9s-de-changes-avec-jarvis-network-7e19adaed29d)
 * 🇮🇹 Italian: [Introduzione del Forex Yield Farming con Jarvis Network](https://coirof.medium.com/introduzione-del-forex-yield-farming-con-jarvis-network-b1c531c33df5)
@@ -132,7 +134,7 @@ description: >-
 * 🇹🇷 Turkish: [Jarvis Network ile Forex Yield Farming](https://harvestfiturkce.medium.com/jarvis-network-ile-forex-yield-farming-af50fa447a04)
 * Indonesian: [Memperkenalkan Penghasilan Forex menggunakan Jarvis Network](https://gamewatch21.medium.com/memperkenalkan-penghasilan-forex-menggunakan-jarvis-network-cf778eab57c1)
 
-### [New Vault ft. Changer](https://medium.com/harvest-finance/new-vault-ft-changer-c388979d4f0a) <a href="4b6e" id="4b6e"></a>
+### [New Vault ft. Changer](https://medium.com/harvest-finance/new-vault-ft-changer-c388979d4f0a) <a href="#4b6e" id="4b6e"></a>
 
 * 🇫🇷 French: [Nouveau coffre avec Changer](https://bob-duval.medium.com/nouveau-coffre-avec-changer-76ce563f734d)
 * 🇮🇹 Italian: [Nuova Pool da Changer](https://coirof.medium.com/nuova-pool-da-changer-49a34aa0975f)
@@ -143,7 +145,7 @@ description: >-
 * 🇹🇷 Turkish: [Changer ile Yeni Kasa](https://harvestfiturkce.medium.com/changer-ile-yeni-kasa-e02136ccc0e2)
 * Indonesian: [Vault Baru ft. Changer](https://gamewatch21.medium.com/vault-baru-ft-changer-89919e6d950a)
 
-### [Recap: Week 60](https://medium.com/harvest-finance/recap-week-60-358384591655) <a href="c9c5" id="c9c5"></a>
+### [Recap: Week 60](https://medium.com/harvest-finance/recap-week-60-358384591655) <a href="#c9c5" id="c9c5"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 60](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-60-41503431bb59)
 * 🇮🇹 Italian: [Riepilogo: Settimana 60](https://coirof.medium.com/riepilogo-settimana-60-3c61ba5bba4b)
@@ -155,7 +157,7 @@ description: >-
 * Indonesian: [Rekap: Minggu ke-60](https://gamewatch21.medium.com/rekap-minggu-ke-60-302893af1a93)
 * Serbian: [Recap:Nedelja 60](https://medium.com/@krompir12422/recap-nedelja-60-4a00b3c730a)
 
-### [Harvest Integrates Coinbase Wallet](https://medium.com/harvest-finance/harvest-integrates-coinbase-wallet-b60cdc3db85a) <a href="a698" id="a698"></a>
+### [Harvest Integrates Coinbase Wallet](https://medium.com/harvest-finance/harvest-integrates-coinbase-wallet-b60cdc3db85a) <a href="#a698" id="a698"></a>
 
 * 🇫🇷 French: [Harvest intègre Coinbase Wallet](https://bob-duval.medium.com/harvest-int%C3%A8gre-coinbase-wallet-23f36caf9d82)
 * 🇮🇹 Italian: [Harvest integra Coinbase Wallet](https://coirof.medium.com/harvest-integra-coinbase-wallet-edc08249e740)
@@ -167,7 +169,7 @@ description: >-
 * Indonesian: [Harvest terintegrasi Coinbase Wallet](https://gamewatch21.medium.com/harvest-terintegrasi-coinbase-wallet-fe1249cad517)
 * Serbian: [Harvest integriše Coinbase novčanik](https://medium.com/@krompir12422/harvest-integri%C5%A1e-coinbase-nov%C4%8Danik-510430c13730)
 
-### [Recap: Week 59](https://medium.com/harvest-finance/recap-week-59-c1ceaafb677d) <a href="c9c5" id="c9c5"></a>
+### [Recap: Week 59](https://medium.com/harvest-finance/recap-week-59-c1ceaafb677d) <a href="#c9c5" id="c9c5"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 59](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-59-a58cedcee96e)
 * 🇮🇹 Italian: [Riepilogo: Settimana 59](https://coirof.medium.com/riepilogo-settimana-59-71d8dc584212)
@@ -179,7 +181,7 @@ description: >-
 * Serbian: [Recap:Nedelja 59](https://medium.com/@krompir12422/recap-nedelja-59-64b2a1815269)
 * Indonesian: [Rekap: Minggu ke-59](https://gamewatch21.medium.com/rekap-minggu-ke-59-70312d883785)
 
-### [Recap: Week 59](https://medium.com/harvest-finance/recap-week-59-c1ceaafb677d) <a href="c9c5" id="c9c5"></a>
+### [Recap: Week 59](https://medium.com/harvest-finance/recap-week-59-c1ceaafb677d) <a href="#c9c5" id="c9c5"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 59](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-59-a58cedcee96e)
 * 🇮🇹 Italian: [Riepilogo: Settimana 59](https://coirof.medium.com/riepilogo-settimana-59-71d8dc584212)
@@ -190,7 +192,7 @@ description: >-
 * 🇹🇷 Turkish: [Özet: 59. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-59-hafta-3ce2e38d6544)
 * Serbian: [Recap:Nedelja 59](https://medium.com/@krompir12422/recap-nedelja-59-64b2a1815269)
 
-### [Farming With Harvest Just Got 4x Easier with Zapper — Full Beginner Guide](https://medium.com/harvest-finance/farming-with-harvest-just-got-4x-easier-with-zapper-full-beginner-guide-55379abddac1) <a href="63c1" id="63c1"></a>
+### [Farming With Harvest Just Got 4x Easier with Zapper — Full Beginner Guide](https://medium.com/harvest-finance/farming-with-harvest-just-got-4x-easier-with-zapper-full-beginner-guide-55379abddac1) <a href="#63c1" id="63c1"></a>
 
 * 🇫🇷 French: [Le farming avec Harvest est devenu 4x plus facile avec Zapper — Guide pour les débutants](https://bob-duval.medium.com/le-farming-avec-harvest-est-devenu-4x-plus-facile-avec-zapper-guide-pour-les-d%C3%A9butants-d8a41078b70f)
 * 🇮🇹 Italian:[ Il farming con Harvest è diventato 4 volte più facile con Zapper — Guida Completa](https://coirof.medium.com/il-farming-con-harvest-%C3%A8-diventato-4-volte-pi%C3%B9-facile-con-zapper-guida-completa-ea9010faaee0)
@@ -201,7 +203,7 @@ description: >-
 * 🇹🇷 Turkish: [Farming Zapper ile 4 Kat Daha Kolay — Başlangıç Kılavuzu](https://harvestfiturkce.medium.com/farming-zapper-ile-4-kat-daha-kolay-ba%C5%9Flang%C4%B1%C3%A7-k%C4%B1lavuzu-ac613dc2325b)
 * Serbian: [Farming sa Harvestom postala je 4 puta lakša uz Zapper — Potpuni vodič za početnike](https://medium.com/@krompir12422/farming-sa-harvestom-postala-je-4-puta-lak%C5%A1a-uz-zapper-potpuni-vodi%C4%8D-za-po%C4%8Detnike-9d89ffcf059c)
 
-### [Recap: Week 58](https://medium.com/harvest-finance/recap-week-58-fffab36732f0?source=user\_profile---------0----------------------------) <a href="63c1" id="63c1"></a>
+### [Recap: Week 58](https://medium.com/harvest-finance/recap-week-58-fffab36732f0?source=user\_profile---------0----------------------------) <a href="#63c1" id="63c1"></a>
 
 * 🇮🇹 Italian: [Riepilogo: Settimana 58](https://coirof.medium.com/riepilogo-settimana-58-9f4f84b0ee49)
 * 🇯🇵 Japanese: [おさらい：58週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-58%E9%80%B1%E7%9B%AE-bc2967cdb708)
@@ -251,7 +253,7 @@ description: >-
 * 🇵🇹 Portuguese: [Recapitulação: Semana 57](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-57-557977339594)
 * 🇪🇸 Spanish: [Resumen de la Semana 57](https://c3h.medium.com/es-resumen-de-la-semana-57-31cc86ab8e58)
 * 🇹🇼 Traditional Chinese: [第 57 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-57-%E9%80%B1%E5%9B%9E%E9%A1%A7-e8ceda9c5f4)
-* 🇹🇷 Turkish:** **[Özet: 57. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-57-hafta-594f333a34e9)
+* 🇹🇷 Turkish: **** [Özet: 57. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-57-hafta-594f333a34e9)
 * Indonesian: [Rekap: Minggu ke-57](https://gamewatch21.medium.com/rekap-minggu-ke-57-7ef1079a26b1)
 * Serbian: [Recap: Nedelja 57](https://medium.com/@krompir12422/recap-nedelja-57-97dfda5e9aa)
 * French: [Récapitulatif de la semaine 57](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-57-d4a591b0f524)
@@ -441,4 +443,4 @@ description: >-
 
 _Disclaimer: Translations are prepared by volunteer translators. While any reasonable efforts are made to provide accurate translations, portions may be incorrect. No liability is assumed by Harvest Finance for any errors, omissions, or ambiguities in the translations provided on this webpage. Any person or entity that relies on translated content does so at their own risk. Harvest Finance shall not be liable for any losses caused by reliance on the accuracy, reliability, or timeliness of translated information._
 
-_If you would like to report a translation error or inaccuracy or suggest a more appropriate contextual understanding, please _[_contact us._](https://discord.gg/CcrXSR46)
+_If you would like to report a translation error or inaccuracy or suggest a more appropriate contextual understanding, please_ [_contact us._](https://discord.gg/CcrXSR46)
