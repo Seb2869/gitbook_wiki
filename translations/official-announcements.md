@@ -7,6 +7,16 @@ description: >-
 
 # Official announcements
 
+### [New Vault ft. Babylon Finance](https://medium.com/harvest-finance/new-vault-ft-babylon-finance-b1eb5d74a04)
+
+* 🇫🇷 French: [Nouveau coffre avec Babylon Finance](https://bob-duval.medium.com/nouveau-coffre-avec-babylon-finance-b550239d9db7)
+* 🇮🇹 Italian: [Nuova pool da Babylon Finance](https://coirof.medium.com/nuova-pool-da-babylon-finance-bf56cf9baa91)
+* 🇯🇵 Japanese: [新しいヴァルト、注目のBabylon Finance](https://miwa-wv.medium.com/%E6%96%B0%E3%81%97%E3%81%84%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88-%E6%B3%A8%E7%9B%AE%E3%81%AEbabylon-finance-9e41d632f0c1)
+* 🇵🇹 Portuguese: [Novo Vault com Babylon Finance](https://medium.com/@Blue\_Poison/novo-vault-com-babylon-finance-630c168c20d3)
+* 🇪🇸 Spanish: ****&#x20;
+* 🇹🇼 Traditional Chinese: [與 Babylon Finance 合作新資金庫](https://harvestfinance-tw.medium.com/%E8%88%87-babylon-finance-%E5%90%88%E4%BD%9C%E6%96%B0%E8%B3%87%E9%87%91%E5%BA%AB-28d2fc2c7dac)
+* 🇹🇷 Turkish: [Babylon Finance ile Yeni Kasa](https://harvestfiturkce.medium.com/babylon-finance-ile-yeni-kasa-1a6255595cb4)
+
 ### [Recap: Week 65](https://medium.com/harvest-finance/recap-week-65-477b8eb53d37) <a href="#e29c" id="e29c"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 65](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-65-c468d6ff1a8)
