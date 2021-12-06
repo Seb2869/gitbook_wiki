@@ -7,6 +7,18 @@ description: >-
 
 # Official announcements
 
+### [Recap: Week 66](https://medium.com/harvest-finance/recap-week-66-32cf2f956293) <a href="#22df" id="22df"></a>
+
+* 🇫🇷 French: [Récapitulatif de la semaine 66](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-66-87eb957d2cbe)
+* 🇮🇹 Italian: [Riepilogo: Settimana 66](https://coirof.medium.com/riepilogo-settimana-66-81ee871b3af1)
+* 🇯🇵 Japanese: [おさらい：66週目](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-66%E9%80%B1%E7%9B%AE-efdac2ee5a40)
+* 🇵🇹 Portuguese: [Recapitulação: Semana 66](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-66-ff2d67588d2c)
+* 🇪🇸 Spanish:[ Resumen de la Semana 66](https://c3h.medium.com/es-resumen-de-la-semana-66-b0aa4f1e4df2)
+* 🇹🇼 Traditional Chinese: [第 66 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-66-%E9%80%B1%E5%9B%9E%E9%A1%A7-b6cfcd4d4c12)
+* 🇹🇷 Turkish: [Özet: 66. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-66-hafta-657154036060)
+* Serbian: [Recap:Nedelja 66](https://medium.com/@krompir12422/recap-nedelja-66-cdae413e18e1)
+* Korean: [개요: 66주차](https://medium.com/@Leviathan\_Harvest/%EA%B0%9C%EC%9A%94-66%EC%A3%BC%EC%B0%A8-d68b5042a4be)
+
 ### [New Vault ft. Babylon Finance](https://medium.com/harvest-finance/new-vault-ft-babylon-finance-b1eb5d74a04)
 
 * 🇫🇷 French: [Nouveau coffre avec Babylon Finance](https://bob-duval.medium.com/nouveau-coffre-avec-babylon-finance-b550239d9db7)
@@ -28,6 +40,7 @@ description: >-
 * 🇹🇷 Turkish: [Özet: 65. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-65-hafta-828481f85ebb)
 * Serbian: [Recap:Nedelja 65](https://medium.com/@krompir12422/recap-nedelja-65-2f3cc944a8ab)
 * Korean: [Recap: Week 65](https://medium.com/@Leviathan\_Harvest)
+* Indonesian: [Rekap: Minggu ke-65](https://gamewatch21.medium.com/rekap-minggu-ke-65-f0f2c3784d59)
 
 ### [Recap: Week 64](https://medium.com/harvest-finance/recap-week-64-1193a4394d0c) <a href="#e29c" id="e29c"></a>
 
