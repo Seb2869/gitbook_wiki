@@ -7,6 +7,19 @@ description: >-
 
 # Official announcements
 
+### [Harvest 2021 Recap & 2022 Outlook](https://medium.com/harvest-finance/harvest-2021-recap-2022-outlook-1fd3f8d2a903) <a href="#1e68" id="1e68"></a>
+
+* 🇫🇷 French: [Récapitulatif de 2021 & Perspectives pour 2022](https://bob-duval.medium.com/r%C3%A9capitulatif-de-2021-perspectives-pour-2022-785a10b3823a)
+* 🇮🇹 Italian: [Riepilogo Harvest 2021 & Occhiata sul 2022](https://coirof.medium.com/riepilogo-harvest-2021-occhiata-sul-2022-720354437c56)&#x20;
+* 🇯🇵 Japanese: [ハーベスト2021年のおさらいと2022年の展望](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%882021%E5%B9%B4%E3%81%AE%E3%81%8A%E3%81%95%E3%82%89%E3%81%84%E3%81%A82022%E5%B9%B4%E3%81%AE%E5%B1%95%E6%9C%9B-12e5cafc28db)
+* 🇰🇷 Korean: [Harvest 2021년 개요 & 2022년 전망](https://medium.com/@Leviathan\_Harvest/harvest-2021%EB%85%84-%EA%B0%9C%EC%9A%94-2022%EB%85%84-%EC%A0%84%EB%A7%9D-5156efe52459)
+* 🇵🇹 Portuguese: [Recapitulação da Harvest 2021 e Visão para 2022](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-da-harvest-2021-e-vis%C3%A3o-para-2022-6838adaa9da2)
+* 🇪🇸 Spanish:[ ](https://c3h.medium.com/es-resumen-de-la-semana-66-b0aa4f1e4df2)[Resumen de la Harvest en 2021 y Perspectivas para 2022](https://c3h.medium.com/resumen-de-la-harvest-en-2021-y-perspectivas-para-2022-4b4aac8a8349)
+* 🇹🇼 Traditional Chinese: [Harvest 2021 回顧與 2022 展望](https://harvestfinance-tw.medium.com/harvest-2021-%E5%9B%9E%E9%A1%A7%E8%88%87-2022-%E5%B1%95%E6%9C%9B-8ca68d198276)
+* 🇹🇷 Turkish: [Harvest 2021 Özeti ve 2022 Görünümü](https://harvestfiturkce.medium.com/harvest-2021-%C3%B6zeti-ve-2022-g%C3%B6r%C3%BCn%C3%BCm%C3%BC-ceed62b0d36)
+* Indonesian: [Rekap Harvest 2021 & Pandangan di 2022](https://gamewatch21.medium.com/rekap-harvest-2021-pandangan-di-2022-15b908c3da44)
+* Serbian: [Harvest Recap 2021 i ideje za 2022](https://medium.com/@krompir12422/harvest-recap-2021-i-ideje-za-2022-70010dce96a8)
+
 ### [Recap: Week 66](https://medium.com/harvest-finance/recap-week-66-32cf2f956293) <a href="#22df" id="22df"></a>
 
 * 🇫🇷 French: [Récapitulatif de la semaine 66](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-66-87eb957d2cbe)
