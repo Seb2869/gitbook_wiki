@@ -28,6 +28,7 @@ description: >-
 * 🇪🇸 Spanish:[ ](https://c3h.medium.com/es-resumen-de-la-semana-66-b0aa4f1e4df2)[Harvest lanza una bóveda de autocomposición para $LOOKS](https://c3h.medium.com/harvest-lanza-una-b%C3%B3veda-de-autocomposici%C3%B3n-para-looks-8e3ac457d54f)
 * 🇹🇼 Traditional Chinese: [Harvest 啟動 $LOOKS 自動複合資金庫](https://harvestfinance-tw.medium.com/harvest-%E5%95%9F%E5%8B%95-looks-%E8%87%AA%E5%8B%95%E8%A4%87%E5%90%88%E8%B3%87%E9%87%91%E5%BA%AB-fcdf66eac267)
 * 🇹🇷 Turkish: [Harvest $LOOKS için Otomatik-Birleştirme Kasasını Başlattı](official-announcements.md#harvest-recap-1-or-january-2022-1)
+* Serbian: [Harvest pokreće trezor sa automatskim kompaundiranjem za $LOOKS](https://medium.com/@krompir12422/harvest-pokre%C4%87e-trezor-sa-automatskim-kompaundiranjem-za-looks-9c100783834)
 
 ### [Harvest Recap: #1 | January 2022](https://medium.com/harvest-finance/harvest-recap-1-january-2022-abcb41ddeb82)
 
@@ -39,6 +40,7 @@ description: >-
 * 🇪🇸 Spanish:[ ](https://c3h.medium.com/es-resumen-de-la-semana-66-b0aa4f1e4df2)[Resumen de Harvest: #1 | Enero 2022](https://c3h.medium.com/resumen-de-harvest-1-enero-2022-906636b2d42d)
 * 🇹🇼 Traditional Chinese: [Harvest 回顧: #1 | 2022 年 一 月](https://harvestfinance-tw.medium.com/harvest-%E5%9B%9E%E9%A1%A7-1-2022-%E5%B9%B4-%E4%B8%80-%E6%9C%88-43373660a231)
 * 🇹🇷 Turkish: [Harvest Özet: #1 | Ocak 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-1-ocak-2022-d2ebed54be0a)
+* Serbian: [Harvest Recap: #1 | January 2022](https://medium.com/@krompir12422/harvest-recap-1-january-2022-3e9464990e7)
 
 ### [Harvest 2021 Recap & 2022 Outlook](https://medium.com/harvest-finance/harvest-2021-recap-2022-outlook-1fd3f8d2a903) <a href="#1e68" id="1e68"></a>
 
