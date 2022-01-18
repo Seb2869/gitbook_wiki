@@ -7,6 +7,17 @@ description: >-
 
 # Official announcements
 
+### [Harvest Recap #2 | January 2022](https://medium.com/harvest-finance/harvest-recap-2-january-2022-20197dff929e) <a href="#8449" id="8449"></a>
+
+* 🇫🇷 French: [Récapitulatif Harvest : #2 | Janvier 2022](https://bob-duval.medium.com/r%C3%A9capitulatif-harvest-2-janvier-2022-4f44380dbb85)
+* 🇮🇹 Italian: [Riepilogo Harvest n. 2 | Gennaio 2022](https://coirof.medium.com/riepilogo-harvest-n-2-gennaio-2022-913be4eb1ae5)
+* 🇯🇵 Japanese: [ハーベストおさらい#2/2020年1月](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-2-2020%E5%B9%B41%E6%9C%88-cf110c848488)
+* 🇰🇷 Korean: [Harvest 개요 #2 | 2022년 1월](https://medium.com/@Leviathan\_Harvest/harvest-%EA%B0%9C%EC%9A%94-2-2022%EB%85%84-1%EC%9B%94-4d9f3dcc0e28)
+* 🇵🇹 Portuguese: [Recapitulação da Harvest #2 | Janeiro de 2022](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-da-harvest-2-janeiro-de-2022-14a5c53a760e)
+* 🇪🇸 Spanish: [Resumen de Harvest #2 | Enero 2022](https://c3h.medium.com/resumen-de-harvest-2-enero-2022-e1e71051d112)
+* 🇹🇼 Traditional Chinese: [Harvest 回顧 #2 | 2022 年 一 月](https://harvestfinance-tw.medium.com/harvest-%E5%9B%9E%E9%A1%A7-2-2022-%E5%B9%B4-%E4%B8%80-%E6%9C%88-bf90e4d80c89)
+* 🇹🇷 Turkish: [Harvest Özet #2 | Ocak 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-2-ocak-2022-c5bb9056d892)
+
 ### [Harvest Launches Auto-Compounding Vault for $LOOKS](https://medium.com/harvest-finance/harvest-launches-auto-compounding-vault-for-looks-48dc2c958828) <a href="#7b39" id="7b39"></a>
 
 * 🇫🇷 French: [Harvest lances un coffre auto-composé pour $LOOKS](https://bob-duval.medium.com/harvest-lances-un-coffre-auto-compos%C3%A9-pour-looks-c77d4bef75fc)
