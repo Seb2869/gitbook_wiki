@@ -7,6 +7,30 @@ description: >-
 
 # Official announcements
 
+### [Harvest Recap: #3 | January 2022](https://medium.com/harvest-finance/harvest-recap-3-january-2022-944ce198c7df)
+
+* 🇫🇷 French: [Récapitulatif Harvest : #3 | Janvier 2022](https://bob-duval.medium.com/r%C3%A9capitulatif-harvest-3-janvier-2022-2893802f0ae7)
+* 🇮🇹 Italian: [Riepilogo Harvest n. 3 | Gennaio 2022](https://coirof.medium.com/riepilogo-harvest-n-3-gennaio-2022-b51c95dcad7d)
+* 🇯🇵 Japanese: [ハーベストおさらい＃3／2022年1月](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-3-2022%E5%B9%B41%E6%9C%88-634b6e56cddf)
+* 🇰🇷 Korean: [Harvest Recap: #3 | January 2022](https://medium.com/@Leviathan\_Harvest/harvest-%EA%B0%9C%EC%9A%94-3-2022%EB%85%84-1%EC%9B%94-ed835db96ab5)
+* 🇵🇹 Portuguese:[ ](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-da-harvest-3-janeiro-de-2022-af182c7120e8)[Recapitulação da Harvest #3 | Janeiro de 2022](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-da-harvest-3-janeiro-de-2022-af182c7120e8)
+* 🇪🇸 Spanish: [Resumen de Harvest #3 | Enero 2022](https://c3h.medium.com/resumen-de-harvest-3-enero-2022-459490b5fee0)
+* 🇹🇼 Traditional Chinese:&#x20;
+* 🇹🇷 Turkish: [Harvest Özet #3 | Ocak 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-3-ocak-2022-e80072705cb5)
+
+### [Launching $PSP-$MATIC Vault Powered by Quickswap & Polygon](https://medium.com/harvest-finance/launching-psp-matic-vault-powered-by-quickswap-polygon-cf547946e1b4)
+
+* 🇫🇷 French: [Lancement du coffre $PSP-$MATIC propulsé par Quickswap & Polygon](https://bob-duval.medium.com/lancement-du-coffre-psp-matic-propuls%C3%A9-par-quickswap-polygon-a266dd0c90b2)
+* 🇮🇹 Italian: [Lancio della pool $PSP-$MATIC offerta da Quickswap & Polygon](https://coirof.medium.com/lancio-della-pool-psp-matic-offerta-da-quickswap-polygon-8a74abc4b5ea)
+* 🇯🇵 Japanese: [$PSP-$MATICヴァルトがQuickswapとPolygonから発足](https://miwa-wv.medium.com/psp-matic%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88%E3%81%8Cquickswap%E3%81%A8polygon%E3%81%8B%E3%82%89%E7%99%BA%E8%B6%B3-b1ca86b7164c)
+* 🇰🇷 Korean: [퀵스왑(Quickswap)과 폴리곤(Polygon) 기반의 $PSP-$MATIC 볼트 오픈](https://medium.com/@Leviathan\_Harvest/quickswap%EA%B3%BC-polygon%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EB%8F%99%ED%95%98%EB%8A%94-psp-matic-%EB%B3%BC%ED%8A%B8-%EC%98%A4%ED%94%88-79fb5223e357)
+* 🇵🇹 Portuguese: [Launching $PSP-$MATIC Vault Powered by Quickswap & Polygon](https://medium.com/@Blue\_Poison/lan%C3%A7amento-do-vault-psp-matic-desenvolvido-por-quickswap-polygon-b4c107eaee82)
+* 🇪🇸 Spanish: [Presentando la Bóveda $PSP-$MATIC Potenciada por Quickswap & Polygon](https://c3h.medium.com/presentando-la-b%C3%B3veda-psp-matic-potenciada-por-quickswap-polygon-72c9c821e8f8)
+* 🇹🇼 Traditional Chinese: [啟動由 Quickswap & Polygon 所支持 $PSP-$MATIC 資金庫](https://harvestfinance-tw.medium.com/%E5%95%9F%E5%8B%95%E7%94%B1-quickswap-polygon-%E6%89%80%E6%94%AF%E6%8C%81-psp-matic-%E8%B3%87%E9%87%91%E5%BA%AB-1d8284a81cce)
+* 🇹🇷 Turkish: [Quickswap ve Polygon Tarafından Desteklenen $PSP-$MATIC Kasası Başlatılıyor](https://harvestfiturkce.medium.com/quickswap-ve-polygon-taraf%C4%B1ndan-desteklenen-psp-matic-kasas%C4%B1-ba%C5%9Flat%C4%B1l%C4%B1yor-28a44a3d4991)
+* Serbian: [Pokretanje $PSP-$MATIC trezora Powered by Quickswap & Poligon](https://medium.com/@krompir12422/pokretanje-psp-matic-trezora-powered-by-quickswap-poligon-f0457db64d12)
+* Indonesian: [Meluncurkan Vault $PSP-$MATIC yang dibantu oleh Quickswap & Polygon](https://gamewatch21.medium.com/meluncurkan-vault-psp-matic-yang-dibantu-oleh-quickswap-polygon-51a7c737b2be)
+
 ### [Harvest Recap #2 | January 2022](https://medium.com/harvest-finance/harvest-recap-2-january-2022-20197dff929e) <a href="#8449" id="8449"></a>
 
 * 🇫🇷 French: [Récapitulatif Harvest : #2 | Janvier 2022](https://bob-duval.medium.com/r%C3%A9capitulatif-harvest-2-janvier-2022-4f44380dbb85)
@@ -17,6 +41,8 @@ description: >-
 * 🇪🇸 Spanish: [Resumen de Harvest #2 | Enero 2022](https://c3h.medium.com/resumen-de-harvest-2-enero-2022-e1e71051d112)
 * 🇹🇼 Traditional Chinese: [Harvest 回顧 #2 | 2022 年 一 月](https://harvestfinance-tw.medium.com/harvest-%E5%9B%9E%E9%A1%A7-2-2022-%E5%B9%B4-%E4%B8%80-%E6%9C%88-bf90e4d80c89)
 * 🇹🇷 Turkish: [Harvest Özet #2 | Ocak 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-2-ocak-2022-c5bb9056d892)
+* Indonesian: [Rekap Harvest #2 | Januari 2022](https://gamewatch21.medium.com/rekap-harvest-2-januari-2022-b8af685566a8)
+* Serbian: [Harvest Recap #2 | Januar 2022](https://medium.com/@krompir12422/harvest-recap-2-januar-2022-bae95ea605f3)
 
 ### [Harvest Launches Auto-Compounding Vault for $LOOKS](https://medium.com/harvest-finance/harvest-launches-auto-compounding-vault-for-looks-48dc2c958828) <a href="#7b39" id="7b39"></a>
 
@@ -29,6 +55,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [Harvest 啟動 $LOOKS 自動複合資金庫](https://harvestfinance-tw.medium.com/harvest-%E5%95%9F%E5%8B%95-looks-%E8%87%AA%E5%8B%95%E8%A4%87%E5%90%88%E8%B3%87%E9%87%91%E5%BA%AB-fcdf66eac267)
 * 🇹🇷 Turkish: [Harvest $LOOKS için Otomatik-Birleştirme Kasasını Başlattı](official-announcements.md#harvest-recap-1-or-january-2022-1)
 * Serbian: [Harvest pokreće trezor sa automatskim kompaundiranjem za $LOOKS](https://medium.com/@krompir12422/harvest-pokre%C4%87e-trezor-sa-automatskim-kompaundiranjem-za-looks-9c100783834)
+* Indonesian: [Harvest Meluncurkan Vault Auto-Compounding untuk $LOOKS](https://gamewatch21.medium.com/harvest-meluncurkan-vault-auto-compounding-untuk-looks-8be87a6c0761)
 
 ### [Harvest Recap: #1 | January 2022](https://medium.com/harvest-finance/harvest-recap-1-january-2022-abcb41ddeb82)
 
