@@ -15,8 +15,9 @@ description: >-
 * 🇰🇷 Korean: [Harvest Recap: #3 | January 2022](https://medium.com/@Leviathan\_Harvest/harvest-%EA%B0%9C%EC%9A%94-3-2022%EB%85%84-1%EC%9B%94-ed835db96ab5)
 * 🇵🇹 Portuguese:[ ](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-da-harvest-3-janeiro-de-2022-af182c7120e8)[Recapitulação da Harvest #3 | Janeiro de 2022](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-da-harvest-3-janeiro-de-2022-af182c7120e8)
 * 🇪🇸 Spanish: [Resumen de Harvest #3 | Enero 2022](https://c3h.medium.com/resumen-de-harvest-3-enero-2022-459490b5fee0)
-* 🇹🇼 Traditional Chinese:&#x20;
+* 🇹🇼 Traditional Chinese: [Harvest 回顧 #3 | 2022年一月](https://harvestfinance-tw.medium.com/harvest-%E5%9B%9E%E9%A1%A7-3-2022%E5%B9%B4%E4%B8%80%E6%9C%88-305235e46131)
 * 🇹🇷 Turkish: [Harvest Özet #3 | Ocak 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-3-ocak-2022-e80072705cb5)
+* Indonesian: [Rekap Harvest #3 | Januari 2022](https://gamewatch21.medium.com/rekap-harvest-3-januari-2022-3de4fea1357)
 
 ### [Launching $PSP-$MATIC Vault Powered by Quickswap & Polygon](https://medium.com/harvest-finance/launching-psp-matic-vault-powered-by-quickswap-polygon-cf547946e1b4)
 
