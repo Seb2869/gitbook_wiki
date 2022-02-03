@@ -7,6 +7,41 @@ description: >-
 
 # Official announcements
 
+### [Claim Your Vested $FARM](https://medium.com/harvest-finance/claim-your-vested-farm-9e7a8f3ee942) <a href="#ed51" id="ed51"></a>
+
+* 🇫🇷 French:&#x20;
+* 🇮🇹 Italian:&#x20;
+* 🇯🇵 Japanese:&#x20;
+* 🇰🇷 Korean:&#x20;
+* 🇵🇹 Portuguese:&#x20;
+* 🇪🇸 Spanish:
+* 🇹🇼 Traditional Chinese:
+* 🇹🇷 Turkish:
+
+### [Launching $ORC — $ETH Vault ft. Orbit Chain](https://medium.com/harvest-finance/launching-orc-eth-vault-ft-orbit-chain-5afd9041732c) <a href="#b130" id="b130"></a>
+
+* 🇫🇷 French:&#x20;
+* 🇮🇹 Italian:&#x20;
+* 🇯🇵 Japanese:&#x20;
+* 🇰🇷 Korean:&#x20;
+* 🇵🇹 Portuguese: [Lançamento Vault $ORC – $ETH com Orbit Chain](https://medium.com/@Blue\_Poison/lan%C3%A7amento-vault-orc-eth-com-orbit-chain-3a0c61aed2d5)
+* 🇪🇸 Spanish:
+* 🇹🇼 Traditional Chinese:
+* 🇹🇷 Turkish:
+
+### [Harvest Recap: #4 | January 2022](https://medium.com/harvest-finance/recap-4-january-2022-27209d63c2c4)
+
+* 🇫🇷 French: [Récapitulatif Harvest : #4 | Janvier 2022](https://bob-duval.medium.com/r%C3%A9capitulatif-harvest-4-janvier-2022-4dbd49094192)
+* 🇮🇹 Italian: [Riepilogo Harvest n. 4 | Gennaio 2022](https://coirof.medium.com/riepilogo-harvest-n-4-gennaio-2022-e813edc6bf48)
+* 🇯🇵 Japanese: [おさらい#4ー2022年1月](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-4%E3%83%BC2022%E5%B9%B41%E6%9C%88-1866fac7bb7)
+* 🇰🇷 Korean: [개요 #4–2022년 1월](https://medium.com/@Leviathan\_Harvest/recap-4-january-2022-413520924d01)
+* 🇵🇹 Portuguese: [Recapitulação #4 – janeiro de 2022](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-4-janeiro-de-2022-8cf3fd2fdb84)
+* 🇪🇸 Spanish: [Resumen de Harvest #4 | Enero 2022](https://c3h.medium.com/resumen-de-harvest-4-enero-2022-452aa3f30a60)
+* 🇹🇼 Traditional Chinese: [Harvest 回顧 #4 | 2022年一月](https://harvestfinance-tw.medium.com/harvest-%E5%9B%9E%E9%A1%A7-4-2022%E5%B9%B4%E4%B8%80%E6%9C%88-e3cf024f15a1)
+* 🇹🇷 Turkish: [Harvest Özet # 4 — Ocak 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-4-ocak-2022-5a534336ed8f)
+* Serbian: [Recap #4 — Januar 2022](https://medium.com/@krompir12422/recap-4-januar-2022-75dd7f6a7856)
+* Indonesian: [Rekap #4 — Januari 2022](https://gamewatch21.medium.com/rekap-4-januari-2022-76d4523ca896)
+
 ### [Harvest Recap: #3 | January 2022](https://medium.com/harvest-finance/harvest-recap-3-january-2022-944ce198c7df)
 
 * 🇫🇷 French: [Récapitulatif Harvest : #3 | Janvier 2022](https://bob-duval.medium.com/r%C3%A9capitulatif-harvest-3-janvier-2022-2893802f0ae7)
@@ -18,6 +53,7 @@ description: >-
 * 🇹🇼 Traditional Chinese: [Harvest 回顧 #3 | 2022年一月](https://harvestfinance-tw.medium.com/harvest-%E5%9B%9E%E9%A1%A7-3-2022%E5%B9%B4%E4%B8%80%E6%9C%88-305235e46131)
 * 🇹🇷 Turkish: [Harvest Özet #3 | Ocak 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-3-ocak-2022-e80072705cb5)
 * Indonesian: [Rekap Harvest #3 | Januari 2022](https://gamewatch21.medium.com/rekap-harvest-3-januari-2022-3de4fea1357)
+* Serbian: [Harvest Recap #3 | Januar 2022](https://medium.com/@krompir12422/harvest-recap-3-januar-2022-17cc1ba259a6)
 
 ### [Launching $PSP-$MATIC Vault Powered by Quickswap & Polygon](https://medium.com/harvest-finance/launching-psp-matic-vault-powered-by-quickswap-polygon-cf547946e1b4)
 
