@@ -7,27 +7,40 @@ description: >-
 
 # Official announcements
 
-### [Claim Your Vested $FARM](https://medium.com/harvest-finance/claim-your-vested-farm-9e7a8f3ee942) <a href="#ed51" id="ed51"></a>
+### ****[**Harvest Recap: #5 | January 2022**](https://medium.com/harvest-finance/recap-5-february-2022-a8fe72b6d9eb)****
 
 * 🇫🇷 French:&#x20;
-* 🇮🇹 Italian:&#x20;
-* 🇯🇵 Japanese:&#x20;
-* 🇰🇷 Korean:&#x20;
-* 🇵🇹 Portuguese:&#x20;
-* 🇪🇸 Spanish:
-* 🇹🇼 Traditional Chinese:
-* 🇹🇷 Turkish:
+* 🇮🇹 Italian: [Riepilogo Harvest n. 5 | Febbraio 2022](https://coirof.medium.com/riepilogo-harvest-n-5-febbraio-2022-c1f0e8611da9)
+* 🇯🇵 Japanese: [おさらい＃5ー2022年2月](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-5%E3%83%BC2022%E5%B9%B42%E6%9C%88-822a1697973)
+* 🇰🇷 Korean: [개요 #5–2022년 2월](https://medium.com/@Leviathan\_Harvest/%EA%B0%9C%EC%9A%94-5-2022%EB%85%84-2%EC%9B%94-1c97c49ad186)
+* 🇵🇹 Portuguese: [Recapitulação 5 – fevereiro de 2022](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-5-fevereiro-de-2022-8145bed16549)
+* 🇪🇸 Spanish:&#x20;
+* 🇹🇼 Traditional Chinese:&#x20;
+* 🇹🇷 Turkish: **** [Harvest Özet # 5 — Şubat 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-5-%C5%9Fubat-2022-851000cfff99)
+
+### [Claim Your Vested $FARM](https://medium.com/harvest-finance/claim-your-vested-farm-9e7a8f3ee942) <a href="#ed51" id="ed51"></a>
+
+* 🇫🇷 French: [Réclamez vos $FARM acquis](https://bob-duval.medium.com/r%C3%A9clamez-vos-farm-acquis-f94224933a73)
+* 🇮🇹 Italian: [Richiedi i tuoi $FARM maturati](https://coirof.medium.com/richiedi-i-tuoi-farm-maturati-287b0508e92b)
+* 🇯🇵 Japanese: [付与$FARMを要求する](https://miwa-wv.medium.com/%E4%BB%98%E4%B8%8E-farm%E3%82%92%E8%A6%81%E6%B1%82%E3%81%99%E3%82%8B-91b7893ec366)
+* 🇰🇷 Korean: [$FARM 리워드 수령을 요청하세요!](https://medium.com/@Leviathan\_Harvest/farm-%EC%97%B0%EA%B8%88-%EC%88%98%EB%A0%B9%EC%9D%84-%EC%9A%94%EC%B2%AD%ED%95%98%EC%84%B8%EC%9A%94-83ba6fc7f8f3)
+* 🇵🇹 Portuguese: [Reivindique seu $FARM adquirido](https://medium.com/@Blue\_Poison/reivindique-seu-farm-adquirido-4124037d27c1)
+* 🇪🇸 Spanish: [Reclame su $FARM adquirido](https://c3h.medium.com/reclame-su-farm-adquirido-e90fa00f513e)
+* 🇹🇼 Traditional Chinese: [領取您既得的 $FARM](https://harvestfinance-tw.medium.com/%E9%A0%98%E5%8F%96%E6%82%A8%E6%97%A2%E5%BE%97%E7%9A%84-farm-bee67ea4f265)
+* 🇹🇷 Turkish: **** [Kazanılmış $FARM’ınızı Talep Edin](https://harvestfiturkce.medium.com/kazan%C4%B1lm%C4%B1%C5%9F-farm%C4%B1n%C4%B1z%C4%B1-talep-edin-b7df1bd4c307)
+* Indonesian: [Klaim $FARM pribadi anda](https://gamewatch21.medium.com/klaim-farm-pribadi-anda-542bf88061d9)
 
 ### [Launching $ORC — $ETH Vault ft. Orbit Chain](https://medium.com/harvest-finance/launching-orc-eth-vault-ft-orbit-chain-5afd9041732c) <a href="#b130" id="b130"></a>
 
-* 🇫🇷 French:&#x20;
-* 🇮🇹 Italian:&#x20;
-* 🇯🇵 Japanese:&#x20;
-* 🇰🇷 Korean:&#x20;
+* 🇫🇷 French: [Lancement du coffre $ORC — $ETH avec Orbit Chain](https://bob-duval.medium.com/lancement-du-coffre-orc-eth-avec-orbit-chain-b2a560f4b294)
+* 🇮🇹 Italian: [Lancio della pool $ORC — $ETH di Orbit Chain](https://coirof.medium.com/lancio-della-pool-orc-eth-di-orbit-chain-de6418d537f1)
+* 🇯🇵 Japanese: [$ORC発足ーOrbit Chainの$ETHヴァルト](https://miwa-wv.medium.com/orc%E7%99%BA%E8%B6%B3%E3%83%BCorbit-chain%E3%81%AE-eth%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88-3a3c6d968516)
+* 🇰🇷 Korean: [오르빗 체인과의 협업으로 $ORC — $ETH 볼트 오픈](https://medium.com/@Leviathan\_Harvest/orbit-chain%EA%B3%BC%EC%9D%98-%ED%98%91%EC%97%85%EC%9C%BC%EB%A1%9C-orc-eth-%EB%B3%BC%ED%8A%B8-%EC%98%A4%ED%94%88-79f84f66123a)
 * 🇵🇹 Portuguese: [Lançamento Vault $ORC – $ETH com Orbit Chain](https://medium.com/@Blue\_Poison/lan%C3%A7amento-vault-orc-eth-com-orbit-chain-3a0c61aed2d5)
-* 🇪🇸 Spanish:
-* 🇹🇼 Traditional Chinese:
-* 🇹🇷 Turkish:
+* 🇪🇸 Spanish: [Lanzamiento de la Bóveda $ORC — $ETH en colaboración con Orbit Chain](https://c3h.medium.com/lanzamiento-de-la-b%C3%B3veda-orc-eth-en-colaboraci%C3%B3n-con-orbit-chain-6f1559da1d01)
+* 🇹🇼 Traditional Chinese: [與 Orbit Chain 合作啟動 $ORC — $ETH 資金庫](https://harvestfinance-tw.medium.com/%E8%88%87-orbit-chain-%E5%90%88%E4%BD%9C%E5%95%9F%E5%8B%95-orc-eth-%E8%B3%87%E9%87%91%E5%BA%AB-12664542122)
+* 🇹🇷 Turkish: [$ORC — $ETH Kasaı ft. Orbit Chain Başlatılıyor](https://harvestfiturkce.medium.com/orc-eth-kasa%C4%B1-ft-orbit-chain-ba%C5%9Flat%C4%B1l%C4%B1yor-9305717086d9)
+* Indonesian: [Meluncurkan Vault $ORC — $ETH ft. Orbit Chain](https://gamewatch21.medium.com/meluncurkan-vault-orc-eth-ft-orbit-chain-38bdd47a8804)
 
 ### [Harvest Recap: #4 | January 2022](https://medium.com/harvest-finance/recap-4-january-2022-27209d63c2c4)
 
