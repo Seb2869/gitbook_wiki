@@ -9,14 +9,15 @@ description: >-
 
 ### ****[**Harvest Recap: #5 | January 2022**](https://medium.com/harvest-finance/recap-5-february-2022-a8fe72b6d9eb)****
 
-* 🇫🇷 French:&#x20;
+* 🇫🇷 French: [Récapitulatif Harvest : #5 | Février 2022](https://bob-duval.medium.com/r%C3%A9capitulatif-harvest-5-f%C3%A9vrier-2022-2665f8a43425)
 * 🇮🇹 Italian: [Riepilogo Harvest n. 5 | Febbraio 2022](https://coirof.medium.com/riepilogo-harvest-n-5-febbraio-2022-c1f0e8611da9)
 * 🇯🇵 Japanese: [おさらい＃5ー2022年2月](https://miwa-wv.medium.com/%E3%81%8A%E3%81%95%E3%82%89%E3%81%84-5%E3%83%BC2022%E5%B9%B42%E6%9C%88-822a1697973)
 * 🇰🇷 Korean: [개요 #5–2022년 2월](https://medium.com/@Leviathan\_Harvest/%EA%B0%9C%EC%9A%94-5-2022%EB%85%84-2%EC%9B%94-1c97c49ad186)
 * 🇵🇹 Portuguese: [Recapitulação 5 – fevereiro de 2022](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-5-fevereiro-de-2022-8145bed16549)
-* 🇪🇸 Spanish:&#x20;
+* 🇪🇸 Spanish: [Resumen de Harvest #5 — Febrero 2022](https://c3h.medium.com/resumen-5-febrero-2022-872ab33d2ee4)
 * 🇹🇼 Traditional Chinese:&#x20;
 * 🇹🇷 Turkish: **** [Harvest Özet # 5 — Şubat 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-5-%C5%9Fubat-2022-851000cfff99)
+* Indonesian: [Rekap #5 — Februari 2022](https://gamewatch21.medium.com/rekap-5-februari-2022-c889ec3ae2ec)
 
 ### [Claim Your Vested $FARM](https://medium.com/harvest-finance/claim-your-vested-farm-9e7a8f3ee942) <a href="#ed51" id="ed51"></a>
 
