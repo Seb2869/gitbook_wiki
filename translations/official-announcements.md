@@ -18,6 +18,7 @@ description: >-
 * 🇹🇼 Traditional Chinese:&#x20;
 * 🇹🇷 Turkish: **** [Harvest Özet # 5 — Şubat 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-5-%C5%9Fubat-2022-851000cfff99)
 * Indonesian: [Rekap #5 — Februari 2022](https://gamewatch21.medium.com/rekap-5-februari-2022-c889ec3ae2ec)
+* Serbian: [Recap #5 — Februar 2022](https://medium.com/@krompir12422/recap-5-februar-2022-d26f7df3666f)
 
 ### [Claim Your Vested $FARM](https://medium.com/harvest-finance/claim-your-vested-farm-9e7a8f3ee942) <a href="#ed51" id="ed51"></a>
 
