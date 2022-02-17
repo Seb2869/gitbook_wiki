@@ -15,7 +15,7 @@ description: >-
 * 🇰🇷 Korean: [개요 #5–2022년 2월](https://medium.com/@Leviathan\_Harvest/%EA%B0%9C%EC%9A%94-5-2022%EB%85%84-2%EC%9B%94-1c97c49ad186)
 * 🇵🇹 Portuguese: [Recapitulação 5 – fevereiro de 2022](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-5-fevereiro-de-2022-8145bed16549)
 * 🇪🇸 Spanish: [Resumen de Harvest #5 — Febrero 2022](https://c3h.medium.com/resumen-5-febrero-2022-872ab33d2ee4)
-* 🇹🇼 Traditional Chinese:&#x20;
+* 🇹🇼 Traditional Chinese: [Harvest 回顧 #5 | 2022 年 二月](https://harvestfinance-tw.medium.com/harvest-%E5%9B%9E%E9%A1%A7-5-2022-%E5%B9%B4-%E4%BA%8C%E6%9C%88-eb379785fe8e)
 * 🇹🇷 Turkish: **** [Harvest Özet # 5 — Şubat 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-5-%C5%9Fubat-2022-851000cfff99)
 * Indonesian: [Rekap #5 — Februari 2022](https://gamewatch21.medium.com/rekap-5-februari-2022-c889ec3ae2ec)
 * Serbian: [Recap #5 — Februar 2022](https://medium.com/@krompir12422/recap-5-februar-2022-d26f7df3666f)
