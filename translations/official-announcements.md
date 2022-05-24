@@ -12,8 +12,7 @@ description: >-
 * 🇫🇷 French: [Harvest 3: Un nouveau départ](https://bob-duval.medium.com/harvest-3-un-nouveau-d%C3%A9part-f6107256a44)
 * 🇮🇹 Italian: [Harvest 3: il nuovo inizio](https://coirof.medium.com/harvest-3-il-nuovo-inizio-228efd335195)
 * 🇯🇵 Japanese: [ハーベスト３：新たな始まり](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%EF%BC%93-%E6%96%B0%E3%81%9F%E3%81%AA%E5%A7%8B%E3%81%BE%E3%82%8A-f3d94f2f3f2d)
-* 🇰🇷 Korean:&#x20;
-* 🇵🇹 Portuguese:&#x20;
+* 🇰🇷 Korean: [하베스트 3 : 새로운 시작](https://medium.com/@Leviathan\_Harvest/%ED%95%98%EB%B2%A0%EC%8A%A4%ED%8A%B8-3-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EC%9E%91-37e4dcc1b31a)
 * 🇪🇸 Spanish: [Harvest 3: Un Nuevo Comienzo](https://c3h.medium.com/harvest-3-un-nuevo-comienzo-2f4bdaf1eb3b)
 * 🇹🇼 Traditional Chinese:&#x20;
 * 🇹🇷 Turkish: **** [Harvest 3: Yeni Başlangıç](https://harvestfiturkce.medium.com/harvest-3-yeni-ba%C5%9Flang%C4%B1%C3%A7-70f20e47f9de)
