@@ -7,6 +7,16 @@ description: >-
 
 # Official announcements
 
+### [Harvest Expands to Arbitrum, Launching Beta Dapp ft. Dolomite](https://medium.com/harvest-finance/harvest-expands-to-arbitrum-launching-beta-dapp-ft-dolomite-25790d88182c) <a href="#d7ff" id="d7ff"></a>
+
+* 🇫🇷 French: [Harvest s’étend vers Arbitrum, Lancement de la Dapp en Beta avec Dolomite](https://bob-duval.medium.com/harvest-s%C3%A9tend-vers-arbitrum-lancement-de-la-dapp-en-beta-avec-dolomite-49bc4a176fa)
+* 🇮🇹 Italian: [Harvest si espande su Arbitrum, lancio della Dapp Beta con Dolomite](https://coirof.medium.com/harvest-si-espande-su-arbitrum-lancio-della-dapp-beta-con-dolomite-2f3cf09d6b72)
+* 🇯🇵 Japanese:&#x20;
+* 🇰🇷 Korean: [하베스트가 Arbitrum으로 확장되어 베타 Dapp을 개시합니다. ft. Dolomite](https://medium.com/@Leviathan\_Harvest/%ED%95%98%EB%B2%A0%EC%8A%A4%ED%8A%B8%EA%B0%80-arbitrum%EC%9C%BC%EB%A1%9C-%ED%99%95%EC%9E%A5%EB%90%98%EC%96%B4-%EB%B2%A0%ED%83%80-dapp%EC%9D%84-%EA%B0%9C%EC%8B%9C%ED%95%A9%EB%8B%88%EB%8B%A4-ft-dolomite-653a05c05f06)
+* 🇪🇸 Spanish:
+* 🇹🇼 Traditional Chinese:&#x20;
+* 🇹🇷 Turkish: [Harvest, Arbitrum’a Genişleyerek Beta Dapp ft. Dolomite’ı Başlattı](https://harvestfiturkce.medium.com/harvest-arbitruma-geni%C5%9Fleyerek-beta-dapp-ft-dolomite-%C4%B1-ba%C5%9Flatt%C4%B1-1117690f3136)
+
 ### [Harvest 3: The New Beginning](https://medium.com/harvest-finance/harvest-3-the-new-beginning-55b7e28d878e) <a href="#90e9" id="90e9"></a>
 
 * 🇫🇷 French: [Harvest 3: Un nouveau départ](https://bob-duval.medium.com/harvest-3-un-nouveau-d%C3%A9part-f6107256a44)
@@ -14,7 +24,7 @@ description: >-
 * 🇯🇵 Japanese: [ハーベスト３：新たな始まり](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%EF%BC%93-%E6%96%B0%E3%81%9F%E3%81%AA%E5%A7%8B%E3%81%BE%E3%82%8A-f3d94f2f3f2d)
 * 🇰🇷 Korean: [하베스트 3 : 새로운 시작](https://medium.com/@Leviathan\_Harvest/%ED%95%98%EB%B2%A0%EC%8A%A4%ED%8A%B8-3-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EC%9E%91-37e4dcc1b31a)
 * 🇪🇸 Spanish: [Harvest 3: Un Nuevo Comienzo](https://c3h.medium.com/harvest-3-un-nuevo-comienzo-2f4bdaf1eb3b)
-* 🇹🇼 Traditional Chinese:&#x20;
+* 🇹🇼 Traditional Chinese: [Harvest 3: 新的開始](https://harvestfinance-tw.medium.com/harvest-3-%E6%96%B0%E7%9A%84%E9%96%8B%E5%A7%8B-5c2ff1fd3d8c)
 * 🇹🇷 Turkish: **** [Harvest 3: Yeni Başlangıç](https://harvestfiturkce.medium.com/harvest-3-yeni-ba%C5%9Flang%C4%B1%C3%A7-70f20e47f9de)
 
 ### ****[**Harvest Recap: #5 | January 2022**](https://medium.com/harvest-finance/recap-5-february-2022-a8fe72b6d9eb)****
