@@ -7,6 +7,16 @@ description: >-
 
 # Official announcements
 
+### [Harvest x Llama: Open DAO Books](https://medium.com/harvest-finance/harvest-x-llama-open-dao-books-2703a1d4d3f9) <a href="#b4b4" id="b4b4"></a>
+
+* 🇫🇷 French:&#x20;
+* 🇮🇹 Italian:&#x20;
+* 🇯🇵 Japanese:&#x20;
+* 🇰🇷 Korean: [Harvest x Llama: DAO Books 오픈](https://medium.com/@Leviathan\_Harvest/harvest-x-llama-dao-books-%EC%98%A4%ED%94%88-e009b5ad681)
+* 🇪🇸 Spanish:
+* 🇹🇼 Traditional Chinese:&#x20;
+* 🇹🇷 Turkish:&#x20;
+
 ### [Harvest Expands to Arbitrum, Launching Beta Dapp ft. Dolomite](https://medium.com/harvest-finance/harvest-expands-to-arbitrum-launching-beta-dapp-ft-dolomite-25790d88182c) <a href="#d7ff" id="d7ff"></a>
 
 * 🇫🇷 French: [Harvest s’étend vers Arbitrum, Lancement de la Dapp en Beta avec Dolomite](https://bob-duval.medium.com/harvest-s%C3%A9tend-vers-arbitrum-lancement-de-la-dapp-en-beta-avec-dolomite-49bc4a176fa)
