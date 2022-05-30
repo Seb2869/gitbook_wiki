@@ -13,6 +13,7 @@ description: >-
 * 🇮🇹 Italian: [Harvest x Llama: apriamo i libri del DAO](https://coirof.medium.com/harvest-x-llama-apriamo-i-libri-del-dao-bc4dff42428)
 * 🇯🇵 Japanese: [ハーベストｘLlama：オープンDAOブック](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%EF%BD%98llama-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3dao%E3%83%96%E3%83%83%E3%82%AF-e61fc2c9b77a)
 * 🇰🇷 Korean: [Harvest x Llama: DAO Books 오픈](https://medium.com/@Leviathan\_Harvest/harvest-x-llama-dao-books-%EC%98%A4%ED%94%88-e009b5ad681)
+* 🇵🇹 Portuguese: [Harvest e Lhama: Abra os livros DAO](https://medium.com/@Blue\_Poison/harvest-e-lhama-abra-os-livros-dao-26e54686bcc)
 * 🇪🇸 Spanish: [Harvest y Llama: Libros de DAO Abiertos](https://c3h.medium.com/harvest-y-llama-libros-de-dao-abiertos-e761ba5f8571)
 * 🇹🇼 Traditional Chinese: [Harvest x Llama: 開放式去中心化自治組織使用手冊](https://harvestfinance-tw.medium.com/harvest-x-llama-%E9%96%8B%E6%94%BE%E5%BC%8F%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A-cd4491f59ccc)
 * 🇹🇷 Turkish: [Harvest x Llama: Açık DAO Kitapları](https://harvestfiturkce.medium.com/harvest-x-llama-a%C3%A7%C4%B1k-dao-kitaplar%C4%B1-c7ca31e9a9ea)
@@ -23,6 +24,7 @@ description: >-
 * 🇮🇹 Italian: [Harvest si espande su Arbitrum, lancio della Dapp Beta con Dolomite](https://coirof.medium.com/harvest-si-espande-su-arbitrum-lancio-della-dapp-beta-con-dolomite-2f3cf09d6b72)
 * 🇯🇵 Japanese:&#x20;
 * 🇰🇷 Korean: [하베스트가 Arbitrum으로 확장되어 베타 Dapp을 개시합니다. ft. Dolomite](https://medium.com/@Leviathan\_Harvest/%ED%95%98%EB%B2%A0%EC%8A%A4%ED%8A%B8%EA%B0%80-arbitrum%EC%9C%BC%EB%A1%9C-%ED%99%95%EC%9E%A5%EB%90%98%EC%96%B4-%EB%B2%A0%ED%83%80-dapp%EC%9D%84-%EA%B0%9C%EC%8B%9C%ED%95%A9%EB%8B%88%EB%8B%A4-ft-dolomite-653a05c05f06)
+* 🇵🇹 Portuguese: [Harvest Expande para o Arbitrum, Lançamento da Beta Dapp com Dolomite](https://medium.com/@Blue\_Poison/harvest-expande-para-o-arbitrum-lan%C3%A7amento-da-beta-dapp-com-dolomite-a2fab1d31ed9)
 * 🇪🇸 Spanish: [Harvest se expande a Arbitrum, lanzando la Dapp Beta en colaboración con Dolomite](https://c3h.medium.com/harvest-se-expande-a-arbitrum-lanzando-la-dapp-beta-en-colaboraci%C3%B3n-con-dolomite-8e851568a1dd)
 * 🇹🇼 Traditional Chinese:&#x20;
 * 🇹🇷 Turkish: [Harvest, Arbitrum’a Genişleyerek Beta Dapp ft. Dolomite’ı Başlattı](https://harvestfiturkce.medium.com/harvest-arbitruma-geni%C5%9Fleyerek-beta-dapp-ft-dolomite-%C4%B1-ba%C5%9Flatt%C4%B1-1117690f3136)
@@ -33,6 +35,7 @@ description: >-
 * 🇮🇹 Italian: [Harvest 3: il nuovo inizio](https://coirof.medium.com/harvest-3-il-nuovo-inizio-228efd335195)
 * 🇯🇵 Japanese: [ハーベスト３：新たな始まり](https://miwa-wv.medium.com/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%EF%BC%93-%E6%96%B0%E3%81%9F%E3%81%AA%E5%A7%8B%E3%81%BE%E3%82%8A-f3d94f2f3f2d)
 * 🇰🇷 Korean: [하베스트 3 : 새로운 시작](https://medium.com/@Leviathan\_Harvest/%ED%95%98%EB%B2%A0%EC%8A%A4%ED%8A%B8-3-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EC%9E%91-37e4dcc1b31a)
+* 🇵🇹 Portuguese: [Harvest 3: O Novo Recomeço](https://medium.com/@Blue\_Poison/harvest-3-o-novo-recome%C3%A7o-c14afef35f03)
 * 🇪🇸 Spanish: [Harvest 3: Un Nuevo Comienzo](https://c3h.medium.com/harvest-3-un-nuevo-comienzo-2f4bdaf1eb3b)
 * 🇹🇼 Traditional Chinese: [Harvest 3: 新的開始](https://harvestfinance-tw.medium.com/harvest-3-%E6%96%B0%E7%9A%84%E9%96%8B%E5%A7%8B-5c2ff1fd3d8c)
 * 🇹🇷 Turkish: **** [Harvest 3: Yeni Başlangıç](https://harvestfiturkce.medium.com/harvest-3-yeni-ba%C5%9Flang%C4%B1%C3%A7-70f20e47f9de)
