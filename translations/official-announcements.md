@@ -9,7 +9,7 @@ description: >-
 
 ### [Harvest x Llama: Open DAO Books](https://medium.com/harvest-finance/harvest-x-llama-open-dao-books-2703a1d4d3f9) <a href="#b4b4" id="b4b4"></a>
 
-* 🇫🇷 French:&#x20;
+* 🇫🇷 French: [Harvest x Llama : Livres ouverts de la DAO](https://bob-duval.medium.com/harvest-x-llama-livres-ouverts-de-la-dao-842ff54e8fbd)
 * 🇮🇹 Italian:&#x20;
 * 🇯🇵 Japanese:&#x20;
 * 🇰🇷 Korean: [Harvest x Llama: DAO Books 오픈](https://medium.com/@Leviathan\_Harvest/harvest-x-llama-dao-books-%EC%98%A4%ED%94%88-e009b5ad681)
