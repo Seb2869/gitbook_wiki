@@ -7,6 +7,17 @@ description: >-
 
 # Official announcements
 
+### [Earn FARM by Completing Quests](https://medium.com/harvest-finance/earn-farm-by-completing-quests-e0dca2dc11d3) <a href="#9dba" id="9dba"></a>
+
+* 🇫🇷 French: [Gagnez des FARM en complétant ces quêtes](https://bob-duval.medium.com/gagnez-des-farm-en-compl%C3%A9tant-ces-qu%C3%AAtes-332584daf68e)
+* 🇮🇹 Italian: [Guadagna FARM completando missioni](https://coirof.medium.com/guadagna-farm-completando-missioni-cf2fe7bcd424)
+* 🇯🇵 Japanese: [クエストでFARMを稼ぐ](https://miwa-wv.medium.com/%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%A7farm%E3%82%92%E7%A8%BC%E3%81%90-36c91d9230e1)
+* 🇰🇷 Korean:&#x20;
+* 🇵🇹 Portuguese: [Obtenha recompensas FARM completando missões](https://medium.com/@Blue\_Poison/obtenha-recompensas-farm-completando-miss%C3%B5es-bdc3c05e0936)
+* 🇪🇸 Spanish: [Gana FARM Completando Misiones](https://c3h.medium.com/gana-farm-completando-misiones-4b3a69c837aa)
+* 🇹🇼 Traditional Chinese: [透過完成任務賺取 FARM](https://harvestfinance-tw.medium.com/%E9%80%8F%E9%81%8E%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8B%99%E8%B3%BA%E5%8F%96-farm-6275a6c1a98)
+* 🇹🇷 Turkish: [Görevleri Tamamla FARM Kazan!](https://harvestfiturkce.medium.com/g%C3%B6revleri-tamamla-farm-kazan-a1e02e54b617)
+
 ### [Harvest x Llama: Open DAO Books](https://medium.com/harvest-finance/harvest-x-llama-open-dao-books-2703a1d4d3f9) <a href="#b4b4" id="b4b4"></a>
 
 * 🇫🇷 French: [Harvest x Llama : Livres ouverts de la DAO](https://bob-duval.medium.com/harvest-x-llama-livres-ouverts-de-la-dao-842ff54e8fbd)
