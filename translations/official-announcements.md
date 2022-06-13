@@ -12,7 +12,7 @@ description: >-
 * 🇫🇷 French: [Gagnez des FARM en complétant ces quêtes](https://bob-duval.medium.com/gagnez-des-farm-en-compl%C3%A9tant-ces-qu%C3%AAtes-332584daf68e)
 * 🇮🇹 Italian: [Guadagna FARM completando missioni](https://coirof.medium.com/guadagna-farm-completando-missioni-cf2fe7bcd424)
 * 🇯🇵 Japanese: [クエストでFARMを稼ぐ](https://miwa-wv.medium.com/%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%A7farm%E3%82%92%E7%A8%BC%E3%81%90-36c91d9230e1)
-* 🇰🇷 Korean:&#x20;
+* 🇰🇷 Korean: [퀘스트를 클리어해서 FARM을 벌어보세요!](https://medium.com/@Leviathan\_Harvest/%ED%80%98%EC%8A%A4%ED%8A%B8%EB%A5%BC-%ED%81%B4%EB%A6%AC%EC%96%B4%ED%95%B4%EC%84%9C-farm%EC%9D%84-%EB%B2%8C%EC%96%B4%EB%B3%B4%EC%84%B8%EC%9A%94-32fd0b2dc3ab)
 * 🇵🇹 Portuguese: [Obtenha recompensas FARM completando missões](https://medium.com/@Blue\_Poison/obtenha-recompensas-farm-completando-miss%C3%B5es-bdc3c05e0936)
 * 🇪🇸 Spanish: [Gana FARM Completando Misiones](https://c3h.medium.com/gana-farm-completando-misiones-4b3a69c837aa)
 * 🇹🇼 Traditional Chinese: [透過完成任務賺取 FARM](https://harvestfinance-tw.medium.com/%E9%80%8F%E9%81%8E%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8B%99%E8%B3%BA%E5%8F%96-farm-6275a6c1a98)
