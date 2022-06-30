@@ -14,6 +14,7 @@ description: >-
 * Traditional Chinese: [如何將資產橋接到 Arbitrum 並將其質押在 Harvest](https://harvestfinance-tw.medium.com/%E5%A6%82%E4%BD%95%E5%B0%87%E8%B3%87%E7%94%A2%E6%A9%8B%E6%8E%A5%E5%88%B0-arbitrum-%E4%B8%A6%E5%B0%87%E5%85%B6%E8%B3%AA%E6%8A%BC%E5%9C%A8-harvest-12b0c7388d0d)
 * Portuguese: [Como fazer a ponte de ativos para a Arbitrum e depositar na Harvest](https://medium.com/@Blue\_Poison/como-fazer-a-ponte-de-ativos-para-a-arbitrum-e-depositar-na-harvest-fd517d4ede9b)
 * Turkish: [Varlıkları Arbitrum’a Köprüleme ve Harvest’ta Stake Etme](https://harvestfiturkce.medium.com/varl%C4%B1klar%C4%B1-arbitruma-k%C3%B6pr%C3%BCleme-ve-harvest-ta-stake-etme-cfff3024d678)
+* Japanese: [Arbitrum へと資産をブリッジし、ハーベストでステイクする方法](https://miwa-wv.medium.com/arbitrum-%E3%81%B8%E3%81%A8%E8%B3%87%E7%94%A3%E3%82%92%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%81%97-%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%81%A7%E3%82%B9%E3%83%86%E3%82%A4%E3%82%AF%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-92ffed1ad140)
 
 ### [\[Infographic\] What is fCASH?](https://yogafire-genuine.medium.com/infographic-what-is-fcash-8c3402311a69) <a href="#744d" id="744d"></a>
 
