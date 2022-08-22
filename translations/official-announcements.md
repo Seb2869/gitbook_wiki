@@ -7,6 +7,17 @@ description: >-
 
 # Official announcements
 
+### [Introducing Notional Finance Farms](https://medium.com/harvest-finance/introducing-notional-finance-farms-c6f2c2f643d7) <a href="#1e49" id="1e49"></a>
+
+* 🇫🇷 French:&#x20;
+* 🇮🇹 Italian:&#x20;
+* 🇯🇵 Japanese: [NotionalFinanceFarmsのご紹介](https://miwa-wv.medium.com/notionalfinancefarms%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B-835fbacaf5c5)
+* 🇰🇷 Korean: [Notional Finance(NOTE) 농장을 소개합니다.](https://medium.com/@Leviathan\_Harvest/notional-finance-note-%EB%86%8D%EC%9E%A5%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-f9345b1b2864)
+* 🇵🇹 Portuguese: [Apresentando Farms Notional Finance](https://medium.com/@Blue\_Poison/apresentando-farms-notional-finance-b3e64cfaca51)
+* 🇪🇸 Spanish: [Presentando las granjas de Notional Finance](https://c3h.medium.com/presentando-las-granjas-de-notional-finance-f28bc0a8ee04)
+* 🇹🇼 Traditional Chinese:&#x20;
+* 🇹🇷 Turkish: [Notional Finance Çiftçiliğine Giriş](https://harvestfiturkce.medium.com/notional-finance-%C3%A7ift%C3%A7ili%C4%9Fine-giri%C5%9F-f156e99c7ecf)
+
 ### [Earn FARM by Completing Quests](https://medium.com/harvest-finance/earn-farm-by-completing-quests-e0dca2dc11d3) <a href="#9dba" id="9dba"></a>
 
 * 🇫🇷 French: [Gagnez des FARM en complétant ces quêtes](https://bob-duval.medium.com/gagnez-des-farm-en-compl%C3%A9tant-ces-qu%C3%AAtes-332584daf68e)
