@@ -15,7 +15,7 @@ description: >-
 * 🇰🇷 Korean: [Notional Finance(NOTE) 농장을 소개합니다.](https://medium.com/@Leviathan\_Harvest/notional-finance-note-%EB%86%8D%EC%9E%A5%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-f9345b1b2864)
 * 🇵🇹 Portuguese: [Apresentando Farms Notional Finance](https://medium.com/@Blue\_Poison/apresentando-farms-notional-finance-b3e64cfaca51)
 * 🇪🇸 Spanish: [Presentando las granjas de Notional Finance](https://c3h.medium.com/presentando-las-granjas-de-notional-finance-f28bc0a8ee04)
-* 🇹🇼 Traditional Chinese:&#x20;
+* 🇹🇼 Traditional Chinese: [介紹 Notional Finance 農場](https://harvestfinance-tw.medium.com/%E4%BB%8B%E7%B4%B9-notional-finance-%E8%BE%B2%E5%A0%B4-8fa9bc720c5a)
 * 🇹🇷 Turkish: [Notional Finance Çiftçiliğine Giriş](https://harvestfiturkce.medium.com/notional-finance-%C3%A7ift%C3%A7ili%C4%9Fine-giri%C5%9F-f156e99c7ecf)
 
 ### [Earn FARM by Completing Quests](https://medium.com/harvest-finance/earn-farm-by-completing-quests-e0dca2dc11d3) <a href="#9dba" id="9dba"></a>
