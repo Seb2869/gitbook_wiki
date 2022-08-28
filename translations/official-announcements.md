@@ -9,7 +9,7 @@ description: >-
 
 ### [Introducing Notional Finance Farms](https://medium.com/harvest-finance/introducing-notional-finance-farms-c6f2c2f643d7) <a href="#1e49" id="1e49"></a>
 
-* 🇫🇷 French:&#x20;
+* 🇫🇷 French: [Présentation des fermes Notional](https://bob-duval.medium.com/pr%C3%A9sentation-des-fermes-notional-6e50064954a2)
 * 🇮🇹 Italian: [Introduzione alle farm di Notional Finance](https://coirof.medium.com/introduzione-alle-farm-di-notional-finance-d01739afaea9)
 * 🇯🇵 Japanese: [NotionalFinanceFarmsのご紹介](https://miwa-wv.medium.com/notionalfinancefarms%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B-835fbacaf5c5)
 * 🇰🇷 Korean: [Notional Finance(NOTE) 농장을 소개합니다.](https://medium.com/@Leviathan\_Harvest/notional-finance-note-%EB%86%8D%EC%9E%A5%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-f9345b1b2864)
