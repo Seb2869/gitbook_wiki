@@ -3,7 +3,7 @@ description: >-
   Harvest Finance is a yield farming protocol that allows users to put their assets
   to work in third party protocols, and automates the compounding process for its users to acheive a true APY%.
 
-**Disclaimer** - By interacting with the Harvest Finance website and/or smart contracts, the user acknowledges the experimental nature of yield farming with Harvest Finance, its dependency on 3rd party protocols, and the potential for total loss of funds deposited. The user accepts full liability for their usage of Harvest Finance, and no financial responsibility is placed on the protocol developers or it’s contributors.
+* **Disclaimer** - By interacting with the Harvest Finance website and/or smart contracts, the user acknowledges the experimental nature of yield farming with Harvest Finance, its dependency on 3rd party protocols, and the potential for total loss of funds deposited. The user accepts full liability for their usage of Harvest Finance, and no financial responsibility is placed on the protocol developers or it’s contributors.
 ---
 
 # Welcome
