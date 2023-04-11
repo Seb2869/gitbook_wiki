@@ -1,5 +1,4 @@
 ---
-description: >-
   Harvest Finance is a yield farming protocol that allows users to put their assets
   to work in third party protocols, and automates the compounding process for its users to acheive a true APY%.
   
