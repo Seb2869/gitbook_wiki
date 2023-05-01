@@ -4,30 +4,16 @@ description: Community Java server
 
 # Ethparser contracts API
 
-{% api-method method="get" host="http://ethparser.herokuapp.com" path="/contracts/vaults" %}
-{% api-method-summary %}
-Vaults contracts
-{% endapi-method-summary %}
+{% swagger baseUrl="http://ethparser.herokuapp.com" path="/contracts/vaults" method="get" summary="Vaults contracts" %}
+{% swagger-description %}
 
-{% api-method-description %}
+{% endswagger-description %}
 
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="network" type="string" required=false %}
+{% swagger-parameter in="path" name="network" type="string" %}
 eth or bsc
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
+{% endswagger-parameter %}
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="" %}
 ```
 {
 	"code": "200",
@@ -85,104 +71,50 @@ eth or bsc
 	]
 }
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+{% endswagger-response %}
+{% endswagger %}
 
-{% api-method method="get" host="http://ethparser.herokuapp.com" path="/contracts/pools" %}
-{% api-method-summary %}
-Pools contracts
-{% endapi-method-summary %}
+{% swagger baseUrl="http://ethparser.herokuapp.com" path="/contracts/pools" method="get" summary="Pools contracts" %}
+{% swagger-description %}
 
-{% api-method-description %}
+{% endswagger-description %}
 
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="network" type="string" required=false %}
+{% swagger-parameter in="path" name="network" type="string" %}
 eth or bsc
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
+{% endswagger-parameter %}
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="" %}
 ```
-
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+{% endswagger-response %}
+{% endswagger %}
 
-{% api-method method="get" host="http://ethparser.herokuapp.com" path="/contracts/tokens" %}
-{% api-method-summary %}
-Related Tokens Contracts
-{% endapi-method-summary %}
+{% swagger baseUrl="http://ethparser.herokuapp.com" path="/contracts/tokens" method="get" summary="Related Tokens Contracts" %}
+{% swagger-description %}
 
-{% api-method-description %}
+{% endswagger-description %}
 
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="network" type="string" required=false %}
+{% swagger-parameter in="path" name="network" type="string" %}
 eth or bsc
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
+{% endswagger-parameter %}
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="" %}
 ```
-
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+{% endswagger-response %}
+{% endswagger %}
 
-{% api-method method="get" host="http://ethparser.herokuapp.com" path="/contracts/lps" %}
-{% api-method-summary %}
-Related Liquidity Pools Contracts
-{% endapi-method-summary %}
+{% swagger baseUrl="http://ethparser.herokuapp.com" path="/contracts/lps" method="get" summary="Related Liquidity Pools Contracts" %}
+{% swagger-description %}
 
-{% api-method-description %}
+{% endswagger-description %}
 
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="network" type="string" required=false %}
+{% swagger-parameter in="path" name="network" type="string" %}
 eth or bsc
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
+{% endswagger-parameter %}
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="" %}
 ```
-
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
+{% endswagger-response %}
+{% endswagger %}

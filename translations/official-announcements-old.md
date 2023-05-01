@@ -25,7 +25,7 @@ description: >-
 * 🇮🇹 Italian: [Nuova pool da Babylon Finance](https://coirof.medium.com/nuova-pool-da-babylon-finance-bf56cf9baa91)
 * 🇯🇵 Japanese: [新しいヴァルト、注目のBabylon Finance](https://miwa-wv.medium.com/%E6%96%B0%E3%81%97%E3%81%84%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88-%E6%B3%A8%E7%9B%AE%E3%81%AEbabylon-finance-9e41d632f0c1)
 * 🇵🇹 Portuguese: [Novo Vault com Babylon Finance](https://medium.com/@Blue\_Poison/novo-vault-com-babylon-finance-630c168c20d3)
-* 🇪🇸 Spanish: **** [Nueva Bóveda em colaboración con Babylon Finance](https://c3h.medium.com/nueva-b%C3%B3veda-em-colaboraci%C3%B3n-con-babylon-finance-8f17a63489ff)
+* 🇪🇸 Spanish: [Nueva Bóveda em colaboración con Babylon Finance](https://c3h.medium.com/nueva-b%C3%B3veda-em-colaboraci%C3%B3n-con-babylon-finance-8f17a63489ff)
 * 🇹🇼 Traditional Chinese: [與 Babylon Finance 合作新資金庫](https://harvestfinance-tw.medium.com/%E8%88%87-babylon-finance-%E5%90%88%E4%BD%9C%E6%96%B0%E8%B3%87%E9%87%91%E5%BA%AB-28d2fc2c7dac)
 * 🇹🇷 Turkish: [Babylon Finance ile Yeni Kasa](https://harvestfiturkce.medium.com/babylon-finance-ile-yeni-kasa-1a6255595cb4)
 
@@ -85,7 +85,7 @@ description: >-
 * 🇵🇹 Portuguese: [Harvest se torna o principal integrador do programa de finanças B2B da Idle](https://medium.com/@Blue\_Poison/harvest-se-torna-o-principal-integrador-do-programa-de-finan%C3%A7as-b2b-da-idle-32054401d1fb)
 * 🇪🇸 Spanish: [Harvest se convierte en el principal integrador del programa B2B de finanzas de Idle](https://c3h.medium.com/harvest-se-convierte-en-el-principal-integrador-del-programa-b2b-de-finanzas-de-idle-c06a7ca81673)
 * 🇹🇼 Traditional Chinese: [Harvest 成為 Idle’s Finance B2B 項目的主要整合商](https://harvestfinance-tw.medium.com/harvest-%E6%88%90%E7%82%BA-idles-finance-b2b-%E9%A0%85%E7%9B%AE%E7%9A%84%E4%B8%BB%E8%A6%81%E6%95%B4%E5%90%88%E5%95%86-3b62691f806b)
-* 🇹🇷 Turkish: **** [Harvest, Idle Finance’ın B2B Programının Ana Entegratörü Oldu](https://harvestfiturkce.medium.com/harvest-idle-finance%C4%B1n-b2b-program%C4%B1n%C4%B1n-ana-entegrat%C3%B6r%C3%BC-oldu-e3a920922715)
+* 🇹🇷 Turkish: [Harvest, Idle Finance’ın B2B Programının Ana Entegratörü Oldu](https://harvestfiturkce.medium.com/harvest-idle-finance%C4%B1n-b2b-program%C4%B1n%C4%B1n-ana-entegrat%C3%B6r%C3%BC-oldu-e3a920922715)
 
 ### [$FARM Passive Income with Binance Staking \[For Beginners\]](https://medium.com/harvest-finance/farm-passive-income-with-binance-staking-for-beginners-5edd71e54c37) <a href="#6846" id="6846"></a>
 
@@ -276,7 +276,7 @@ description: >-
 * 🇵🇹 Portuguese: [Recapitulação: Semana 57](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-semana-57-557977339594)
 * 🇪🇸 Spanish: [Resumen de la Semana 57](https://c3h.medium.com/es-resumen-de-la-semana-57-31cc86ab8e58)
 * 🇹🇼 Traditional Chinese: [第 57 週回顧](https://harvestfinance-tw.medium.com/%E7%AC%AC-57-%E9%80%B1%E5%9B%9E%E9%A1%A7-e8ceda9c5f4)
-* 🇹🇷 Turkish: **** [Özet: 57. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-57-hafta-594f333a34e9)
+* 🇹🇷 Turkish: [Özet: 57. Hafta](https://harvestfiturkce.medium.com/%C3%B6zet-57-hafta-594f333a34e9)
 * Indonesian: [Rekap: Minggu ke-57](https://gamewatch21.medium.com/rekap-minggu-ke-57-7ef1079a26b1)
 * Serbian: [Recap: Nedelja 57](https://medium.com/@krompir12422/recap-nedelja-57-97dfda5e9aa)
 * French: [Récapitulatif de la semaine 57](https://bob-duval.medium.com/r%C3%A9capitulatif-de-la-semaine-57-d4a591b0f524)

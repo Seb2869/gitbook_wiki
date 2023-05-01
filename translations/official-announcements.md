@@ -60,9 +60,9 @@ description: >-
 * 🇵🇹 Portuguese: [Harvest 3: O Novo Recomeço](https://medium.com/@Blue\_Poison/harvest-3-o-novo-recome%C3%A7o-c14afef35f03)
 * 🇪🇸 Spanish: [Harvest 3: Un Nuevo Comienzo](https://c3h.medium.com/harvest-3-un-nuevo-comienzo-2f4bdaf1eb3b)
 * 🇹🇼 Traditional Chinese: [Harvest 3: 新的開始](https://harvestfinance-tw.medium.com/harvest-3-%E6%96%B0%E7%9A%84%E9%96%8B%E5%A7%8B-5c2ff1fd3d8c)
-* 🇹🇷 Turkish: **** [Harvest 3: Yeni Başlangıç](https://harvestfiturkce.medium.com/harvest-3-yeni-ba%C5%9Flang%C4%B1%C3%A7-70f20e47f9de)
+* 🇹🇷 Turkish: [Harvest 3: Yeni Başlangıç](https://harvestfiturkce.medium.com/harvest-3-yeni-ba%C5%9Flang%C4%B1%C3%A7-70f20e47f9de)
 
-### ****[**Harvest Recap: #5 | January 2022**](https://medium.com/harvest-finance/recap-5-february-2022-a8fe72b6d9eb)****
+### [**Harvest Recap: #5 | January 2022**](https://medium.com/harvest-finance/recap-5-february-2022-a8fe72b6d9eb)
 
 * 🇫🇷 French: [Récapitulatif Harvest : #5 | Février 2022](https://bob-duval.medium.com/r%C3%A9capitulatif-harvest-5-f%C3%A9vrier-2022-2665f8a43425)
 * 🇮🇹 Italian: [Riepilogo Harvest n. 5 | Febbraio 2022](https://coirof.medium.com/riepilogo-harvest-n-5-febbraio-2022-c1f0e8611da9)
@@ -71,7 +71,7 @@ description: >-
 * 🇵🇹 Portuguese: [Recapitulação 5 – fevereiro de 2022](https://medium.com/@Blue\_Poison/recapitula%C3%A7%C3%A3o-5-fevereiro-de-2022-8145bed16549)
 * 🇪🇸 Spanish: [Resumen de Harvest #5 — Febrero 2022](https://c3h.medium.com/resumen-5-febrero-2022-872ab33d2ee4)
 * 🇹🇼 Traditional Chinese: [Harvest 回顧 #5 | 2022 年 二月](https://harvestfinance-tw.medium.com/harvest-%E5%9B%9E%E9%A1%A7-5-2022-%E5%B9%B4-%E4%BA%8C%E6%9C%88-eb379785fe8e)
-* 🇹🇷 Turkish: **** [Harvest Özet # 5 — Şubat 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-5-%C5%9Fubat-2022-851000cfff99)
+* 🇹🇷 Turkish: [Harvest Özet # 5 — Şubat 2022](https://harvestfiturkce.medium.com/harvest-%C3%B6zet-5-%C5%9Fubat-2022-851000cfff99)
 * Indonesian: [Rekap #5 — Februari 2022](https://gamewatch21.medium.com/rekap-5-februari-2022-c889ec3ae2ec)
 * Serbian: [Recap #5 — Februar 2022](https://medium.com/@krompir12422/recap-5-februar-2022-d26f7df3666f)
 
@@ -84,7 +84,7 @@ description: >-
 * 🇵🇹 Portuguese: [Reivindique seu $FARM adquirido](https://medium.com/@Blue\_Poison/reivindique-seu-farm-adquirido-4124037d27c1)
 * 🇪🇸 Spanish: [Reclame su $FARM adquirido](https://c3h.medium.com/reclame-su-farm-adquirido-e90fa00f513e)
 * 🇹🇼 Traditional Chinese: [領取您既得的 $FARM](https://harvestfinance-tw.medium.com/%E9%A0%98%E5%8F%96%E6%82%A8%E6%97%A2%E5%BE%97%E7%9A%84-farm-bee67ea4f265)
-* 🇹🇷 Turkish: **** [Kazanılmış $FARM’ınızı Talep Edin](https://harvestfiturkce.medium.com/kazan%C4%B1lm%C4%B1%C5%9F-farm%C4%B1n%C4%B1z%C4%B1-talep-edin-b7df1bd4c307)
+* 🇹🇷 Turkish: [Kazanılmış $FARM’ınızı Talep Edin](https://harvestfiturkce.medium.com/kazan%C4%B1lm%C4%B1%C5%9F-farm%C4%B1n%C4%B1z%C4%B1-talep-edin-b7df1bd4c307)
 * Indonesian: [Klaim $FARM pribadi anda](https://gamewatch21.medium.com/klaim-farm-pribadi-anda-542bf88061d9)
 
 ### [Launching $ORC — $ETH Vault ft. Orbit Chain](https://medium.com/harvest-finance/launching-orc-eth-vault-ft-orbit-chain-5afd9041732c) <a href="#b130" id="b130"></a>

@@ -1,8 +1,8 @@
 # How to deposit and stake
 
-## Starting 
+## Starting&#x20;
 
-In this tutorial I will show how to deposit and stake a Liquidity Provider position in Harvest Finance, in the exemple I'm going to proceed with Sushiswap SUSHI-ETH, but the process of providing liquidity and stake on Harvest Finance is very similar to all other LP available.   
+In this tutorial I will show how to deposit and stake a Liquidity Provider position in Harvest Finance, in the exemple I'm going to proceed with Sushiswap SUSHI-ETH, but the process of providing liquidity and stake on Harvest Finance is very similar to all other LP available. \
 
 
 ## Sushiswap
@@ -13,12 +13,12 @@ As I have decided to specifically in this tutorial stake SUSHI-ETH on Harvest Fi
 
 
 
-Choose Sushi to pair it with Ethereum, then select the amount of tokens you want to provide for liquidity  and proceed. 
+Choose Sushi to pair it with Ethereum, then select the amount of tokens you want to provide for liquidity  and proceed.&#x20;
 
 ![](../../.gitbook/assets/wiki-1.jpg)
 
-  
-After that, your Metamask will ask your permission for Sushiswap be allowed to manage the tokens provided, accept this transaction in order to proceed. After that, confirm the LP transaction.  
+\
+After that, your Metamask will ask your permission for Sushiswap be allowed to manage the tokens provided, accept this transaction in order to proceed. After that, confirm the LP transaction.\
 
 
 ![](../../.gitbook/assets/wiki-2.jpg)
@@ -29,27 +29,25 @@ After providing Liquidity on Sushiswap, let's continue on [Harvest Finance](http
 
 ![](../../.gitbook/assets/wiki-3.jpg)
 
-A transaction asking your permission for Harvest Finance manage your LP tokens will appear, confirm this transaction and  also accept the deposit transaction after that.   
-  
+A transaction asking your permission for Harvest Finance manage your LP tokens will appear, confirm this transaction and  also accept the deposit transaction after that. \
+\
 
 
 ![](../../.gitbook/assets/wiki-4.jpg)
 
-Good, the Sushi LP is now deposited on Harvest Finance for auto compounding, but it can be even better, I can stake it and enjoy extra rewards. 
+Good, the Sushi LP is now deposited on Harvest Finance for auto compounding, but it can be even better, I can stake it and enjoy extra rewards.&#x20;
 
 ![](../../.gitbook/assets/wiki-6.jpg)
 
-As I did in the step before, it will also be needed to confirm both permission and stake transactions  
+As I did in the step before, it will also be needed to confirm both permission and stake transactions\
 
 
 ![The tractors goes brrrrrrrrr](../../.gitbook/assets/wiki-brrrrr.jpg)
 
-Finally your Sushi LP is staked, auto compounding and earning FARM rewards. 
+Finally your Sushi LP is staked, auto compounding and earning FARM rewards.&#x20;
 
-## Resources 
+## Resources&#x20;
 
-You can also check a great [tutorial ](https://www.youtube.com/watch?v=9kxPiPj9sFc)made by a community member to see how to deposit and withdraw single assets. \(Credits to [Coinstruct](https://www.youtube.com/channel/UCywRgYh3qQ45savdWcY9o0A)\)
+You can also check a great [tutorial ](https://www.youtube.com/watch?v=9kxPiPj9sFc)made by a community member to see how to deposit and withdraw single assets. (Credits to [Coinstruct](https://www.youtube.com/channel/UCywRgYh3qQ45savdWcY9o0A))
 
-  
-
-
+\

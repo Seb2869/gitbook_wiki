@@ -12,7 +12,7 @@ Harvest has deployed timelocks on all vaults that function as follows:
 
 1. If the devs wish to change the investing strategy, they must first deploy the new strategy to the blockchain.
 2. Next they "announce" the strategy change, which emits a web3 event that can be read by chainwatching bots.
-3. Users have a specified amount of time \(currently 12 hours\) to examine the new contract and withdraw funds if they wish to opt out.
+3. Users have a specified amount of time (currently 12 hours) to examine the new contract and withdraw funds if they wish to opt out.
 4. Any time after the specified period has elapsed, the deployer may choose to either accept or reject the strategy change.
 
 The primary function of timelocks is to protect investors from malicious strategies attempting to steal funds.
@@ -34,5 +34,4 @@ While timelocks can play a big role in protecting funds from malicious or compro
 
 The current 12 hour duration of timelocks was selected on 9/15/2020 by the harvest community as a compromise between the risks and benefits of timelocks via a farmer's market discord poll:
 
-![](../../../.gitbook/assets/image%20%283%29.png)
-
+![](<../../../.gitbook/assets/image (2).png>)

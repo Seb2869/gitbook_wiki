@@ -48,8 +48,6 @@
 
 ## Other
 
-***
-
 * [Community Apps](community-apps-1.md)
 * [Builders](builders.md)
 * [Articles](articles/README.md)
@@ -57,6 +55,7 @@
   * [Core Team](articles/core-team.md)
   * [Podcasts](articles/podcasts.md)
   * [Redmption's Farmers Almanac](articles/redmptions-farmers-almanac.md)
+* [🎨 Media Kit](other/media-kit.md)
 * [Translations](translations/README.md)
   * [Official announcements](translations/official-announcements.md)
   * [Official announcements (old)](translations/official-announcements-old.md)
@@ -66,8 +65,6 @@
 * [Collabs](collabs.md)
 
 ## Archive
-
-***
 
 * [Archived](archived/README.md)
   * [fCASH](archived/fcash.md)

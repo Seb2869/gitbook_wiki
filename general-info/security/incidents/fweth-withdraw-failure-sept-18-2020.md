@@ -27,20 +27,20 @@ Around 14:00 UTC, Discord administrator and development team member `Bread for t
 
 Around 16:00 UTC, `Bread for the People` announced that the Harvest and CREAM teams had a plan to restore the funds:
 
-> ![&#x1F391;](https://farm.chainwiki.dev/_assets/svg/twemoji/1f391.svg) Working together with the CREAM team, we have a plan to restore peace and harmony to the WETH Farm. ![&#x1F391;](https://farm.chainwiki.dev/_assets/svg/twemoji/1f391.svg) ![&#x1F468;&#x200D;&#x1F33E;](https://farm.chainwiki.dev/_assets/svg/twemoji/1f468-200d-1f33e.svg) Users do not need to do anything, the strategy will be updated with the fix. After that, all values will be double-checked, and then withdrawals will be re-enabled.
+> ![🎑](https://farm.chainwiki.dev/\_assets/svg/twemoji/1f391.svg) Working together with the CREAM team, we have a plan to restore peace and harmony to the WETH Farm. ![🎑](https://farm.chainwiki.dev/\_assets/svg/twemoji/1f391.svg) ![👨‍🌾](https://farm.chainwiki.dev/\_assets/svg/twemoji/1f468-200d-1f33e.svg) Users do not need to do anything, the strategy will be updated with the fix. After that, all values will be double-checked, and then withdrawals will be re-enabled.
 
 Around 17:00 UTC, `Bread for the People` announced that the WETH had been recovered:
 
-> Update: crWETH from the CREAM strategy has been successfully redeemed to WETH.  
-> ![&#x1F468;&#x200D;&#x1F33E;](https://farm.chainwiki.dev/_assets/svg/twemoji/1f468-200d-1f33e.svg) Users do not need to do anything, all values will be double-checked once the strategy is updated with the fix, and then withdrawals will be re-enabled.
+> Update: crWETH from the CREAM strategy has been successfully redeemed to WETH.\
+> ![👨‍🌾](https://farm.chainwiki.dev/\_assets/svg/twemoji/1f468-200d-1f33e.svg) Users do not need to do anything, all values will be double-checked once the strategy is updated with the fix, and then withdrawals will be re-enabled.
 
 Around 19:00 UTC, `Bread for the People` announced that the incident was resolved:
 
-> ![&#x1F391;](https://farm.chainwiki.dev/_assets/svg/twemoji/1f391.svg) Peace and harmony has been restored to the WETH Farm. ![&#x1F391;](https://farm.chainwiki.dev/_assets/svg/twemoji/1f391.svg)  
-> ![&#x2705;](https://farm.chainwiki.dev/_assets/svg/twemoji/2705.svg) fWETH balances have been restored.  
-> ![&#x2705;](https://farm.chainwiki.dev/_assets/svg/twemoji/2705.svg) Withdrawals have been re-enabled.  
-> ![&#x2705;](https://farm.chainwiki.dev/_assets/svg/twemoji/2705.svg) All WETH Farm participants are in profit.  
-> ![&#x1F468;&#x200D;&#x1F33E;](https://farm.chainwiki.dev/_assets/svg/twemoji/1f468-200d-1f33e.svg) Thanks to the excellent Cream team and the prolific Andre Cronje for helping out.
+> ![🎑](https://farm.chainwiki.dev/\_assets/svg/twemoji/1f391.svg) Peace and harmony has been restored to the WETH Farm. ![🎑](https://farm.chainwiki.dev/\_assets/svg/twemoji/1f391.svg)\
+> ![✅](https://farm.chainwiki.dev/\_assets/svg/twemoji/2705.svg) fWETH balances have been restored.\
+> ![✅](https://farm.chainwiki.dev/\_assets/svg/twemoji/2705.svg) Withdrawals have been re-enabled.\
+> ![✅](https://farm.chainwiki.dev/\_assets/svg/twemoji/2705.svg) All WETH Farm participants are in profit.\
+> ![👨‍🌾](https://farm.chainwiki.dev/\_assets/svg/twemoji/1f468-200d-1f33e.svg) Thanks to the excellent Cream team and the prolific Andre Cronje for helping out.
 
 Recovery transactions:
 
@@ -49,4 +49,3 @@ Recovery transactions:
 * [all WETH is moved from fWETH to an intermediate recovery strategy contract](https://etherscan.io/address/0x26d3e02999beffaeb07af3a94438769df0ee4150#tokentxns)
 * [4,295 WETH from failed withdrawals are pooled for return to their 11 owners](https://etherscan.io/address/0x23b6c1f600111895cc4536d070eb35660500d670#tokentxns)
 * [85,271 WETH is returned to the fWETH contract and fWETH strategy switched to safewithdrawal contract](https://etherscan.io/tx/0x706068b557f9b61a3780f357daf0f6b710d80db86fec72aaae003b4a8110af1d)
-
